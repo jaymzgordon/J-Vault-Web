@@ -3,6 +3,7 @@ type: project
 aliases:
   - Ibanez RGA121 Rebuild Post-Mortem
 modified: 2025-05-20
+created: 2025-05-17
 day: 
 ---
 My most recent project has been a rebuild of one of my battered-and-bruised old gigging guitars and I wanted to put together a little post-mortem of the project and capture everything I learned along the way in case I ever need it in the future. Maybe others will find pieces of it useful too. 
