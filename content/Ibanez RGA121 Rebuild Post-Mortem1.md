@@ -2,7 +2,7 @@
 type: project
 aliases:
   - Ibanez RGA121 Rebuild Post-Mortem
-modified: 2025-05-20
+modified: 2025-05-19
 day: 
 ---
 # Ibanez RGA121 Rebuild Post-Mortem
@@ -15,16 +15,14 @@ I'm a bumbling amateur when it comes to this type of thing (guitar maintenance, 
 Here's a quick look at the finished guitar:
 ![](attachment/543dad87284bb175efceac8df0dd00b2.jpg)
 
-Decadence Dance - Extreme quick playthrough clip: https://youtu.be/KJlCYcAO6nE
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KJlCYcAO6nE?si=Wac_Nudn-4qtQ_XX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Decadence Dance - Extreme quick playthrough clip:
+https://youtu.be/KJlCYcAO6nE
 
 ## History
 I bought this beautiful Ibanez RGA121 fifteen years ago and played it all over the country with a bunch of bands (and even on a few gigs in Europe), it was my main instrument for a lot of the later [Head 13](https://head13.bandcamp.com/) stuff.
 
-- 'No Excuse' video: https://youtu.be/cod1Y1r0bo0?si=anhrZhq96SV4G5Nn
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cod1Y1r0bo0?si=P-Ybh095FVvxVLKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-- Guitar solo from 'Skulduggery': https://youtu.be/0Exx4mGYczk?si=KzR17fEqnR4SVIwc
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Exx4mGYczk?si=aUEU3NRuGDC4JVph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+'No Excuse' video: https://youtu.be/cod1Y1r0bo0?si=anhrZhq96SV4G5Nn
+Guitar solo from 'Skulduggery': https://youtu.be/0Exx4mGYczk?si=KzR17fEqnR4SVIwc
 
 Along the way it got a little banged up and the 'violin' finish it came with started to look tatty. Add to that, the wiring job I did when I first installed the new pickups not being great, a chunk taken out of the fretboard courtesy of my clumsiness, plus some very worn frets, and the whole guitar was in need of some TLC.
 
@@ -77,7 +75,7 @@ I sanded the body and back of the neck to 320 grit then got distracted by other 
 ## Refinishing
 After attempting something similar once before (nearly 20 years ago on an Ibanez RG548) with nitrocellulose lacquer and making a million mistakes (have I mentioned that I really don't know what I'm doing?), I wanted a simpler finish this time that would still look nice.
 
-I saw a few videos from [Crimson Guitars](https://www.crimsonguitars.com/) (specifically, [this one](https://youtu.be/qIWN5WwrVzI?si=PqPIpwnSK-hmanFT&t=1069)) where they used an oil finish that looked both fantastic and easy to apply, so I ordered some of their:
+I saw a few videos from [Crimson Guitars](https://www.crimsonguitars.com/) (specifically, this one: https://youtu.be/qIWN5WwrVzI?si=PqPIpwnSK-hmanFT&t=1069) where they used an oil finish that looked both fantastic and easy to apply, so I ordered some of their:
 - [Penetrating Guitar Finishing Oil](https://www.crimsonguitars.com/products/penetrating-guitar-finishing-oil?_pos=1&_sid=3921456b1&_ss=r)
 - [High Build Guitar Finishing Oil](https://www.crimsonguitars.com/products/high-build-guitar-finishing-oil?_pos=2&_sid=3921456b1&_ss=r)
 
@@ -104,9 +102,7 @@ However, the new super switch I ordered barely fit into the shallow depth of the
 
 And so it sat, for years, unused.
 
-Occasionally, I would pull it out and remember how much I enjoyed playing it. Such as when I attempted to learn 'Scarified' by Paul Gilbert/Racer X on it back in 2017:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AkPsq2x9Y74?si=rjNH1vYim7yznnIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Occasionally, I would pull it out and remember how much I enjoyed playing it. Such as when I attempted to learn 'Scarified' by Paul Gilbert/Racer X on it back in 2017: https://youtu.be/AkPsq2x9Y74?si=TdxEjHLt_m8EHSe8
 
 In order to bring the beast back to life I decided to redo the wiring to return it to as close to the way as it came out of the factory as I could.
 
@@ -133,10 +129,10 @@ _Lesson_: Don't assume, check.
 Turns out my assumption that pickup manufacturers would use a standard for colour-coding their wires was wildly wrong. I should have remembered this from the last time I wired this up, but Bare Knuckle and Ibanez are definitely not the same.
 
 Bare Knuckle wiring:
-- ![](attachment/cd937bbb0f6fd02146ac4170e8ca1647.png)
+![](attachment/cd937bbb0f6fd02146ac4170e8ca1647.png)
 
 Everyone else's wiring:
-- ![](attachment/9d9608f8ee7367b2940856c002e2e0cf.jpg)
+![](attachment/9d9608f8ee7367b2940856c002e2e0cf.jpg)
 
 
 So, after a couple of failed attempts, here's the wiring chart I used to make everything line up:
