@@ -5,7 +5,6 @@ aliases:
 modified: 2025-05-20
 day: 
 ---
-# Ibanez RGA121 Rebuild Post-Mortem
 My most recent project has been a rebuild of one of my battered-and-bruised old gigging guitars and I wanted to put together a little post-mortem of the project and capture everything I learned along the way in case I ever need it in the future. Maybe others will find pieces of it useful too. 
 
 I also want to get into the habit of reflecting on projects in a more concrete way once they're done as such reflexivity a vital part of how we develop our skills and improve the things we make and do.
@@ -15,16 +14,16 @@ I'm a bumbling amateur when it comes to this type of thing (guitar maintenance, 
 Here's a quick look at the finished guitar:
 ![](attachment/543dad87284bb175efceac8df0dd00b2.jpg)
 
-Decadence Dance - Extreme quick playthrough clip: https://youtu.be/KJlCYcAO6nE
+Decadence Dance - Extreme quick playthrough clip:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KJlCYcAO6nE?si=Wac_Nudn-4qtQ_XX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## History
 I bought this beautiful Ibanez RGA121 fifteen years ago and played it all over the country with a bunch of bands (and even on a few gigs in Europe), it was my main instrument for a lot of the later [Head 13](https://head13.bandcamp.com/) stuff.
 
-- 'No Excuse' video: https://youtu.be/cod1Y1r0bo0?si=anhrZhq96SV4G5Nn
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cod1Y1r0bo0?si=P-Ybh095FVvxVLKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-- Guitar solo from 'Skulduggery': https://youtu.be/0Exx4mGYczk?si=KzR17fEqnR4SVIwc
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Exx4mGYczk?si=aUEU3NRuGDC4JVph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- 'No Excuse' video:
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/cod1Y1r0bo0?si=P-Ybh095FVvxVLKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- Guitar solo from 'Skulduggery':
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/0Exx4mGYczk?si=aUEU3NRuGDC4JVph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Along the way it got a little banged up and the 'violin' finish it came with started to look tatty. Add to that, the wiring job I did when I first installed the new pickups not being great, a chunk taken out of the fretboard courtesy of my clumsiness, plus some very worn frets, and the whole guitar was in need of some TLC.
 
@@ -41,18 +40,18 @@ Ibanez Prestige RGA121 VLF (violin flat) [2005]
 
 (original specs)
 
-_Body_: Arched-top, mahogany body with maple top
-_Neck_: Wizard Prestige neck (AANJ, 5-piece maple/walnut), 24 fret, rosewood fingerboard, small dot position markers
-_Pickups_: HH, Ibanez V8/V7 (four conductor wiring)
-_Bridge_: Gibraltar Plus fixed bridge
-_Scale Length_: 25.5"
-_Machine Heads/Tuners_: Gotoh SG381
+- _Body_: Arched-top, mahogany body with maple top
+- _Neck_: Wizard Prestige neck (AANJ, 5-piece maple/walnut), 24 fret, rosewood fingerboard, small dot position markers
+- _Pickups_: HH, Ibanez V8/V7 (four conductor wiring)
+- _Bridge_: Gibraltar Plus fixed bridge
+- _Scale Length_: 25.5"
+- _Machine Heads/Tuners_: Gotoh SG381
 
 (upgraded specs)
 
-_Finish_: Natural oil finish (Crimson Guitars Penetrating Oil and then High-Build Oil)
-_Pickups_: HH, Bare Knuckle Nailbombs (matched set, zebra bobbins)
-_Machine Heads/Tuners_: Sperzel Trim-Lok
+- _Finish_: Natural oil finish (Crimson Guitars Penetrating Oil and then High-Build Oil)
+- _Pickups_: HH, Bare Knuckle Nailbombs (matched set, zebra bobbins)
+- _Machine Heads/Tuners_: Sperzel Trim-Lok
 
 
 ## Stripping it Back
