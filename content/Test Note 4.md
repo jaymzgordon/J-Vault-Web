@@ -1,5 +1,5 @@
 ---
-title: "Test Note 3"
+title: "Test Note 4"
 draft: false
 modified: 2025-05-21
 created: 2025-05-21
@@ -8,4 +8,4 @@ tags:
 ---
 Test to see if new E: drive location for Quartz is working.
 
-Link to [[2024 Year in Review]] and [[Ibanez RGA121 Rebuild Post-Mortem]] pages to see if that works, too.
+Working fine on new drive. Going to delete/archive the C: drive version.
