@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "jaymzgordon.github.io/J-Vault-Web",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    generateSocialImages: true,
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

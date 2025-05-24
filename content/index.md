@@ -1,6 +1,6 @@
 ---
 title: Welcome
-modified: 2025-05-24
+modified: 2025-05-21
 ---
 - Home: [James Gordon Music](https://jamesgordonmusic.com/)
 - Links: [jamesgordon | Twitter, Instagram, Facebook | Linktree](https://linktr.ee/jamesgordon)
@@ -19,3 +19,5 @@ Sharing my whole second brain would be a bit much (my personal vault is 4000 not
 
 ![[Pasted image 20250524151006.png]]
 - A visual graph of the the various notes and connections in my second brain
+
+J.
