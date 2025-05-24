@@ -1,11 +1,11 @@
 ---
-title: Welcome to the online vault for jamesgordonmusic.com
+title: James Gordon's Second Brain
 modified: 2025-05-24
 ---
-Home: [James Gordon Music](https://jamesgordonmusic.com/)
-Links: [jamesgordon | Twitter, Instagram, Facebook | Linktree](https://linktr.ee/jamesgordon)
+- Home: [James Gordon Music](https://jamesgordonmusic.com/)
+- Links: [jamesgordon | Twitter, Instagram, Facebook | Linktree](https://linktr.ee/jamesgordon)
 
-Here are the various posts and notes I've been working on recently.
+Welcome to the various posts and notes I've been working on recently.
 
 Most of my research notes, blog posts, second brain, random mind dumps are done in [Obsidian](https://obsidian.md/). These markdown files are a quick and easy way to connect ideas, organise my thoughts, figure out what I'm trying to say, etc.
 
