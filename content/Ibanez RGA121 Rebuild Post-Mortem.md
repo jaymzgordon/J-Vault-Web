@@ -2,10 +2,10 @@
 type: project
 aliases:
   - Ibanez RGA121 Rebuild Post-Mortem
-modified: 2025-05-20
-created: 2025-05-17
+modified: 2025-05-24
 day: 
 ---
+# Ibanez RGA121 Rebuild Post-Mortem
 My most recent project has been a rebuild of one of my battered-and-bruised old gigging guitars and I wanted to put together a little post-mortem of the project and capture everything I learned along the way in case I ever need it in the future. Maybe others will find pieces of it useful too. 
 
 I also want to get into the habit of reflecting on projects in a more concrete way once they're done as such reflexivity a vital part of how we develop our skills and improve the things we make and do.
@@ -13,7 +13,7 @@ I also want to get into the habit of reflecting on projects in a more concrete w
 I'm a bumbling amateur when it comes to this type of thing (guitar maintenance, refinishing, woodwork, electronics, setups, etc.) but I had fun putting this together.
 
 Here's a quick look at the finished guitar:
-![](attachment/543dad87284bb175efceac8df0dd00b2.jpg)
+![](attachment/2a6ccc18c2ceb2bacfc432b1291bfa6e.jpeg)
 
 Decadence Dance - Extreme quick playthrough clip:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KJlCYcAO6nE?si=Wac_Nudn-4qtQ_XX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
