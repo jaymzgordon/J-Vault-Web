@@ -5,8 +5,6 @@ aliases: ["2024 Year in Review"]
 created: '[[2024-12-29]]'
 modified: 2024-12-31
 ---
-# 2024 Year in Review
-
 I've been meaning to write one of these for the past few years. It's easy to lose track of all the stuff I've worked on and completed and planned as the weeks and months blur past.
 
 I often come skidding into the new year bewildered and wondering what happened these last 12 months – it was just January two minutes ago! – and now my back hurts and there's all this unfinished (and occasionally finished) crap hanging around on my hard drive. It's tough to be mindful of all the effort and struggle and work I've put into various projects and I find it easy to focus on the things I didn't do, the projects that I put on the back burner, the promises I broke, and the tasks I failed at. Instead of berating myself for not living up to some impossible ideal, I thought I'd try and celebrate the wins instead.

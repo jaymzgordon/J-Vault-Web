@@ -5,7 +5,6 @@ aliases:
 modified: 2025-05-24
 day: 
 ---
-# Ibanez RGA121 Rebuild Post-Mortem
 My most recent project has been a rebuild of one of my battered-and-bruised old gigging guitars and I wanted to put together a little post-mortem of the project and capture everything I learned along the way in case I ever need it in the future. Maybe others will find pieces of it useful too. 
 
 I also want to get into the habit of reflecting on projects in a more concrete way once they're done as such reflexivity a vital part of how we develop our skills and improve the things we make and do.
