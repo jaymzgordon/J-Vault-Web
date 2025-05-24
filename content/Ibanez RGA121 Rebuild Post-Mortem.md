@@ -160,4 +160,6 @@ So, after a couple of failed attempts, here's the wiring chart I used to make ev
 ## Conclusion
 This was a project that was out of my comfort zone. From woodwork to fret dressing to pickup wiring, I am very much a lost beginner. That being said, I'm incredibly pleased with how the guitar turned out. It went from an instrument that sat unused and unloved in my spare room to one that makes me want to play it every time I look at it.
 
-I learned a bunch of things (mainly about being impatient and making assumptions, lessons I keep having to relearn in many painful permutations) and am glad I finally got it finished after so long.
+I learned a bunch of things (mainly about being impatient and making assumptions, lessons I keep having to relearn in many painful permutations) and am glad I finally got it finished after so long
+
+J.

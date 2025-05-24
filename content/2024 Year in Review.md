@@ -123,4 +123,4 @@ Finally, some of my favourite pictures from the year. I don't take a lot of phot
 ![](attachment/e546cf7e92a77a9aaaefb48661935cb4.png)
 
 
-
+J.
