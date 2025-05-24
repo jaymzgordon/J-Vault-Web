@@ -1,5 +1,5 @@
 ---
-title: James Gordon's Second Brain
+title: Welcome
 modified: 2025-05-24
 ---
 - Home: [James Gordon Music](https://jamesgordonmusic.com/)
