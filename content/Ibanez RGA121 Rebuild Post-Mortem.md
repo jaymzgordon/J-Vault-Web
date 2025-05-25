@@ -1,7 +1,5 @@
 ---
 type: project
-aliases:
-  - Ibanez RGA121 Rebuild Post-Mortem
 modified: 2025-05-24
 day: 
 ---

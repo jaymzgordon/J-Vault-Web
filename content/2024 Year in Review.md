@@ -1,7 +1,6 @@
 ---
 type: 
 tags: 
-aliases: ["2024 Year in Review"]
 modified: 2024-12-31
 ---
 I've been meaning to write one of these for the past few years. It's easy to lose track of all the stuff I've worked on and completed and planned as the weeks and months blur past.
