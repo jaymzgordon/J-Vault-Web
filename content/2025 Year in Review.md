@@ -15,7 +15,7 @@ Back again for another whistle-stop tour of the last twelve months, mainly to re
 
 I've split the review up into three categories - music, academia, personal - and then added some ideas about what I'll be working on in 2026 to the end.
 
-For a look back at what I was doing last year, check out: https://jamesgordonmusic.com/blog/2024-year-in-review ([[2024 Year in Review]])
+For a look back at what I was doing last year, check out: [[2024 Year in Review]]
 
 ## Music
 - Finished and prepped _Sins_ album for release
