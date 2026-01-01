@@ -98,6 +98,7 @@ As a massive Evertonian, it's been a rough few years. Things seem to be looking 
 
 ![](attachment/d4780812d6297f69f9eacb04d69a61f0.jpeg)
 - A last photo of the Grand Old Lady
+
 ![](attachment/a8d372ffc021b24b8256b989413d198b.jpeg)
 - A first photo of the phenomenal Hill Dickinson stadium
 
@@ -114,6 +115,7 @@ Finally, there was a rare recent sighting of me on stage as I depped in for my o
 20 years ago, I was also on stage with my old band Nion Maiden (an Iron Maiden tribute band, obviously) having a blast. This clip resurfaced on Facebook this year and reminded me of how much fun I had playing live. So, not strictly something that happened in 2025, but a nice reminder of the good old days.
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=458&href=https%3A%2F%2Fwww.facebook.com%2Fjaymzgordon%2Fvideos%2F10212701256780834%2F&show_text=false&width=560&t=0" width="560" height="458" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 - Nion Maiden playing a snippet of 'Revelations' with some fantastic lead guitar harmony and crowd interaction
 
 ## Coming In 2026
