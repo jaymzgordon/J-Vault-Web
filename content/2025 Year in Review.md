@@ -84,7 +84,7 @@ My specific bio is here: https://www.academyofmusic.ac.uk/james-gordon-2/)
 
 2025 turned out to be a tough old year in the end on a personal front. I dealt with some long-standing health issues, felt like a zombie for a couple of months around my birthday thanks to the drugs I was on, and wrestled with a kidney stone the size of a small moon.
 
-Some fun things did happen though. First, I finally found time to rebuild my battered old Ibanez Prestige RGA121. Check out this full post I wrote about the process if you want more detail: [Ibanez RGA121 Rebuild Post-Mortem](https://vault.jamesgordonmusic.com/Ibanez-RGA121-Rebuild-Post-Mortem).
+Some fun things did happen though. First, I finally found time to rebuild my battered old Ibanez Prestige RGA121. Check out this full post I wrote about the process if you want more detail: [[Ibanez RGA121 Rebuild Post-Mortem]].
 
 ![](attachment/2a6ccc18c2ceb2bacfc432b1291bfa6e.jpeg)
 
