@@ -1,14 +1,12 @@
 ---
-type:
+type: note
 tags:
 aliases:
 created: 2025-12-31
-modified: 2026-01-01
+modified: 2026-01-02
 date: "[[2025-12-31]]"
 parent:
 ---
-# 2025 Year in Review
-
 ![](attachment/d34f6a2b1ce1d26633bb57eff5bec806.jpg)
 
 Back again for another whistle-stop tour of the last twelve months, mainly to remind myself that I haven't just been idling away my time in endless procrastination. The self-flagellation kicks in hard around this time of year as I take a break and look back at all the things I wanted to do but didn't find the time or energy for. So, in an effort to cut myself some slack, it's nice to put all my 'wins' in one place.
@@ -72,7 +70,7 @@ I gave a presentation at The University of Nottingham's colloquium on Musical Cr
 
 In amongst all of this, I did some peer review work for an academic journal and learned a lot from the process. Things that will come in handy as I start to publish some of my own work next year (again, see 'Coming in 2026' for more details).
 
-I also started to work as a PhD Mentor and second supervisor for our new cohort of PhD students at The Academy of Music and Sound (check out: https://www.academyofmusic.ac.uk/our-courses/phd-music-sound/ for more details and a list of the talented colleagues I work with. 
+I also started to work as a PhD Mentor and second supervisor for our new cohort of PhD students at The Academy of Music and Sound (check out: https://www.academyofmusic.ac.uk/our-courses/phd-music-sound/ for more details and a list of the talented colleagues I work with). 
 
 My specific bio is here: https://www.academyofmusic.ac.uk/james-gordon-2/)
 
@@ -134,7 +132,7 @@ I've got some peer-reviewed writing forthcoming in various publications - includ
 Once _Sins_ has been released (January 16th), I'll be turning my attention to the double album I wrote and recorded as part of my PhD. This is pretty much finished, barring some mastering. I want to add back two or three tracks that I had to remove from the PhD submission due to time constraints and I also want to release some of the songs as singles, so I'll be aiming for a summer release of the two albums, I think.
 
 ### Covers & Videos
-I've got a mini-album/EP'ss worth of covers and videos that I want to record if I get some time. The amount of work required means that I've been putting this stuff on the back burner but I do enjoy it so, hopefully, this year I'll be able to carve out some time to work on them. No guarantees though.
+I've got a mini-album/EP's worth of covers and videos that I want to record if I get some time. The amount of work required means that I've been putting this stuff on the back burner but I do enjoy it so, hopefully, this year I'll be able to carve out some time to work on them. No guarantees though.
 
 ### Band Stuff
 Best laid plans went awry last year and, again, I'm pushed for free time this year. But I do miss being on stage and being part of a band, so will be looking to get back at it in 2026.
