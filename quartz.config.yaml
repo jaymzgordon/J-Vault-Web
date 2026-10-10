@@ -212,6 +212,8 @@ plugins:
     enabled: true
     options:
       limit: 5
+      # v4 didn't list the generated tag pages
+      hideTagPages: true
     layout:
       position: left
       priority: 40
