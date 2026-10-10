@@ -18,6 +18,8 @@ export const NotFoundPageType: QuartzPageTypePlugin = () => ({
       description: notFound,
       frontmatter: { title: notFound, tags: [] },
     })
+    // Keep the 404 page out of page listings such as Recent Notes
+    ;(vfile.data as { unlisted?: boolean }).unlisted = true
 
     return [
       {
