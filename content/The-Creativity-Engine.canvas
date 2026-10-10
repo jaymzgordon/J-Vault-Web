@@ -582,30 +582,6 @@
 			"toSide": "left"
 		},
 		{
-			"id": "516e46443f13600a",
-			"fromNode": "25181e1816bdc2d8",
-			"fromSide": "right",
-			"toNode": "cdc8ff8615a9e121",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
-			"id": "739622a2b4ddd68f",
-			"fromNode": "cdc8ff8615a9e121",
-			"fromSide": "right",
-			"toNode": "e9216e137330ec29",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
-			"id": "b647b1516c91600d",
-			"fromNode": "e9216e137330ec29",
-			"fromSide": "right",
-			"toNode": "d0ffe6b554e23565",
-			"toSide": "left",
-			"color": "6"
-		},
-		{
 			"id": "139dc1dbdb460da9",
 			"fromNode": "72ad9c41226f03f6",
 			"fromSide": "right",
@@ -642,13 +618,6 @@
 			"toSide": "right"
 		},
 		{
-			"id": "b42eff9bb397d706",
-			"fromNode": "519cc16e4a462a3e",
-			"fromSide": "bottom",
-			"toNode": "28ff43b48618b778",
-			"toSide": "left"
-		},
-		{
 			"id": "3e4d8871245a4590",
 			"toFloating": false,
 			"fromNode": "4ae147ec1d4e91fc",
@@ -679,30 +648,6 @@
 		"version": "1.0-1.0"
 	},
 	"nodes": [
-		{
-			"id": "f859011b56aaf19b",
-			"styleAttributes": {},
-			"text": "## GENERATION | IMPLEMENT\n",
-			"type": "text",
-			"zIndex": 1,
-			"x": 2940,
-			"y": -2960,
-			"width": 160,
-			"height": 1400,
-			"color": "6"
-		},
-		{
-			"id": "089b0be72fc39a7c",
-			"styleAttributes": {},
-			"text": "## EVALUATION | VERIFY\n",
-			"type": "text",
-			"zIndex": 291,
-			"x": -3000,
-			"y": 1360,
-			"width": 60,
-			"height": 1400,
-			"color": "6"
-		},
 		{
 			"id": "fea3bbad47d78302",
 			"styleAttributes": {
@@ -2138,39 +2083,6 @@
 			"height": 320
 		},
 		{
-			"id": "74b9e5a25bb7918a",
-			"styleAttributes": {},
-			"text": "#### EVALUATION | PLAY\n",
-			"type": "text",
-			"x": 2940,
-			"y": 1360,
-			"width": 160,
-			"height": 1400,
-			"color": "4"
-		},
-		{
-			"id": "50fc30151123b24f",
-			"styleAttributes": {},
-			"text": "## ITERATION | REFINE\n",
-			"type": "text",
-			"x": 3680,
-			"y": -80,
-			"width": 160,
-			"height": 1400,
-			"color": "6"
-		},
-		{
-			"id": "6544e12cb60de456",
-			"styleAttributes": {},
-			"text": "#### ITERATION | DEVELOP\n",
-			"type": "text",
-			"x": 3680,
-			"y": -1520,
-			"width": 160,
-			"height": 1400,
-			"color": "4"
-		},
-		{
 			"id": "d8f8bebc65542e29",
 			"styleAttributes": {
 				"textAlign": "center"
@@ -2194,28 +2106,6 @@
 			"height": 320
 		},
 		{
-			"id": "5673a094c6335a98",
-			"styleAttributes": {},
-			"text": "#### GENERATION | IDEATE\n",
-			"type": "text",
-			"x": -3000,
-			"y": -2960,
-			"width": 160,
-			"height": 1400,
-			"color": "4"
-		},
-		{
-			"id": "4a5b613f383ebdf7",
-			"styleAttributes": {},
-			"text": "#### PREPARATION | GATHER\n",
-			"type": "text",
-			"x": -3740,
-			"y": -80,
-			"width": 160,
-			"height": 1400,
-			"color": "4"
-		},
-		{
 			"id": "7567c59a5da13994",
 			"styleAttributes": {},
 			"text": "NOTES\n>\n- _Challenge Assumptions_: Attribute List | Soften Walls (consider that attributes aren't set in stone) | Suggest Alternatives (for attributes) | Combine Alternatives\n- _Morphological Analysis_: State problem broadly | Define independent variables | Plot each variable as an axis on a chart\n- _Problem Definition_: Identify Problem / Goal | Structure Problem (identify & connect elements / beliefs, min/max) | Define Parameters (visualise concept space, objects, processes) | Solution Alternatives (list extant solutions)\n- _Analogical Reasoning_: mapping source elements (familiar) to target (less familiar). Structural mapping (keeps conceptual skeleton), isomorphs\n- \"Creative insights often occur when a problem is discovered or defined\" (Runco & Sakamoto 1999, p.84). Limitations and restrictions drive creative cognition and define our individual style (Kozbelt 2019, p.122).\t",
@@ -2224,17 +2114,6 @@
 			"y": -1160,
 			"width": 700,
 			"height": 320
-		},
-		{
-			"id": "d8c4b45438254c4e",
-			"styleAttributes": {},
-			"text": "## PREPARATION | SPECIFY\n",
-			"type": "text",
-			"x": -3740,
-			"y": -1520,
-			"width": 160,
-			"height": 1400,
-			"color": "6"
 		},
 		{
 			"id": "e5a06a7a0253a644",
@@ -3167,90 +3046,14 @@
 			"color": "5"
 		},
 		{
-			"id": "969d3f629876e407",
-			"styleAttributes": {},
-			"text": "###  CANTOMETRIC CHARACTER \n1. _Vocables_ - 1-5 (few-many)\n2. _Interval size_ - 1-2 (small-large)\n3. _Enunciation_ - 1-5 (precise-slurred)\n4. _Instrument-voice relation_ - a-f (a cappella-interlock)\n5. _Instrumental response_ - a-e (solo-interlock)\n6. _Instrumental texture_ - a-d (a cappella-multipart)]\n7. _Instrumental rhythmic blend_ - 1-5 (individualised-unified)\n8. _Instrumental rhythmic texture_ - a-e (a cappella-polyrhythmic)\n9. _Volume_ - 1-3 (loud-soft)\n10. _Register_ - 1-3 (high-low)\n11. _Accent_ - 1-3 (forceful-relaxed)\n12. _Solo/group arrangement_ - a-d (solo-group dominated)\n13. _Vocal texture_ - a-d (solo-multipart)\n14. _Tonal blend_ - 1-4 (individualised-unified)\n15. _Rhythmic blend _- 1-5 (individualised-unified)\n16. _Vocal rhythmic texture_ - a-c (heterophonic-polyrhythmic)\n17. _Embellishment_ - 1-4 (much-little)\n18. _Glissando_ - 1-4 (much-little)\n19. _Melisma_ - 1-3 (much-little)\n20. _Vibrato_ - 1-3 (much-little)\n21. _Glottal shake_ - 1-3 (much-little)\n22. _Vocal width_ - 1-3 (narrow-wide)\n23. _Nasalisation_ - 1-4 (much-little)\n24. _Raspiness_ - 1-4 (much-little)\n25. _Meter_ - a-e (free-complex regular)\n26. _Instrumental Meter_ - a-e (free-complex regular)\n27. _Phrase length_ - 1-3 (long-short)\n28. _Tempo_ - 1-6 (slow-fast)\n29. _Vocal rubato_ - 1-4 (much-little)\n30. _Instrumental rubato_ - 1-4 (much-little)\n31. _Melodic form_ - a-f (through composed-canon)\n32. _Number of phrases_ - 1-5 (many-few)\n33. _Melodic contour_ - a-d (arched-descending)\n34. _Final tone position_ - 1-3 (low-high)\n35. _Melodic range_ - 1-3 (small-large)\n36. _Polyphonic type_ - a-c (drone-counterpoint)",
-			"type": "text",
-			"x": -5020,
-			"y": 3760,
-			"width": 620,
-			"height": 980,
-			"color": "5"
-		},
-		{
-			"id": "f27bbe95049ff7fc",
-			"styleAttributes": {},
-			"text": "Instrument Types:\n- _Idiophones_: percussion solid (bell, rattle)\n- _Membranophones_: percussion membrane (drum, tom, kazoo)\n- _Aerophones_: wind (woods, brass, siren)\n- _Chordophones_: string (bowed, harp, guitar, zither)\n- _Electrophones_: electronically-produced / amplified (theremin, el. guitar)\n\nSix Families of Noise (Futurism)\n- Roars, thunderings, explosions, hissing roars, bangs, booms\n- Whistling, hissing, puffing\n- Whispers, murmurs, mumbling, muttering, gurgling\n- Screeching, creaking, rustling, buzzing, crackling, scraping\n- Noises obtained by beating on metals, woods, skins, stones, pottery\n- Voices of animals & people, shouts, screams, shrieks, wails, hoots, howls, death rattles, sobs",
-			"type": "text",
-			"x": -5640,
-			"y": 3765,
-			"width": 600,
-			"height": 460,
-			"color": "5"
-		},
-		{
-			"id": "2661a0d968d03c48",
-			"styleAttributes": {},
-			"text": "###  GENERATE \n\nSound Categories:\n- Pad\n- Pluck\n- Motor\n- Bass\n- Lead\n- FX\n- Texture\n",
-			"type": "text",
-			"x": -5880,
-			"y": 3765,
-			"width": 220,
-			"height": 460,
-			"color": "5"
-		},
-		{
-			"id": "a8e262e5c65cf2ad",
-			"styleAttributes": {},
-			"text": "###  MODIFY \n\n- _Modal Variation_: maj/min\n- _Modal Interchange_\n- _Variation Over Harmony_: ground bass\n\t- basso ost. / chaconne/ passacaglia\n- _Interleave_: 2 different progressions\n- _Reharmonise_: change the land\n---\nCollier's Harmony Ideas:\n- _Brighten_: clockwise around circle of 5ths\n- _Darken_: anticlockwise around circle of 5ths\n- _Colour In_: add notes to triad from either side of circle of 5ths (bright/dark)\n- _Neighbours & Relatives_: locate the chord either side of the root chord in circle of 5ths, choose either relative maj/min\n- _Change Bass Note_: they like to move in 5ths\n---\nVarése Techniques:\n- _Symmetry_ (mirror / parallel): inner notes placed symmetrically in relation to outer notes\n- _Projection_: transfer structure to new pitch/register\n- _Rotation_: rotate middle note of triad above/below based on intervallic relationship with notes either side\n- _Expansion / Contraction_\n- _Unfolding / Infolding_",
-			"type": "text",
-			"x": -5880,
-			"y": 4240,
-			"width": 420,
-			"height": 780,
-			"color": "5"
-		},
-		{
-			"id": "10f764305ba31924",
-			"styleAttributes": {},
-			"text": " Modulations:\n- Direct / Enharmonic\n- Common Tone / Altered Common Tone\n- Pivot Chord\n- Chromatic\n- Parallel\n- Sequential (Rosalia)\n- _Chain_: dominant cycles / Coltrane Changes (move in maj 3rds)\n---\n- _Intergrate_: other elements\n- _Evolve_\n- _Expand_: add bits, take it on a journey\n- _Variation_: the same but different\n- _Reflection_: retrograde, imitate, inversion\n- _Reduction_: pare it back\n- _Annihilation_: destroy / bin\n---\n- _Voicing Transformations_: clockwise / counterclockwise / one voice constant\n- _Add/Remove Notes/Chords_: upper structure extensions/alterations, suspension, slash chords\n- _Secondary Dominants_\n- _Tritone Substitution_\n- _Diminished Passing Chord_\n- _Pedal Point / Ostinato_\n- _Superimpose_: one chord over another\n",
-			"type": "text",
-			"x": -5440,
-			"y": 4240,
-			"width": 400,
-			"height": 780,
-			"color": "5"
-		},
-		{
-			"id": "b7e01d14396fa261",
-			"styleAttributes": {},
-			"text": "###  GENERATE \n- _Musicalyst_: genre descriptors (6337)\n- _Every Nosie at Once_: sound examples (6261)",
-			"type": "text",
-			"x": -5020,
-			"y": 4770,
-			"width": 620,
-			"height": 140,
-			"color": "5"
-		},
-		{
-			"id": "96f193255bf3dbe5",
-			"styleAttributes": {},
-			"text": "For Screenshots / Figures",
-			"type": "text",
-			"x": -5910,
-			"y": 3600,
-			"width": 250,
-			"height": 60
-		},
-		{
 			"file": "Table-of-Creativity-Models.md",
 			"id": "128c9dbf279573a3",
 			"styleAttributes": {},
 			"type": "file",
-			"x": -5470,
-			"y": -1280,
-			"width": 710,
-			"height": 1040
+			"x": -6940,
+			"y": -4195,
+			"width": 2180,
+			"height": 2450
 		},
 		{
 			"id": "543d62f1604653ab",
@@ -3451,17 +3254,6 @@
 			"color": "5"
 		},
 		{
-			"id": "508ca4431c3c9089",
-			"styleAttributes": {},
-			"text": "###  CANTOMETRIC CHARACTER \n1. _Vocables_ - 1-5 (few-many)\n2. _Interval size_ - 1-2 (small-large)\n3. _Enunciation_ - 1-5 (precise-slurred)\n4. _Instrument-voice relation_ - a-f (a cappella-interlock)\n5. _Instrumental response_ - a-e (solo-interlock)\n6. _Instrumental texture_ - a-d (a cappella-multipart)]\n7. _Instrumental rhythmic blend_ - 1-5 (individualised-unified)\n8. _Instrumental rhythmic texture_ - a-e (a cappella-polyrhythmic)\n9. _Volume_ - 1-3 (loud-soft)\n10. _Register_ - 1-3 (high-low)\n11. _Accent_ - 1-3 (forceful-relaxed)\n12. _Solo/group arrangement_ - a-d (solo-group dominated)\n13. _Vocal texture_ - a-d (solo-multipart)\n14. _Tonal blend_ - 1-4 (individualised-unified)\n15. _Rhythmic blend _- 1-5 (individualised-unified)\n16. _Vocal rhythmic texture_ - a-c (heterophonic-polyrhythmic)\n17. _Embellishment_ - 1-4 (much-little)\n18. _Glissando_ - 1-4 (much-little)\n19. _Melisma_ - 1-3 (much-little)\n20. _Vibrato_ - 1-3 (much-little)\n21. _Glottal shake_ - 1-3 (much-little)\n22. _Vocal width_ - 1-3 (narrow-wide)\n23. _Nasalisation_ - 1-4 (much-little)\n24. _Raspiness_ - 1-4 (much-little)\n25. _Meter_ - a-e (free-complex regular)\n26. _Instrumental Meter_ - a-e (free-complex regular)\n27. _Phrase length_ - 1-3 (long-short)\n28. _Tempo_ - 1-6 (slow-fast)\n29. _Vocal rubato_ - 1-4 (much-little)\n30. _Instrumental rubato_ - 1-4 (much-little)\n31. _Melodic form_ - a-f (through composed-canon)\n32. _Number of phrases_ - 1-5 (many-few)\n33. _Melodic contour_ - a-d (arched-descending)\n34. _Final tone position_ - 1-3 (low-high)\n35. _Melodic range_ - 1-3 (small-large)\n36. _Polyphonic type_ - a-c (drone-counterpoint)",
-			"type": "text",
-			"x": -2820,
-			"y": 3260,
-			"width": 620,
-			"height": 955,
-			"color": "5"
-		},
-		{
 			"id": "f4f5f4544afffe88",
 			"styleAttributes": {},
 			"text": "### OSBORN'S SELF-INTERROGATION QUESTIONS\n\n_Put to Other Uses_\n- new ways to use it as is?\n- other uses if modified?\n\n_Adapt_\n- what else is like this?\n- what other ideas does this suggest?\n- does the past offer a parallel?\n- what could I copy?\n- whom could I emulate?\n\n_Modify_\n- new twist?\n- change meaning, colour, motion, sound, odour, form, shape?\n- other changes?\n\n_Magnify_\n- what to add?\n- more time?\n- greater frequency?\n- stronger, higher, longer, thicker?\n- extra value?\n- plus ingredient?\n- duplicate?\n- multiply?\n- exaggerate?\n\n_Minify_\n- what to subtract?\n- smaller, miniature?\n- condensed?\n- lower, shorter, lighter, thinner?\n- omit?\n- streamline?\n- split up?\n- understate?",
@@ -3648,50 +3440,6 @@
 			"color": "5"
 		},
 		{
-			"id": "25181e1816bdc2d8",
-			"styleAttributes": {},
-			"text": "### THEORY",
-			"type": "text",
-			"x": -6000,
-			"y": 5340,
-			"width": 160,
-			"height": 50,
-			"color": "6"
-		},
-		{
-			"id": "cdc8ff8615a9e121",
-			"styleAttributes": {},
-			"text": "### MODEL",
-			"type": "text",
-			"x": -5780,
-			"y": 5340,
-			"width": 160,
-			"height": 50,
-			"color": "6"
-		},
-		{
-			"id": "e9216e137330ec29",
-			"styleAttributes": {},
-			"text": "### TOOL",
-			"type": "text",
-			"x": -5560,
-			"y": 5340,
-			"width": 160,
-			"height": 50,
-			"color": "6"
-		},
-		{
-			"id": "d0ffe6b554e23565",
-			"styleAttributes": {},
-			"text": "### ARTEFACT",
-			"type": "text",
-			"x": -5340,
-			"y": 5340,
-			"width": 160,
-			"height": 50,
-			"color": "6"
-		},
-		{
 			"id": "f4280a97b144e3fa",
 			"styleAttributes": {
 				"border": "dotted"
@@ -3825,16 +3573,6 @@
 			"y": -80,
 			"width": 700,
 			"height": 320
-		},
-		{
-			"id": "519cc16e4a462a3e",
-			"type": "text",
-			"text": "This should be in Associative. The 'random' part beneath it can stay. Perhaps group under title of 'Stochastic Resonance' or 'Serendipity'?",
-			"x": 3860,
-			"y": -1585,
-			"width": 276,
-			"height": 165,
-			"color": "1"
 		},
 		{
 			"id": "0a3d333e16b52df6",

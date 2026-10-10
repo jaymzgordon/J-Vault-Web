@@ -1,3 +1,41 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Canvas text boxes: the canvas plugin sets white-space: pre-wrap, which shows every
+// line break in the rendered HTML as a blank line, and uses page-sized typography.
+// Tighten both so boxes fit their text as they do in Obsidian.
+.canvas-node-text .canvas-node-content {
+  white-space: normal;
+  padding: 8px 10px;
+}
+
+.canvas-node-content {
+  :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 1.15em;
+    line-height: 1.25;
+    margin: 0.15em 0 0.35em;
+  }
+
+  :is(p, ul, ol) {
+    margin: 0.3em 0;
+  }
+
+  :is(ul, ol) {
+    padding-left: 1.2em;
+  }
+
+  li > :is(ul, ol) {
+    margin: 0;
+  }
+
+  hr {
+    margin: 0.4em 0;
+  }
+
+  blockquote {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+}
