@@ -4,6 +4,7 @@ modified: 2025-05-21
 ---
 - Home: [James Gordon Music](https://jamesgordonmusic.com/)
 - Links: [Find Me](https://jamesgordonmusic.com/find-me)
+- Research: [The Creativity Engine](./The-Creativity-Engine)
 
 Welcome to the various posts and notes I've been working on recently.
 
