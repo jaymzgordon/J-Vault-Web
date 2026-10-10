@@ -1,6 +1,7 @@
 import { ValidDateType } from "./components/Date"
 import { QuartzComponent } from "./components/types"
 import { ValidLocale } from "./i18n"
+import { PluginSpecifier } from "./plugins/loader/types"
 import { PluginTypes } from "./plugins/types"
 import { Theme } from "./util/theme"
 
@@ -42,6 +43,19 @@ export type Analytics =
       provider: "clarity"
       projectId?: string
     }
+  | {
+      provider: "matomo"
+      host: string
+      siteId: string
+    }
+  | {
+      provider: "vercel"
+    }
+  | {
+      provider: "rybbit"
+      siteId: string
+      host?: string
+    }
 
 export interface GlobalConfiguration {
   pageTitle: string
@@ -75,6 +89,7 @@ export interface GlobalConfiguration {
 export interface QuartzConfig {
   configuration: GlobalConfiguration
   plugins: PluginTypes
+  externalPlugins?: PluginSpecifier[]
 }
 
 export interface FullPageLayout {
@@ -86,6 +101,8 @@ export interface FullPageLayout {
   left: QuartzComponent[]
   right: QuartzComponent[]
   footer: QuartzComponent
+  /** Page frame name (e.g. "default", "full-width", "minimal"). Defaults to "default". */
+  frame?: string
 }
 
 export type PageLayout = Pick<FullPageLayout, "beforeBody" | "left" | "right">
