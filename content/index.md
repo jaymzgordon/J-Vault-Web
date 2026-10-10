@@ -3,7 +3,7 @@ title: Welcome
 modified: 2025-05-21
 ---
 - Home: [James Gordon Music](https://jamesgordonmusic.com/)
-- Links: [jamesgordon | Twitter, Instagram, Facebook | Linktree](https://linktr.ee/jamesgordon)
+- Links: [Find Me](https://jamesgordonmusic.com/find-me)
 
 Welcome to the various posts and notes I've been working on recently.
 
@@ -11,11 +11,11 @@ Most of my research notes, blog posts, second brain, random mind dumps are done 
 
 The biggest issue with this approach has been transferring the note to a blog post or web page in order to make it public. All of the links, formatting, and multimedia content would need to be redone in whatever I was uploading to (the blog page of my website, for example).
 
-After multiple attempts to solve this, I discovered Quartz 4 and its ability to generate static websites from markdown notes and Obsidian vaults.
-
-So, this is where I'll be uploading my posts, notes, and ideas in the future.
+After multiple attempts to solve this, I discovered Quartz and its ability to generate static websites from markdown notes and Obsidian vaults.
 
 Sharing my whole second brain would be a bit much (my personal vault is 4000 notes at this point) to deal with and likely not all that useful for anyone else as it contains everything from my PhD research to my workout logs and all stops in between.
+
+For current blog posts about my music and research: [jamesgordonmusic.com/blog](https://jamesgordonmusic.com/blog)
 
 ![[Pasted image 20250524151006.png]]
 - A visual graph of the the various notes and connections in my second brain

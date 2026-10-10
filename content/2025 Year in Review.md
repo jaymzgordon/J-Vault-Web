@@ -4,7 +4,7 @@ tags:
 aliases:
 created: 2025-12-31
 modified: 2026-01-02
-date: "[[2025-12-31]]"
+date: 2025-12-31
 parent:
 ---
 ![](attachment/d34f6a2b1ce1d26633bb57eff5bec806.jpg)

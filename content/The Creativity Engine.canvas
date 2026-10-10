@@ -1,0 +1,3910 @@
+{
+	"edges": [
+		{
+			"id": "ff80760ddd443099",
+			"fromNode": "1c9f58d58a96c9fe",
+			"fromSide": "left",
+			"toNode": "d4fd0c62cab06e1d",
+			"toSide": "right"
+		},
+		{
+			"id": "5e7149e5a9f2bda0",
+			"fromNode": "84a5c8f60807d534",
+			"fromSide": "right",
+			"toNode": "8c41b3636bb815f6",
+			"toSide": "left"
+		},
+		{
+			"id": "220e68f2c025191e",
+			"toFloating": false,
+			"fromNode": "84a5c8f60807d534",
+			"fromSide": "right",
+			"toNode": "fea3bbad47d78302",
+			"toSide": "left"
+		},
+		{
+			"id": "590bdc4ca2374c06",
+			"fromNode": "2871a8b155878448",
+			"fromSide": "bottom",
+			"toNode": "ca56650f78fc8511",
+			"toSide": "top"
+		},
+		{
+			"id": "71bf0f7b554bec96",
+			"fromNode": "2871a8b155878448",
+			"fromSide": "bottom",
+			"toNode": "2e9389cf23aa827a",
+			"toSide": "top"
+		},
+		{
+			"id": "98e55420e6514b9e",
+			"toFloating": false,
+			"fromNode": "84a5c8f60807d534",
+			"fromSide": "bottom",
+			"toNode": "2871a8b155878448",
+			"toSide": "right",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "e098399a454db041",
+			"fromFloating": false,
+			"fromNode": "2871a8b155878448",
+			"fromSide": "left",
+			"toNode": "1c9f58d58a96c9fe",
+			"toSide": "bottom",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "7a288c013cd242eb",
+			"fromNode": "d4fd0c62cab06e1d",
+			"fromSide": "left",
+			"toNode": "e9deed4fdbb7beb4",
+			"toSide": "right"
+		},
+		{
+			"id": "25053739da5c2fea",
+			"fromNode": "1c9f58d58a96c9fe",
+			"fromSide": "left",
+			"toNode": "77853b8bd32bd1a1",
+			"toSide": "right"
+		},
+		{
+			"id": "f30fdde03250bc83",
+			"fromNode": "fea3bbad47d78302",
+			"fromSide": "bottom",
+			"toNode": "8c41b3636bb815f6",
+			"toSide": "top",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "d681d79e356532f2",
+			"fromNode": "77853b8bd32bd1a1",
+			"fromSide": "bottom",
+			"toNode": "d4fd0c62cab06e1d",
+			"toSide": "top",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "3d09e7a79f54c220",
+			"fromNode": "ca56650f78fc8511",
+			"fromSide": "left",
+			"toNode": "2e9389cf23aa827a",
+			"toSide": "right",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "97a4b8a4b0d324e7",
+			"fromNode": "9830a2ef7518bd70",
+			"fromSide": "right",
+			"toNode": "4ae147ec1d4e91fc",
+			"toSide": "left",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "5b72bac212970659",
+			"fromFloating": false,
+			"fromNode": "1c9f58d58a96c9fe",
+			"fromSide": "top",
+			"toNode": "c0480b9afd5adf2e",
+			"toSide": "left",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "b3d61a0ba2b03f20",
+			"fromFloating": false,
+			"toFloating": false,
+			"fromNode": "c0480b9afd5adf2e",
+			"fromSide": "right",
+			"toNode": "84a5c8f60807d534",
+			"toSide": "top",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "30063b38271e2a7a",
+			"fromNode": "c0480b9afd5adf2e",
+			"fromSide": "top",
+			"toNode": "9830a2ef7518bd70",
+			"toSide": "bottom"
+		},
+		{
+			"id": "53ea338230831769",
+			"fromNode": "c0480b9afd5adf2e",
+			"fromSide": "top",
+			"toNode": "4ae147ec1d4e91fc",
+			"toSide": "bottom"
+		},
+		{
+			"id": "4fda21d2d6811f37",
+			"fromNode": "77853b8bd32bd1a1",
+			"fromSide": "left",
+			"toNode": "409e52517c60128b",
+			"toSide": "right"
+		},
+		{
+			"id": "73b34bbb1f9cdc1b",
+			"fromNode": "d4fd0c62cab06e1d",
+			"fromSide": "left",
+			"toNode": "045a8c6883e2fce4",
+			"toSide": "right"
+		},
+		{
+			"id": "7ab686d4d1ebcf7d",
+			"fromNode": "d4fd0c62cab06e1d",
+			"fromSide": "left",
+			"toNode": "fdab9ef022294b9c",
+			"toSide": "right"
+		},
+		{
+			"id": "6f17a9632d453a2a",
+			"fromNode": "d4fd0c62cab06e1d",
+			"fromSide": "left",
+			"toNode": "1e5c03dd0fec6cdc",
+			"toSide": "right"
+		},
+		{
+			"id": "c877b5062b71fc97",
+			"toFloating": false,
+			"fromNode": "9830a2ef7518bd70",
+			"fromSide": "top",
+			"toNode": "7f64dd771711ccf9",
+			"toSide": "bottom"
+		},
+		{
+			"id": "7d7fae57a4f96592",
+			"toFloating": false,
+			"fromNode": "4ae147ec1d4e91fc",
+			"fromSide": "top",
+			"toNode": "291ef6306673ba71",
+			"toSide": "bottom"
+		},
+		{
+			"id": "4bb5c5a5f6856fdf",
+			"fromNode": "4ae147ec1d4e91fc",
+			"fromSide": "right",
+			"toNode": "9bf3a35cdcf3d8ce",
+			"toSide": "bottom"
+		},
+		{
+			"id": "d96e606f2afcb2f9",
+			"toFloating": false,
+			"fromNode": "9830a2ef7518bd70",
+			"fromSide": "left",
+			"toNode": "55b1bb9b0c187932",
+			"toSide": "bottom"
+		},
+		{
+			"id": "ac8a459442cd85cf",
+			"fromNode": "9830a2ef7518bd70",
+			"fromSide": "left",
+			"toNode": "f360257795897d62",
+			"toSide": "bottom"
+		},
+		{
+			"id": "8294fe33ec79f583",
+			"toFloating": false,
+			"fromNode": "4ae147ec1d4e91fc",
+			"fromSide": "right",
+			"toNode": "0e30b53da061e81e",
+			"toSide": "bottom"
+		},
+		{
+			"id": "65977455855fabac",
+			"toFloating": false,
+			"fromNode": "77853b8bd32bd1a1",
+			"fromSide": "left",
+			"toNode": "e10eae9f0f8a850f",
+			"toSide": "right"
+		},
+		{
+			"id": "139f7c0a6cd6f55b",
+			"fromNode": "77853b8bd32bd1a1",
+			"fromSide": "left",
+			"toNode": "53785791da46c737",
+			"toSide": "right"
+		},
+		{
+			"id": "3b4a35d373fa1629",
+			"fromNode": "77853b8bd32bd1a1",
+			"fromSide": "left",
+			"toNode": "d8f8bebc65542e29",
+			"toSide": "right"
+		},
+		{
+			"id": "6985c59940b2db98",
+			"fromNode": "fea3bbad47d78302",
+			"fromSide": "right",
+			"toNode": "24ca67ae2d47e2dc",
+			"toSide": "left"
+		},
+		{
+			"id": "70a6f1db59b3d1cf",
+			"fromNode": "fea3bbad47d78302",
+			"fromSide": "right",
+			"toNode": "32e15d971d66a622",
+			"toSide": "left"
+		},
+		{
+			"id": "fa4d808adb797e34",
+			"fromNode": "fea3bbad47d78302",
+			"fromSide": "right",
+			"toNode": "f190e967eec4d8e1",
+			"toSide": "left"
+		},
+		{
+			"id": "747196b7f28f0c28",
+			"fromNode": "fea3bbad47d78302",
+			"fromSide": "right",
+			"toNode": "e5f9f51bb4290415",
+			"toSide": "left"
+		},
+		{
+			"id": "5be30ea94f1d609b",
+			"fromNode": "8c41b3636bb815f6",
+			"fromSide": "right",
+			"toNode": "d33174ead1bdfc3d",
+			"toSide": "left"
+		},
+		{
+			"id": "711d85fc44ad3fde",
+			"fromNode": "8c41b3636bb815f6",
+			"fromSide": "right",
+			"toNode": "558129b7e35ed9ab",
+			"toSide": "left"
+		},
+		{
+			"id": "09dedde00a3489a8",
+			"fromNode": "8c41b3636bb815f6",
+			"fromSide": "right",
+			"toNode": "22bf594fee8ab3e2",
+			"toSide": "left"
+		},
+		{
+			"id": "9ce9e78723acbb0c",
+			"fromNode": "8c41b3636bb815f6",
+			"fromSide": "right",
+			"toNode": "b8e934ca89273633",
+			"toSide": "left"
+		},
+		{
+			"id": "9f599393a9d4d2cc",
+			"toFloating": false,
+			"fromNode": "2e9389cf23aa827a",
+			"fromSide": "bottom",
+			"toNode": "f7fa0a039c903cc9",
+			"toSide": "top"
+		},
+		{
+			"id": "cf750f153ee3ce31",
+			"fromNode": "ca56650f78fc8511",
+			"fromSide": "bottom",
+			"toNode": "d4aca260696e1927",
+			"toSide": "top"
+		},
+		{
+			"id": "b1e99cdefba67c35",
+			"fromNode": "ca56650f78fc8511",
+			"fromSide": "right",
+			"toNode": "ddaa87299c7fa92a",
+			"toSide": "top"
+		},
+		{
+			"id": "8fcaebcd4f19c3e8",
+			"fromNode": "2e9389cf23aa827a",
+			"fromSide": "left",
+			"toNode": "c08d64e41df41a77",
+			"toSide": "top"
+		},
+		{
+			"id": "ba076f404d2b408a",
+			"fromNode": "2e9389cf23aa827a",
+			"fromSide": "left",
+			"toNode": "b3b55ec083805fef",
+			"toSide": "top"
+		},
+		{
+			"id": "d6fb174e76544b29",
+			"fromNode": "2e9389cf23aa827a",
+			"fromSide": "left",
+			"toNode": "d50b147b10be178f",
+			"toSide": "top"
+		},
+		{
+			"id": "7a0ddb05bd783202",
+			"fromNode": "7f64dd771711ccf9",
+			"fromSide": "top",
+			"toNode": "5992af3d61f957cc",
+			"toSide": "right"
+		},
+		{
+			"id": "8f563aeb471d6009",
+			"fromNode": "f360257795897d62",
+			"fromSide": "top",
+			"toNode": "54a240d6ca0f4880",
+			"toSide": "right"
+		},
+		{
+			"id": "13e1369783c7c689",
+			"fromFloating": false,
+			"fromNode": "55b1bb9b0c187932",
+			"fromSide": "top",
+			"toNode": "744039aa36f5c9f7",
+			"toSide": "right"
+		},
+		{
+			"id": "f470adf4614d5077",
+			"fromFloating": false,
+			"fromNode": "291ef6306673ba71",
+			"fromSide": "top",
+			"toNode": "83650023da70730a",
+			"toSide": "left"
+		},
+		{
+			"id": "a0514e68675e1153",
+			"fromNode": "d60409fb1dadf836",
+			"fromSide": "top",
+			"toNode": "4830332fbbc1bc9a",
+			"toSide": "left"
+		},
+		{
+			"id": "6632deb1039312e8",
+			"fromNode": "0e30b53da061e81e",
+			"fromSide": "top",
+			"toNode": "8d1d84ca3e67a516",
+			"toSide": "left"
+		},
+		{
+			"id": "b8c0b039a7aa62a2",
+			"fromNode": "9bf3a35cdcf3d8ce",
+			"fromSide": "top",
+			"toNode": "b0ddc595b13f64df",
+			"toSide": "left"
+		},
+		{
+			"id": "e92cc2a743493aa6",
+			"toFloating": false,
+			"fromNode": "f7fa0a039c903cc9",
+			"fromSide": "bottom",
+			"toNode": "8c0e131709d1f337",
+			"toSide": "right"
+		},
+		{
+			"id": "fecaa13d2f3fbdb8",
+			"fromNode": "d4aca260696e1927",
+			"fromSide": "bottom",
+			"toNode": "47099abe800afaf3",
+			"toSide": "left"
+		},
+		{
+			"id": "254f43d7e6e85f8a",
+			"fromNode": "ddaa87299c7fa92a",
+			"fromSide": "bottom",
+			"toNode": "af3369214f51b66e",
+			"toSide": "left"
+		},
+		{
+			"id": "e2a58b6d81ead93f",
+			"toFloating": false,
+			"fromFloating": false,
+			"fromNode": "cb4819b2b194c366",
+			"fromSide": "bottom",
+			"toNode": "f0010654d5bce91c",
+			"toSide": "left"
+		},
+		{
+			"id": "33c0d5b0c7d0d2c0",
+			"fromNode": "696bc1f8bc47cfc4",
+			"fromSide": "bottom",
+			"toNode": "f729f0acdcaa2908",
+			"toSide": "left"
+		},
+		{
+			"id": "03131b25011e424e",
+			"fromNode": "d50b147b10be178f",
+			"fromSide": "bottom",
+			"toNode": "cbf73c066ebe48fe",
+			"toSide": "right"
+		},
+		{
+			"id": "ddf6a38de5309787",
+			"fromNode": "b3b55ec083805fef",
+			"fromSide": "bottom",
+			"toNode": "66061415e465b561",
+			"toSide": "right"
+		},
+		{
+			"id": "236bb5db44ee51de",
+			"fromNode": "c08d64e41df41a77",
+			"fromSide": "bottom",
+			"toNode": "28246b8682f51fd1",
+			"toSide": "right"
+		},
+		{
+			"id": "e1244de9a85d4fba",
+			"fromNode": "32e15d971d66a622",
+			"fromSide": "right",
+			"toNode": "6510e7cf838dafbf",
+			"toSide": "left"
+		},
+		{
+			"id": "428fe97098ff7eea",
+			"fromNode": "f190e967eec4d8e1",
+			"fromSide": "right",
+			"toNode": "c8af3cda7dad2886",
+			"toSide": "left"
+		},
+		{
+			"id": "11f992c99ffb931b",
+			"fromNode": "e5f9f51bb4290415",
+			"fromSide": "right",
+			"toNode": "a317c589eac86d3f",
+			"toSide": "left"
+		},
+		{
+			"id": "aa8cbab2961948b6",
+			"fromNode": "d33174ead1bdfc3d",
+			"fromSide": "right",
+			"toNode": "b17ec24f92e2bde7",
+			"toSide": "left"
+		},
+		{
+			"id": "6c6b3db50ea2d0af",
+			"fromNode": "558129b7e35ed9ab",
+			"fromSide": "right",
+			"toNode": "5d020fb17afa207a",
+			"toSide": "left"
+		},
+		{
+			"id": "4047ad1b729b1a06",
+			"fromNode": "22bf594fee8ab3e2",
+			"fromSide": "right",
+			"toNode": "770da3ed77c184ee",
+			"toSide": "left"
+		},
+		{
+			"id": "2338ec43c3fd8331",
+			"fromNode": "b8e934ca89273633",
+			"fromSide": "right",
+			"toNode": "926b33081ac49c85",
+			"toSide": "left"
+		},
+		{
+			"id": "74d66bedf97d7bbc",
+			"fromNode": "1e5c03dd0fec6cdc",
+			"fromSide": "left",
+			"toNode": "0907646968420e57",
+			"toSide": "right"
+		},
+		{
+			"id": "24b07f5ad9ecf61d",
+			"toFloating": false,
+			"fromNode": "fdab9ef022294b9c",
+			"fromSide": "left",
+			"toNode": "e967ca3391956ce7",
+			"toSide": "right"
+		},
+		{
+			"id": "7c43121b68451cbe",
+			"toFloating": false,
+			"fromNode": "045a8c6883e2fce4",
+			"fromSide": "left",
+			"toNode": "941208cf0a8df901",
+			"toSide": "right"
+		},
+		{
+			"id": "86dd26e1679ac4df",
+			"fromNode": "e10eae9f0f8a850f",
+			"fromSide": "left",
+			"toNode": "3a4a4d5aeb44e9ad",
+			"toSide": "right"
+		},
+		{
+			"id": "e7fae09f027d2943",
+			"fromNode": "409e52517c60128b",
+			"fromSide": "left",
+			"toNode": "2ca3e2bd03b99f49",
+			"toSide": "right"
+		},
+		{
+			"id": "31627ec9e01c0c79",
+			"fromNode": "53785791da46c737",
+			"fromSide": "left",
+			"toNode": "d0c471e20f9bc941",
+			"toSide": "right"
+		},
+		{
+			"id": "ec768e2df1e54dbb",
+			"fromNode": "d8f8bebc65542e29",
+			"fromSide": "left",
+			"toNode": "f1cc43ddddd61855",
+			"toSide": "right"
+		},
+		{
+			"id": "4e3d05ed6796375b",
+			"fromFloating": false,
+			"fromNode": "77853b8bd32bd1a1",
+			"fromSide": "top",
+			"toNode": "9830a2ef7518bd70",
+			"toSide": "left",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "063a064dd50c719a",
+			"fromFloating": false,
+			"fromNode": "2e9389cf23aa827a",
+			"fromSide": "left",
+			"toNode": "d4fd0c62cab06e1d",
+			"toSide": "bottom",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "1d794c8984f37612",
+			"toFloating": false,
+			"fromNode": "4ae147ec1d4e91fc",
+			"fromSide": "right",
+			"toNode": "fea3bbad47d78302",
+			"toSide": "top",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "7bf3e0a4dd452cef",
+			"fromFloating": false,
+			"fromNode": "8c41b3636bb815f6",
+			"fromSide": "bottom",
+			"toNode": "ca56650f78fc8511",
+			"toSide": "right",
+			"fromEnd": "arrow"
+		},
+		{
+			"id": "8fa306394580c83b",
+			"fromNode": "24ca67ae2d47e2dc",
+			"fromSide": "right",
+			"toNode": "77313e9ac0392309",
+			"toSide": "left"
+		},
+		{
+			"id": "516e46443f13600a",
+			"fromNode": "25181e1816bdc2d8",
+			"fromSide": "right",
+			"toNode": "cdc8ff8615a9e121",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "739622a2b4ddd68f",
+			"fromNode": "cdc8ff8615a9e121",
+			"fromSide": "right",
+			"toNode": "e9216e137330ec29",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "b647b1516c91600d",
+			"fromNode": "e9216e137330ec29",
+			"fromSide": "right",
+			"toNode": "d0ffe6b554e23565",
+			"toSide": "left",
+			"color": "6"
+		},
+		{
+			"id": "139dc1dbdb460da9",
+			"fromNode": "72ad9c41226f03f6",
+			"fromSide": "right",
+			"toNode": "728b82d93f007d6b",
+			"toSide": "left"
+		},
+		{
+			"id": "e45465e1d3fb2234",
+			"toFloating": false,
+			"fromNode": "aa2d5b5e61cbb989",
+			"fromSide": "right",
+			"toNode": "bbaf27b3ef20e1c2",
+			"toSide": "left"
+		},
+		{
+			"id": "67282c420e218ade",
+			"fromNode": "f4280a97b144e3fa",
+			"fromSide": "right",
+			"toNode": "a6853b2b7b89cb69",
+			"toSide": "left"
+		},
+		{
+			"id": "4d64ce6a2445c25b",
+			"fromNode": "f4280a97b144e3fa",
+			"fromSide": "right",
+			"toNode": "a6853b2b7b89cb69",
+			"toSide": "left"
+		},
+		{
+			"id": "c8da02c1041926a4",
+			"fromNode": "e9deed4fdbb7beb4",
+			"fromSide": "left",
+			"toNode": "3bfe0965878137c3",
+			"toSide": "right"
+		},
+		{
+			"id": "b42eff9bb397d706",
+			"fromNode": "519cc16e4a462a3e",
+			"fromSide": "bottom",
+			"toNode": "28ff43b48618b778",
+			"toSide": "left"
+		},
+		{
+			"id": "3e4d8871245a4590",
+			"toFloating": false,
+			"fromNode": "4ae147ec1d4e91fc",
+			"fromSide": "right",
+			"toNode": "d60409fb1dadf836",
+			"toSide": "bottom"
+		},
+		{
+			"id": "cdffe8389023f723",
+			"styleAttributes": {},
+			"toFloating": false,
+			"fromNode": "9830a2ef7518bd70",
+			"fromSide": "left",
+			"toNode": "bd0c859f4fe781ae",
+			"toSide": "bottom"
+		},
+		{
+			"id": "fc22b61f1b36360a",
+			"styleAttributes": {},
+			"toFloating": false,
+			"fromNode": "bd0c859f4fe781ae",
+			"fromSide": "top",
+			"toNode": "489e53d21cd19b1b",
+			"toSide": "right"
+		}
+	],
+	"metadata": {
+		"version": "1.0-1.0"
+	},
+	"nodes": [
+		{
+			"id": "f859011b56aaf19b",
+			"styleAttributes": {},
+			"text": "## GENERATION | IMPLEMENT\n",
+			"type": "text",
+			"zIndex": 1,
+			"x": 2940,
+			"y": -2960,
+			"width": 160,
+			"height": 1400,
+			"color": "6"
+		},
+		{
+			"id": "089b0be72fc39a7c",
+			"styleAttributes": {},
+			"text": "## EVALUATION | VERIFY\n",
+			"type": "text",
+			"zIndex": 291,
+			"x": -3000,
+			"y": 1360,
+			"width": 60,
+			"height": 1400,
+			"color": "6"
+		},
+		{
+			"id": "fea3bbad47d78302",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "#### Develop",
+			"type": "text",
+			"x": 500,
+			"y": -140,
+			"width": 160,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "8c41b3636bb815f6",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "## Refine",
+			"type": "text",
+			"x": 500,
+			"y": -20,
+			"width": 160,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "d33174ead1bdfc3d",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Modify",
+			"type": "text",
+			"x": 800,
+			"y": -20,
+			"width": 220,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "558129b7e35ed9ab",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Rearrange",
+			"type": "text",
+			"x": 800,
+			"y": 40,
+			"width": 220,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "22bf594fee8ab3e2",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Stability & Tension",
+			"type": "text",
+			"x": 800,
+			"y": 100,
+			"width": 220,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "b8e934ca89273633",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Add Order",
+			"type": "text",
+			"x": 800,
+			"y": 160,
+			"width": 220,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "696bc1f8bc47cfc4",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Time Away",
+			"type": "text",
+			"x": 735,
+			"y": 360,
+			"width": 205,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "0e30b53da061e81e",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Assemble",
+			"type": "text",
+			"x": 510,
+			"y": -520,
+			"width": 205,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "d60409fb1dadf836",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Define",
+			"type": "text",
+			"x": 285,
+			"y": -520,
+			"width": 205,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "1c9f58d58a96c9fe",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "### Preparation",
+			"type": "text",
+			"x": -360,
+			"y": -80,
+			"width": 220,
+			"height": 50,
+			"color": "3"
+		},
+		{
+			"id": "cb4819b2b194c366",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Imaginarium",
+			"type": "text",
+			"x": 510,
+			"y": 360,
+			"width": 205,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "ddaa87299c7fa92a",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Creative Aids",
+			"type": "text",
+			"x": 285,
+			"y": 360,
+			"width": 205,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "f7fa0a039c903cc9",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Archive & Recycle",
+			"type": "text",
+			"x": -165,
+			"y": 360,
+			"width": 205,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "d4aca260696e1927",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Explore Extremes",
+			"type": "text",
+			"x": 60,
+			"y": 360,
+			"width": 205,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "c08d64e41df41a77",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Judgement",
+			"type": "text",
+			"x": -390,
+			"y": 360,
+			"width": 205,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "b3b55ec083805fef",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Metrics",
+			"type": "text",
+			"x": -615,
+			"y": 360,
+			"width": 205,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "9bf3a35cdcf3d8ce",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Select",
+			"type": "text",
+			"x": 735,
+			"y": -520,
+			"width": 205,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "e9deed4fdbb7beb4",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Priming",
+			"type": "text",
+			"x": -940,
+			"y": -20,
+			"width": 220,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "045a8c6883e2fce4",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Inspiration",
+			"type": "text",
+			"x": -940,
+			"y": 40,
+			"width": 220,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "24ca67ae2d47e2dc",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Evolve & Mutate",
+			"type": "text",
+			"x": 800,
+			"y": -320,
+			"width": 220,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "32e15d971d66a622",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Breadth & Depth",
+			"type": "text",
+			"x": 800,
+			"y": -260,
+			"width": 220,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "f190e967eec4d8e1",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Similarity & Contrast",
+			"type": "text",
+			"x": 800,
+			"y": -200,
+			"width": 220,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "e5f9f51bb4290415",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Add Chaos",
+			"type": "text",
+			"x": 800,
+			"y": -140,
+			"width": 220,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "9830a2ef7518bd70",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "#### Ideate",
+			"type": "text",
+			"x": -140,
+			"y": -320,
+			"width": 160,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "84a5c8f60807d534",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "###  Iteration ",
+			"type": "text",
+			"x": 240,
+			"y": -80,
+			"width": 180,
+			"height": 50,
+			"color": "3"
+		},
+		{
+			"id": "4ae147ec1d4e91fc",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "## Implement",
+			"type": "text",
+			"x": 80,
+			"y": -320,
+			"width": 160,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "c0480b9afd5adf2e",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "### Generation",
+			"type": "text",
+			"x": -60,
+			"y": -180,
+			"width": 220,
+			"height": 50,
+			"color": "3"
+		},
+		{
+			"id": "2871a8b155878448",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "### Evaluation",
+			"type": "text",
+			"x": -60,
+			"y": 26,
+			"width": 220,
+			"height": 50,
+			"color": "3"
+		},
+		{
+			"id": "2e9389cf23aa827a",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "## Verify",
+			"type": "text",
+			"x": -140,
+			"y": 160,
+			"width": 160,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "ca56650f78fc8511",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "#### Play",
+			"type": "text",
+			"x": 80,
+			"y": 160,
+			"width": 160,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "291ef6306673ba71",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Capture",
+			"type": "text",
+			"x": 60,
+			"y": -520,
+			"width": 205,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "7f64dd771711ccf9",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Connection",
+			"type": "text",
+			"x": -165,
+			"y": -520,
+			"width": 205,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "409e52517c60128b",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Plan",
+			"type": "text",
+			"x": -940,
+			"y": -140,
+			"width": 220,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "53785791da46c737",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Problem Definition",
+			"type": "text",
+			"x": -940,
+			"y": -260,
+			"width": 220,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "e10eae9f0f8a850f",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Decide & Distil",
+			"type": "text",
+			"x": -940,
+			"y": -200,
+			"width": 220,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "f360257795897d62",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Exploration",
+			"type": "text",
+			"x": -390,
+			"y": -520,
+			"width": 205,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "d4fd0c62cab06e1d",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "#### Gather",
+			"type": "text",
+			"x": -600,
+			"y": -20,
+			"width": 160,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "77853b8bd32bd1a1",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "## Specify",
+			"type": "text",
+			"x": -600,
+			"y": -140,
+			"width": 160,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "d50b147b10be178f",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Reflect",
+			"type": "text",
+			"x": -840,
+			"y": 360,
+			"width": 205,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "fdab9ef022294b9c",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Conception",
+			"type": "text",
+			"x": -940,
+			"y": 100,
+			"width": 220,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "1e5c03dd0fec6cdc",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Brainstorm",
+			"type": "text",
+			"x": -940,
+			"y": 160,
+			"width": 220,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "941208cf0a8df901",
+			"styleAttributes": {},
+			"text": "#### Inspiration\n\nCollecting material to serve as inspiration or reference for the creative artefact. Foundational elements or seeds from which ideas can grow. Often acting as a lodestone, causing deviations in the creative trajectory much as a magnet pulls at a piece of iron. This may or may not be desired. Can also work in reverse as exemplars of what is not wanted, to push upon and repel rather than pull towards a concept or trait.\n\n- Extra-musical material\n- Seeded Exemplars\n- Scratching (taking inspiration from the greats, media, self)\n- Ideational Pools\n- Project Bible / Mood Board",
+			"type": "text",
+			"x": -2160,
+			"y": 280,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "e967ca3391956ce7",
+			"styleAttributes": {},
+			"text": "#### Conception\n\nThinking about what the end result of the creative process will be, what form will it take. A song, an etude, a libretto, etc. These are the 'class' of the artefact, it's default, generic shape. Details and specifics ('instances') will come later. Instructions and intentions can form part of this process.\n\n- Instances and Classes\n- Superordinate Constraints (musical form, macro structure)\n- Instructions (implicit, explicit, target, game-like)\n- Intentions (goal, aim, direction, intrinsic expectations)\n- Thought experiments (experimenting with outcomes: if this, then that)",
+			"type": "text",
+			"x": -2160,
+			"y": 640,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "0907646968420e57",
+			"styleAttributes": {},
+			"text": "#### Brainstorming\n\nBefore narrowing your focus and detailing the specifics of what you are going to create, it can sometimes be useful to brainstorm in order to clear your mind, conjure as many ideas as possible in one place, spark nascent ideas, discover near and far analogies, make connections, and broaden the possibility space. This step is not always necessary or useful but can lead to more original or novel outcomes.\n- Raw Materials (prompt tables)\n- Limitations & Restrictions\n- Introduce the Unknown\n- Deferment of Judgement\n- Quantity Breeds Quality",
+			"type": "text",
+			"x": -2160,
+			"y": 1000,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "3bfe0965878137c3",
+			"styleAttributes": {},
+			"text": "#### Priming\n\nBy presenting different types of stimuli we can cue responses to a creative task to be broader and more exploratory or narrower and more focused. We can also prime for motivation or success in the creative endeavour by presenting stimuli that cue a sense of achievement or by triggering associations with other desired states and outcomes.\n\n- Affect Priming\n- Achievement Priming\n- Associative Priming\n- Ideational Priming",
+			"type": "text",
+			"x": -2160,
+			"y": -80,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "342c469201ca0abc",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n \n - _Auditory_\n\t - song\n\t - sound\n - _Visual_\n\t - photograph, film/tv still or clip, art/design\n\t - abstract/symbol (shape, repetition, pattern, colour)\n- _Other (Sensory)_\n\t- tactile, olfactory, proprioception (gestural), interoception (internal)\n- _Text_\n\t- lyric, poetry, prose",
+			"type": "text",
+			"x": -2900,
+			"y": 280,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "429122e89d895697",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n - _Implicit_ (inexplicit, semi-implicit)\n\t - Analogy & Metaphor (\"write an alien piece of music\")\n\t - Secondary Task (\"draw an image that represents each idea\")\n - _Explicit_\n\t - Conceptual (operationally define creativity: \"come up with a novel idea\")\n\t - Procedural (describe how to be creative: \"think of ideas no one else would\")\n - _Target_ (in order of importance)\n\t - Quantity, Quality, Creativity, Originality\n - _Game-Like_ (vs. Test-Like)\n\t - goals, rules, feedback system, voluntary participation, ambiguity/mystery",
+			"type": "text",
+			"x": -2900,
+			"y": 640,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "fa54fab0d0927733",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n \n- _Raw Materials_: prompt tables\n- _Limitations & Restrictions_:  arbitrary or specifically chosen\n\t- Tools (instruments / software)\n\t- Time (deadline, session length, sprint)\n\t- Stylistic (within conventions, defy conventions)\n\t- Performance (physical: close eyes, standing; mental: one take, no overdubs)\n\t- Musical Ingredients (incl./excl.: structure, rhythmic, Harmonic, Melodic)\n\t- Lyrical / Thematic (include words/phrases, exclude a letter, rhyme, meter)\n\t- Starting Point (lyrics, rhythm, harmony, melody, structure)\n- _Random_: Introduce the unknown, far analogies, prompt tables, from exemplars\n",
+			"type": "text",
+			"x": -2900,
+			"y": 1000,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "63bf7891d8837d6b",
+			"styleAttributes": {},
+			"text": "NOTES\n- \"When you begin with a general idea, you assume some of the qualities and characteristics you want in the end result. All too often assumptions of these kinds remain unnoticed and unrecognized. It is better to make them explicit rather than to keep them implicit\" (Fritz 1991, p.21)\n- Make it a game, target quality _and_ quantity, use phrases like: \"take your time\", \"there are no incorrect answers\", \"the more ideas the better\", \"perfect playing doesn't matter\"\n- _Intentions_: Why? (impulse); What? (shape of the thing, class, what am I creating?). What sparked my curiosity? What motivated me to spend time / energy on this? What am I trying to accomplish? What will it require? What is success?\n-  _Superordinate Constraints_ (e.g. which musical form?) (Sloboda 1985. p.118)",
+			"type": "text",
+			"x": -3640,
+			"y": 640,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "5bb20cebb7e31fcc",
+			"styleAttributes": {},
+			"text": "NOTES\n- Conjure as many ideas as possible, discover near and far analogies, draft limitations, and broaden the possibility space (Osborn 1963)\n- Not generating specific instances of an idea at this point, but exploring the possibilities\n- \"The user is asked to respond with \"wild ideas,\" (MacCrimmon & Wagner 1994, p.1521)\n- \"Brainstorming is a limited device … primarily a search device, not an evaluative device\" (Nickerson 1999)\n\n- 4 types of constraint (Marshall 2019):\n\t- intrinsic, extrinsic, functional, aesthetic\n\n\n",
+			"type": "text",
+			"x": -3640,
+			"y": 1000,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "83650023da70730a",
+			"styleAttributes": {},
+			"text": "## Capture\n\n\nRecording or notating the nascent ideas, \"catching each gleam and caging it as it comes\" (Osborn, 1963). We have to unwrap it and unfold the innards of the compositional result, \"this means that all of the content we are thinking about when composing should, if ever possible, be materialized as a concrete musical substance, notes, pauses, whatever\" (Mazzola et al, 2011, p.101).\n- Record\n\t- Video (phone camera)\n\t- Audio (voice notes, DAW, retrospective recording)\n- Notate\n\t- sketch / graphical\n\t- chart / lead sheet\n\t- tab / transcription\n\n",
+			"type": "text",
+			"x": 820,
+			"y": -2960,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "4830332fbbc1bc9a",
+			"styleAttributes": {},
+			"text": "## Define\n\nConsider possible use cases for the ideas (in structure or form, perhaps, such as chorus, verse, theme 1, etc.), note the attributes of the idea to see the gaps and identify where further exploration may be fruitful, define the 'current reality'. examine the idea's walls, or \"properties, characteristics, and specificities\" of it's current \"explicit form\".\n\n- Working Title\n- Descriptors & Attributes\n- Possible Use Case & Placement (verse, chorus, groove, jumping off point, etc.)\n\n",
+			"type": "text",
+			"x": 820,
+			"y": -2600,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "8d1d84ca3e67a516",
+			"styleAttributes": {},
+			"text": "## Assemble\n\n\nBegin to piece together component parts, placing the idea roughly into the beginnings of an overall structure (place into a new DAW/project file, align it before or after another part or idea). Even if the placement makes no logical sense, it can spark further ideas: \n\n- Add to folder / project file\n- Arrange / juxtapose / contrast\n- Put into a useful format\n",
+			"type": "text",
+			"x": 820,
+			"y": -2240,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "b0ddc595b13f64df",
+			"styleAttributes": {},
+			"text": "## Select\n\nChoosing among the options, selecting what to work on, where promise and interest lies, called \"selective retention\" in the BVSR model. Ideas can be \"insightfully selected\" for their aesthetic qualities.\n\n- _Selective Retention_: Choose items from your ideational pools\n- _Bubble Sort_: Order options based on (cost, benefit, excitement, interest, ease, quality, aesthetics)\n- _Maximising vs. Satisficing_ - select something to move forward with\n\n",
+			"type": "text",
+			"x": 820,
+			"y": -1880,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "5992af3d61f957cc",
+			"styleAttributes": {},
+			"text": "#### Connection\n\nThis is one of the core facets of the creative process. Bringing two ideas, concepts, elements together and comparing, contrasting, melding, repelling, mingling to see what results is fundamental to the generation of new ideas and artefacts. This can be done with intention, focusing on linked aspects that you are consciously aware of, or it can be rely on serendipity as your associative activation network and pattern recognition abilities endeavour to make sense of the juxtaposition.\n- Random (shoot wild, distant in concept space)\n- Intentional (linked, associative activation)\n- Play with the pieces (ideas, solutions, limitations, analogies, etc.)\n- Experimentation",
+			"type": "text",
+			"x": -1420,
+			"y": -2960,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "54a240d6ca0f4880",
+			"styleAttributes": {},
+			"text": "#### Exploration\n\nCan be thought of as using a map to drive to unexplored regions. You're limited by the framework of the road system but can end up in places you (or others) have never been. Explorational creativity is about finding possibilities, 'coulds' and 'cans'.\n- Goalless Exploration: Follow your curiosity and see where it leads\n- Let each idea suggest where you go next\n- Trial & Error\n- Experimentation\n- Persistence Pathway (go deep) vs. Flexibility Pathway (go broad)\n",
+			"type": "text",
+			"x": -1420,
+			"y": -2600,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "744039aa36f5c9f7",
+			"styleAttributes": {},
+			"text": "#### Convention\n\nAdopt a path, system, or process that others have already used to move from your current reality and closer to your vision. This can involve 'borrowing' concepts and elements from artists who inspired you (seeded exemplars would be a good place to start) and integrating them into your idea generation. You can also utilise processes or systems inspired by other artists' approaches.\n- Steal & Borrow\n- Processes & Systems\n- Experimentation",
+			"type": "text",
+			"x": -1420,
+			"y": -2240,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "489e53d21cd19b1b",
+			"styleAttributes": {},
+			"text": "#### Invention\n\nDevelop an original path between current reality and your vision. This involves coming up with ideas using random elements from your raw materials or ingredients list, using the processes or systems or limitations and restrictions you defined in the preparation stage to generate ideas. As with many of these open mode steps, a focus on quantity first, quality second can help increase the likelihood of stumbling upon a useful idea\n- Random\n- Process\n- Improvise\n- Experimentation\n",
+			"type": "text",
+			"x": -1420,
+			"y": -1880,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "b17ec24f92e2bde7",
+			"styleAttributes": {},
+			"text": "## Modify\n\nWhile the focus of the open mode is on adding and extending the idea, this is about working with the materials you already have, reshaping and redefining them, moulding and folding them into new shapes. Altering the underlying chords can modify the meaning of the melody (Bernstein likens this to an adjective modifying the meaning of the noun). \"A slight elaboration, or an added voice, or a structural ambiguity, or a change in the dynamics of loud and soft\"\n\n- Modify idea / artefact\n- Problem Modification\n",
+			"type": "text",
+			"x": 1560,
+			"y": -80,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "5d020fb17afa207a",
+			"styleAttributes": {},
+			"text": "## Rearrange\n\nOne of the fundamental ways we can see new patterns and iterate upon our ideas is to try component parts in new configurations. Interchange elements, look for other patterns, layouts, sequences. It helps to have an \"explicit representation of blocks of material at multiple temporal levels … to enable the quick rearrangement and editing of material … and to support … for experimentation in the studio\". Beethoven would often turn his concept sketches into continuity drafts to test how things would fit together\n",
+			"type": "text",
+			"x": 1560,
+			"y": 280,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "770da3ed77c184ee",
+			"styleAttributes": {},
+			"text": "## Stability & Tension\n\nLook for moments where stability or tension can be added or highlighted. These are two broad categories that define the motivic force of a piece. Tools like melody, rhythm, melodic rhythm, harmonic rhythm, lyrics, etc. help you craft stable vs. unstable at every level, micro to macro, line to section to song. Repetition represents stability, variation represents tension. \"What is variation, anyway? It's always, in one way or another, a manifestation of the mighty dramatic principle known as the Violation of Expectation\"\n",
+			"type": "text",
+			"x": 1560,
+			"y": 640,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "926b33081ac49c85",
+			"styleAttributes": {},
+			"text": "## Add Order\n\nOrganising, structuring, making sense of the disparate elements. This can mean working with a more deductive approach, \"devise a plan for the global structure and let the details follow\" or a more inductive one where we build up from the smaller cells or fragments into a larger structure, branching out like snowflake. Working top-down or bottom-up, in the end, makes little difference: \"the problems . . . are complementary. In each case the difficulty is to reconcile the large-scale structure with the smaller-scale details\"\n- Organise\n- Structure\n- Symmetry\n",
+			"type": "text",
+			"x": 1560,
+			"y": 1000,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "6510e7cf838dafbf",
+			"styleAttributes": {},
+			"text": "#### Breadth & Depth\n\nExpanding out horizontally from the initial idea with repetition or variation. Adding depth and detail in the vertical dimension (more voices, more parts, more complexity). Horizontal can also mean different elements that are related by their set or category (all the possible variations of a melody or prime/altered versions of a repeated section in a piece, for example), while verticality is the hierarchical relationship between categories (musical form might be the superordinate structure, within which Sonata, Fugue, AABA are basic categories, within which a Verse, Chorus, Bridge, would be specific subordinate variations)\n\n- Linear Structure (extend)\n- Vertical Slice (layer)\n",
+			"type": "text",
+			"x": 1560,
+			"y": -1160,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "c8af3cda7dad2886",
+			"styleAttributes": {},
+			"text": "#### Similarity & Contrast\n\nDeveloping the idea through analogy or associative activation, seeking related ideas or their opposites. We look for gaps, symmetry, patterns. Exploring cognitive hyperspace categories or Musical Axes can also help, as can making associations and using analogy and metaphor.\n\n- Collage / Juxtapose\n- Musical Axes\n- Janusian Thinking\n",
+			"type": "text",
+			"x": 1560,
+			"y": -800,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "a317c589eac86d3f",
+			"styleAttributes": {},
+			"text": "#### ADD CHAOS\n\nIntroduce the unknown, folding in accidents created by other sounds and music that occur as you compose. One of the dangers of iterating out from initial ideas is it can be possible to get stuck in an area of semantic space that is unproductive due to the fixedness of that initial concept or idea, the addition of random noise can encourage breaking out of this fixity.\n- Randomness & Serendipity / Stochastic Resonance\n- Throw away this idea\n- Remove % of notes\n- Add something at random\n- Jumble the parts\n- Antagonist Card\n",
+			"type": "text",
+			"x": 1560,
+			"y": -440,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "77313e9ac0392309",
+			"styleAttributes": {},
+			"text": "#### Evolve & Mutate\n\n\nElaboration, the ability to develop, iterate upon, and add to already extant ideas. Composers iterate through ideas and alter their process (and therefore their output) as they are creating.\n\n- Improve selected idea(s)\n- Intermediate form (where might it go?)\n- Develop an idea\n- Explore\n- Elaborate",
+			"type": "text",
+			"x": 1560,
+			"y": -1520,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "f1cc43ddddd61855",
+			"styleAttributes": {},
+			"text": "## Vision & Reality\n\nMoving from conception to vision involves moving from a broader, more general concept of what you want to create (a song) - the class - to a more focused and specific idea - an instance - of what the artefact should be.\n\nOnce the vision is tangible and specific, identifying the current reality, how things stand with the artefact, is the motivic force that drives the creative process. Structural tension between what _is_ and what _could be_ is generated and seeks resolution as the work begins.\n\n- _Vision_: settle on a tangible and specific idea\n- _Reality_: describe what you currently have in relationship to the result you want\n\n",
+			"type": "text",
+			"x": -2160,
+			"y": -1520,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "d0c471e20f9bc941",
+			"styleAttributes": {},
+			"text": "## Problem Identification\n\nDigging deeper into the tension created between _Vision_ and _Current Reality_ can help to identify some of the problems you might have to overcome in the creative process. Problems can be constructed, found, defined, and/or explored using heuristics or by following a checklist of concepts and questions designed to help you identify the component parts and parameters, recognise and challenge assumptions, and suggest paths that might lead to interesting solutions.\n\n\n- Problem Construction, Formulation, Finding, Exploration, Definition\n- Identify (then Soften) the Walls\n- Define your limitations and restrictions\n- First Principles Thinking / Analogical Reasoning (Transfer)\n- Heuristics | Cartesian Logic, Cotton's Checklist, etc.\n",
+			"type": "text",
+			"x": -2160,
+			"y": -1160,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "3a4a4d5aeb44e9ad",
+			"styleAttributes": {},
+			"text": "## Decide & Distil\n\nChoose the elements, concepts, raw materials, limitations, processes, and strategies that you are planning to use. Focus on the pieces that are most interesting, exciting, or useful (or that you think will be the most fun to play with). Gathering your ingredients and recipe ideas together, ready to cook.\n- Choose _exemplars_ that violate constraints or break the rules in some way and/or are conceptually distant from one another\n- _Pre-Inventive Forms_\n- Choose _conceptual mappings_ that have deeper structures and connections and/or seek analogies that are distant in conceptual space (Cage suggest taking aspects that are \"conventionally limited\" to one type of activity and applying them beyond their scope)\n- _Reflection-for-Action_\n\n\n",
+			"type": "text",
+			"x": -2160,
+			"y": -800,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "2ca3e2bd03b99f49",
+			"styleAttributes": {},
+			"text": "## Plan\n\nFiguring out some of the metacognitive aspects of the project. These can be seen as second-order decisions about how you intend to proceed, what you as the maker are going to be doing. Plans lead to actions that produce direct experience of plan (Fritz 1991). When you consider your next steps that can help bring you closer to your desired creation, ask yourself this question: What will help move me closer to where I want to go?\n- Good Deadlines (use the deadline in order to organize your actions, work backwards from deadline outlining the steps you'll need to take)\n- Tools & Processes (what are the best systems to create the best work in a reasonable amount of time?)\n\n",
+			"type": "text",
+			"x": -2160,
+			"y": -440,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "66061415e465b561",
+			"styleAttributes": {},
+			"text": "## Metrics\n\n\"Some judgement is involved in all creative problem-solving. It is good to have original ideas but it is also vital to know which ideas are the most original\" (and useful). Four parameters for evaluation: 1. Artefact 2. Creator 3. Audience 4. Context, which aligns with the Systems model of Creativity (Domain, Person, Field). A Creativity Index is also useful, where you \"rate an idea in relation to an individual's entire output\", allowing for a _creativity index_ against which new ideas can be scored. The creativity rating can be correlated with originality and appropriateness\"\n- Originality, Appropriateness, Fluency, Elaboration, Abstractness\n- Fitness score\n",
+			"type": "text",
+			"x": -1420,
+			"y": 1720,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "28246b8682f51fd1",
+			"styleAttributes": {},
+			"text": "## Judgement\n\nDeciding on the success - or otherwise - of the idea/piece as it stands, the 'current reality'. Self-evaluation of material generated in creative acts is dependent on \"domain-specific expertise\", social context and experience, and the intentions of the individual (their goal). This \"requires one to accept that the nature of artistic enquiry is necessarily disordered, and that the 'failed experiments' are both valid research products and an important part of a rigorous research process\". Leonard Cohen: \"It's just as hard to write a bad verse as a good verse … it is the writing of the verse that produces whatever delights or interests or facets that are going to catch the light. The cutting of the gem has to be finished before you can see whether it shines\" \n",
+			"type": "text",
+			"x": -1420,
+			"y": 2080,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "cbf73c066ebe48fe",
+			"styleAttributes": {},
+			"text": "## Reflect\n\nTaking time to evaluate and reflect upon the idea or creation is vital, whether the result is good or bad, for levelling up individual skill or improving the specific idea. \"Self-assessment is a crucial part of art-making\". _Reflection-in-action_ and _reflection-on-action_ are relevant here as, \"during reflection-in-action one is learning and adapting their own under standing and the situation. In this process the situation is changing, and that new information is ‘talking back’ or ‘feeding back’ into the process\".\n\n- Areas for improvement\n - Lessons learned\n - Post mortem\n",
+			"type": "text",
+			"x": -1420,
+			"y": 1360,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "f0010654d5bce91c",
+			"styleAttributes": {},
+			"text": "#### Imaginarium\n\nFlights of fancy, freeing the mind to play with the idea in fantastical ways. Guided fantasy is one such type of intuitive approach. This approach uses \"techniques suggesting different vantage points from which to consider the problem. For example, the guided fantasy technique encourages individuals to think of a fantasy world distant from the task and use elements of it in generating ideas\". Thinking Hats are another approach.\n\n- What if?\n- Necessity may be the mother of invention, but play is certainly the father",
+			"type": "text",
+			"x": 820,
+			"y": 1720,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "af3369214f51b66e",
+			"styleAttributes": {},
+			"text": "#### Creative Aids\n\nTools and toys that can help visualise and interrupt the fixedness of an idea or part of the creative process. Eno's Oblique Strategies cards to Roger von Oech's Ball of Whacks: \"Think of it as a metaphor for your issue. Grasp it. Toss it back and forth … Think of its pieces as components of your problem\", then play with it. Games and play can be an important part of this process as they can be leveraged in order to encourage exploration of new areas of conceptual space and to \"subvert musical expectations\"\n",
+			"type": "text",
+			"x": 820,
+			"y": 2080,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "f729f0acdcaa2908",
+			"styleAttributes": {},
+			"text": "#### Time Away\n\nTemporarily withdrawing from the task or problem. There's a growing body of work that bears this approach out, though it's not always useful or successful (if the creator is not fixated, the incubation period often has little effect on the outcome) even a short (1 minute) amount of distracted time can loosen the fixation on an idea and encourage novel solutions and connections to occur. Allowing room for the mind to wander when not engaged in creative tasks can lead to spontaneous solutions and eureka moments. As important as incubation can be, the cold truth is: \"This unconscious work is not possible, or in any case not fruitful, unless it is first preceded and then followed by a period of conscious work\"",
+			"type": "text",
+			"x": 820,
+			"y": 1360,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "8e0cf6e963c51363",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- Presenting stimuli to cue motivation and more creative responses (Haase and Hanel 2022) \n",
+			"type": "text",
+			"x": -3640,
+			"y": -80,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "f1f53047d3377a06",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- During the creative process you will find unexpected incidents that sometimes make the plan you worked so hard to construct obsolete (Fritz 1991, p.2 18)\n- If you try to hold everything you know, every aspect of a plan in your mind, eventually you will wear yourself out. The most effective people _think_ of one thing at a time, while simultaneously _knowing_ what their next step is (Ibid., p.222)\n- _Deadlines_: Avoid using deadlines to manipulate yourself into taking action, to pressure yourself into creating, This leads … [to] relief once its over rather than a compelling desire to do it again. Instead, use a deadline to _organize_ your actions. Ask how can you plan your actions to produce the result you desire (like finishing by a certain date)? Then the actions you take aren't motivated because you feel pressure, but _because you want to accomplish the result you are after_. With each step accomplished, the next steps tend to be easier (Ibid., pp.34-35)\n\n",
+			"type": "text",
+			"x": -3640,
+			"y": -440,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "aeeeeb1d6cbc7479",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- _Reflection-for-Action_ - \"extensive preparation takes place, including constraint identification and devising structured approaches before the main event begins\" (Candy 2020, p.71)\n- \"If actions are to have the potential to move the practitioner forward, it is necessary to consider what has already been done and to assess the available options … learn from past outcomes and [prepare] for future action … it represents the all-important preparatory activities (Candy 2020, p.53)\n- _Pre-inventive forms_ (Finke, 1990), 'seeded exemplars' (Ward & Kolomyts 2019) that violate constraints, break rules, or are conceptually distant can be worthwhile.\n",
+			"type": "text",
+			"x": -3640,
+			"y": -800,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "5dc3443218263952",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- Develop an original path between current reality and your vision (Fritz, 1991, p.31)",
+			"type": "text",
+			"x": -2900,
+			"y": -1880,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "4fcc800b7df42334",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- Build upon and innovate from existing knowledge, \"what's old about new ideas is at least as important as what's new about them.\" (Ward & Kolomyts, 2019, p.175)\n",
+			"type": "text",
+			"x": -2900,
+			"y": -2240,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "1398db604ca2bf98",
+			"styleAttributes": {},
+			"text": "NOTES\n-  explore the boundaries, let each idea suggest where you go next (Boden, 2004)\n- Dual Pathway to Creativity Theory: Persistence vs. Flexibility (Nijstad et al., 2010)\n- Ogden Word Wheel (explore all relationship between concepts, from Galton's Walk)",
+			"type": "text",
+			"x": -2900,
+			"y": -2600,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "bd06a8125153d0e1",
+			"styleAttributes": {},
+			"text": "NOTES\n\n - Combinations often synergise, \"yielding _emergent features_ that might be absent entirely or at least recessive in the original ideas\" (Ward & Kolomyts, p.186)\n---\n\n- _Associative Activation_ - one concept linking to another in our neural network. These ideas can also, though more weakly, lead to other ideas, so a single idea can cascade outwards like ripples on a pond (Kahneman, 2011, p.53)",
+			"type": "text",
+			"x": -2900,
+			"y": -2960,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "5fe0a09a111bc3d3",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- \"Self-assessment is a crucial part of art-making\" (Young & Roens, p.35).\n- \"During reflection-in-action one is learning and adapting…\" (Seevinck, p.442)\n- _Think-Aloud Protocol_ (Charters, 2003; Ericsson & Simon, 1980; Honey et al, 2022)\n- _Reflection-in/on/for-action_ (Candy, 2020; Schön, 1983)\n- _Autoethnography_ (Ellis et al, 2010)",
+			"type": "text",
+			"x": -2900,
+			"y": 1360,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "f22a473ec85640bd",
+			"styleAttributes": {},
+			"text": "NOTES\n- \"Some judgement is involved…\" (Runco & Acar, p.242)\n- Four parameters for evaluation (Wiggins et al, 2015) \n- _Systems Model of Creativity_ (Csikszentmihalyi, 2009)\n- \"rate an idea in relation…\" (Runco & Acar, 2019, p.234)",
+			"type": "text",
+			"x": -2900,
+			"y": 1720,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "bcb221ce92a71e76",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- \"Domain-specific expertise\" (Agres et al., 2015, p.2)\n- \"requires one to accept the nature of artistic enquiry…\" (Leedham & Scheuregger, p.81)\n- \"It's just as hard to write a bad verse…\" (Cohen, 2003, p.337)",
+			"type": "text",
+			"x": -2900,
+			"y": 2080,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "7876d78475e53d5a",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- _Backtracking_ (Simonton, 2011)\n- Producers often \"treat… \" (Duignan et al, 2010, p.30)\n- _Intermediate Packets_ (Forte, 2023)\n- _Ideas Are Reusable_ (Abdaal, 2020)",
+			"type": "text",
+			"x": -2900,
+			"y": 2440,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "54b36dab00d98558",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- \"catching each gleam and caging it as it comes\" (Osborn, 1963)\n- \"concrete musical substance\"  (Mazzola et al, 2011, p.101)",
+			"type": "text",
+			"x": 2300,
+			"y": -2960,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "aa8da71f1f1b9fc7",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- \"creative individuals are able to tolerate opposites, paradoxes, and contradictions of ideas, stereotypes, structures, etc. in their thinking\" (Runco & Acar, 2019, p.231)\n- melting pot \"without any coherent rationale\" - Boden, 2011, p.188",
+			"type": "text",
+			"x": 2300,
+			"y": -2240,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "26be342f38fdb547",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- _Blind Variation Selective Retention (BVSR) model_ - refined by Simonton (2011)\n- _Insightful Selection_ - (Boden, 1991, p.34)",
+			"type": "text",
+			"x": 2300,
+			"y": -1880,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "36487c0e057641fe",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- Elaboration (Guilford, 1967)\n- Composers iterate (Laughran & O'Neill, 2016, p.6)\n- Mutation Over Generations (DeSantis, 2015, pp.132-133)\n- Interpolation, etc. (Slonimsky, 2018)\n- Bach, Beethoven, Johnston (Bruce, 2020)",
+			"type": "text",
+			"x": 3040,
+			"y": -1520,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "8c2b29b2f6dcafdb",
+			"styleAttributes": {},
+			"text": "NOTES\n \n-  \"The act of composing implies placing different musical entities in relation to one another on a vertical and/or horizontal level\" (Sköld et al, p.214)\n- \"deriving the harmony from stacking or verticalizing the horizontal phrase\" (Melford, 2000, p.123)",
+			"type": "text",
+			"x": 3040,
+			"y": -1160,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "c8cbf8f85d2bb40b",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- Introduce the unknown (Cage, 2013, p.16)\n- Radio trick(Cage, 2013, p.30); (Waits 2002)\n- Stochastic Resonance (Taleb, 2012, p.134)\n- Breaking out of fixedness (Benedek & Jauk, 2019, p.210)",
+			"type": "text",
+			"x": 3040,
+			"y": -440,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "e9ec10488c4ced78",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- \"Look for other patterns\" (Osborn, 1963)\n- \"Explicit representation of blocks\" (Duignan & Biddle, p.26)\n- Beethoven's concept sketches (Cooper, 1990, p.113)\n- Subtractive Arranging (DeSantis, 2015, p.300)",
+			"type": "text",
+			"x": 3040,
+			"y": 280,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "bc352262ea9c5f98",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- Stability vs. Tension at every level  (Pattison, n.d.)\n- Violation of Expectation (Bernstein, 1976, p.162)",
+			"type": "text",
+			"x": 3040,
+			"y": 640,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "ed115ddc50f09568",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- \"Devise a plan … let the details follow\" (Holler, 1984, pp.67-68)\n- Top-Down / Bottom-Up (McCutchan, 1999, p.231)",
+			"type": "text",
+			"x": 3040,
+			"y": 1000,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "3505be7bbb970e32",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- Temporarily withdrawing from the task or problem (Wallas, 1926)\n- Even a short amount of distracted time…\"  (Ward & Kolomyts, pp.185-186 )\n- Allowing room for the mind to wander can lead to eureka moments (Benedek & Jauk, 2019, p.205)\n- \"This unconscious work is not possible unless…\"  (Poincaré, 1914, p.56)\n- _Leverage Boredom_ (Gaiman in Deprocrastination, 2023\n- _Schedule Time to Play_ (Cleese, 2017)\n- _Productive Meditation_ (Newport, 2016, pp.170-173)",
+			"type": "text",
+			"x": 2300,
+			"y": 1360,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "b13f94dad3a02d7d",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- _Guided Fantasy_ (Garfield et al, 2001)\n\t- \"techniques suggesting different vantage points…\" (p.234)\n- _Thinking Hats_  (DeBono, 1999)",
+			"type": "text",
+			"x": 2300,
+			"y": 1720,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "7a524247651dc4b3",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- \"Think of it as a metaphor…\" (von Oech's, 2011, p.40)\n- \"Subvert musical expectations\"  (Weiss, 2017, p.5)",
+			"type": "text",
+			"x": 2300,
+			"y": 2080,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "3e4a83e9abb5c1e4",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- \"The eraser end … is just important as the writing end\" (Schoenberg in Cage, 2013, p.24) \n- \"change pitches, rewrite entire sections, and/or eliminate material\" (Cope, 2012, pp.275–276) ",
+			"type": "text",
+			"x": 2300,
+			"y": 2440,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "422a66c63584bd91",
+			"styleAttributes": {},
+			"text": "_Open Mode (divergent)_\n- defocused attention\n- novel association\n- diverse & remote stimuli\n- noise & error in the system\n- distraction\n- strange connections",
+			"type": "text",
+			"x": -280,
+			"y": -1020,
+			"width": 320,
+			"height": 300,
+			"color": "4"
+		},
+		{
+			"id": "7576bb91f4caff20",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- \"Structural tension is always a key component in creating. Know what you want, and know where you are. Hold a vision of the final result, and simultaneously, hold an awareness of the current reality that is relevant to that vision\" (Fritz 1991, p.260). ",
+			"type": "text",
+			"x": -3640,
+			"y": -1520,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "1d4bdece2f77b4f4",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n \n_Learning-Adjusting_: The plan has to include the possibility that the situation may change, assumption may turn out to be incorrect, new unpredictable elements may come into play, you may not be able to create the thing you're trying to create (Fritz 1991, p.217). **Failure is always an option.** Plans lead to actions that produce direct experience of the plan.\n\n_Rules, Strategies, Tactics_ - (Cope 2012), a 'way' (Reynolds 2012, p.319), the path from initial impulse to final product. Composition can be \"a process of discovery and invention that begins with an open question and continues with a run through a sequence of well-defined operational steps\" (Mazzola & Park 2011, p.17)\n\n",
+			"type": "text",
+			"x": -2900,
+			"y": -440,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "afb24dfc9da7d226",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n\n- _Pre-Inventive Structures (Geneplore Model)_: choose the most interesting elements: limitations / restrictions / constraints, raw materials, exemplars / inspiration, intentions, prompts, etc.\n- _Combine_: group associated or related elements, these clumps of your raw materials may suggest structure or a way to proceed\n- _Chance (Chance-Configuration Theory / Cognitive Network Model)_: choose random elements (a random combination of mental elements plays an important role in creative thinking. Providing diverse & unrelated stimuli can improve originality)\n- _Identify the Spine (Tharp 2003)_: Think about the core concept, the central idea (your _vision_), this gives you something to build around and come back to when lost\n- _Form a Strategy_: What has worked for you in the past? What worked for others?",
+			"type": "text",
+			"x": -2900,
+			"y": -800,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "5cb334df67086ba8",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n- _First Principles Thinking_: \n\t- Identify and define assumptions (walls, tacit knowledge, expectations)\n\t- Attribute List (break problem into component parts | fundamental principles, list attributes | specifications | limitations)\n- _Analogical Reasoning (Transfer)_:\n\t- Identify source for analogy: Semantic-based | Structure-based (long-term memory search for information relevant to concepts present in working memory), Seeded Exemplars can narrow the scope of far analogies, often aren't useful here\n\t- MAC-FAC (broad collection of a lot of candidates, crude parameters; refine structural similarity metric to eliminate a bunch and rank the rest)\n\n",
+			"type": "text",
+			"x": -2900,
+			"y": -1160,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "b7f774b12794c8eb",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n\n- _Structural Tension_ - The disconnect between current reality and your vision. A vital motivic force for creativity. Fractal in nature, it is as true for moment-to-moment creative acts as it is for longer term projects.",
+			"type": "text",
+			"x": -2900,
+			"y": -1520,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "9802c4354ec5a3dd",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n \n_Intermediate Packets_ - small, concrete, individual building blocks that make up your work. Save and reuse them for future projects\n\n_Ideas Are Reusable_ - You don't have to start from scratch every time, start from abundance by organising and archiving your previous work, mining it for useful reusable materials. You can not only remix other people's work (\"artist's steal\"), but also reuse your own in new and creative ways. Capture and codify your work.\n\n_Project Bible_ - add your work to a project bible or design deck that will serve as seeded exemplars, guideposts moving forward",
+			"type": "text",
+			"x": -2160,
+			"y": 2440,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "fe29907228484d30",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n \n- Vibe check\n\n- Structural Tension (current reality vs. vision) (Fritz, 1991)\n- Diagnose\n- Verification & Validation",
+			"type": "text",
+			"x": -2160,
+			"y": 2080,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "cbf2d78bbce05ee0",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n\n_Creativity Index_ - rate your idea in comparison with your previous work, consider:\n- how creative it is\n- how original it is\n- how useful/relevant it is, etc.\n\n_ICE_ - Impact, Confidence, Ease\n- Give each idea a score (1-5) for: Impact, Confidence, Ease\n- Multiply the scores\n- Select the best / most interesting idea",
+			"type": "text",
+			"x": -2160,
+			"y": 1720,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "4ec6fad6fc58d18d",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n\n\n_Think-Aloud Protocol_ - Verbalising what you are doing as you complete a task. Verbalisations are considered to reflect the cognitive and metacognitive processes and strategies used as participants engaged with the task\n\n_Reflection-in/on/for-action_ - reflecting _in_ the moment of making, asking yourself questions during the process (what am I seeing here, what criteria am I using to judge this? What procedures am I using? Reflecting _on_ how practice can change by evaluating a situation after it has happened\n\n_Analytic Autoethnography_ -  self-reflection and writing to explore anecdotal and personal experience and connect this autobiographical story to wider cultural, political, and social meanings and understandings\n \n\n",
+			"type": "text",
+			"x": -2160,
+			"y": 1360,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "90d947f5c0df3f0a",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n\n_Leverage Boredom_ - Compose/Write or do nothing. You can stare out of the window, daydream, twiddle thumbs, but no books, phones, other tasks, nothing other than boredom or being creative\n\n_Schedule Time to Play_ - play, tinker, a large chunk of time in which to do nothing but think, stare out of window, percolate\n\n_Productive Meditation_ - go for a walk (or engage in a menial task like washing up), draw your attention to the problem. If it wanders, gently draw it back and begin again. Be wary of distractions and looping – it's easy for the mind to loop around the preliminary or shallow thoughts, notice the loop and gently direct your mind to the next step. Review relevant variables for solving the problem, define next step.",
+			"type": "text",
+			"x": 1560,
+			"y": 1360,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "702d692231d6f8a9",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n \n_Guided Fantasy_ - imagine a fantasy world, distant from the task at hand, where things are very different. What would your song, idea, fragment, problem look like in that world? Use elements of that world to generate new ideas.\n\n_Thinking Hats_:\n- _White_: objective, neutral, unbiased, facts\n- _Red_: emotional valure0laden, how thing affects you and others\n- _Black_: cautious, careful, considers the possible downsides, devil's advocate\n- _Yellow_: positive, upbeat, optimistic, best possibilities and outcomes\n- _Green_: creative expanding, growing, broadening\n- _Blue_: cool, unemotional, organising, categorising",
+			"type": "text",
+			"x": 1560,
+			"y": 1720,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "5e58c816b5272b93",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n \n_Make it Physical_:\n- Ball of Whacks: a series of magnetic rhomboid pieces that can be rearranged into various structures other than the initial 'ball' state, used to encourage creative thinking through metaphor and analogy as well as visualisation and physical manipulation\n\n_Cards_:\n- Oblique Strategies\n- Creative Whack Pack\n- The Book of Chances",
+			"type": "text",
+			"x": 1560,
+			"y": 2080,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "6bd432697d0f1685",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n\n_Antagonist Cards_:\n- make a bad choice\n- break something\n- delete something\n- what's the worst thing that could happen? Do that\n- sabotage yourself\n- make it sound worse\n",
+			"type": "text",
+			"x": 1560,
+			"y": 2440,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "cb2a3fac654b6c53",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n\n_Mutation Over Generations_ - Make a copy of the part, make one meaningful change to it (rhythm, harmony, melody, timbre, form, (Musical Traits). Make a copy of that copy, make a different meaningful change. Repeat over multiple generations\n\n_Musical Variations_ - Melodic, Timbral, Raga, Heterophony (Gamalan, prolation canon, etc.), Bach & Beethoven (Goldberg or Diabelli), Ben Johnston (add complexity); _Interpolation_, _Ultrapolation_, _Infrapolation_.\n",
+			"type": "text",
+			"x": 2300,
+			"y": -1520,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "95938744b5440ee3",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n \n_Borrow Structure_ - Use the structure of an already existing song to sketch out the elements of yours\n\n_Musical Structures_:\n1. Grouping structure: segmentation of the music into discreet units, e.g. phrases, motives\n2. Metrical structure: patterns of strong/weak beats\n3. Time-span reduction: how important pitches are based on how they relate to metrical structure\n4. Prolongational reduction: patterns of tension and resolution",
+			"type": "text",
+			"x": 2300,
+			"y": -1160,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "57a29e597b45cc14",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n \n_Stochastic Resonance_ - introducing noise or randomness into the system to generate new ideas or improve how things work; serendipity\n\n_Listen to Radio_ - Cage would often listen to the radio as he wrote and incorporate the sounds he heard into his work (Tom Waits used this trick too, listening to two radios at once and seeking happy accidents.",
+			"type": "text",
+			"x": 2300,
+			"y": -440,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "84ed5aeac356e73b",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n \n_Top-Down (Deductive)_ - structural, song form, blueprint, map, strategy. etc.\n\n_Bottom-Up (Inductive)_ -  cell, fragment, snowflake, fractal",
+			"type": "text",
+			"x": 2300,
+			"y": 1000,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "1c9300a250aca751",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n \n_Violation of Expectation_ - Repetition can lead to familiarity and expectation, add surprise or tension by holding back or subverting the expectation\n\n_Stability vs. Tension_ - Stability stops us, instability says \"let's keep going\" or \"we’re missing something\"\n- Matched lengths feel stable, balanced, resolved, they feel like facts\n- Unmatched lengths don't feel stable, balance, resolved\n- Stable tones vs. unstable tones: chord tones/non-chord tones, etc.",
+			"type": "text",
+			"x": 2300,
+			"y": 640,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "a87c3293b04d6f2d",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n \n_Pattern-Seeking_ - Look for repeating patterns at various micro/macro levels, from notes to sections\n\n_Experiment_ - Move things around in small/large blocks, seek connection or juxtaposition\n\n_Subtractive Arranging_ - quickly block out a song's length worth of material from your ideas, don't be precious about it, copy/paste material across as many tracks as possible. Now, rather than applying paint to a blank canvas, you're carving material away like a sculptor.",
+			"type": "text",
+			"x": 2300,
+			"y": 280,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "c0b4a21ccf1129dd",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n\n_Ludeon Method_: \n- Capture your ideas\n- Place them into massive 'ideas reservoir' (Ideational Pool)\n- Regularly sort the reservoir\n\t- bubble sort, i.e. this one should be above that one\n\t- use cost/benefit evaluation\n- Task selection (best next steps)\n\n\n \n",
+			"type": "text",
+			"x": 1560,
+			"y": -1880,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "352d933d158a0765",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n \n_Unifying Force_ - You as the composer are the unifying force, the arbiter of successful (or otherwise) juxtapositions. Without this artistic intention – built on your experience, skill, and tastes – ideas thrown into a melting pot \"without any coherent rationale\" would lack \"unity\" and \"integrity\".\n\n_Types of Arrangement (and Analogies for Mapping)_: Space is a common mapping (family tree represents blood relations, marriage, and ancestry vertically, horizontally, connected and juxtaposed), time (reciting events in order), alphabetical, by pitch, or colour. Spatial is most common due to how we perceive the world. We look for gaps, symmetry, patterns.",
+			"type": "text",
+			"x": 1560,
+			"y": -2240,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "4b869e0f7c442487",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n \n- _Catalogue of Attributes_ - A list of elements in a song, touching upon sound, harmony, melody, rhythm, and form/structure, etc. (Musical Traits)\n- _Morphological Analysis_: The object is to break down the system, product, or process problem at hand into its essential parameters or dimensions and to place them in a multi-dimensional matrix",
+			"type": "text",
+			"x": 1560,
+			"y": -2600,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "d77c3d97912066a5",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n\n- _Ubiquitous Capture_ - it's vital to capture ideas anywhere and any time they arise. Phones are a great tool for this. Voice recordings, video snippets, notes, etc\n\t- _Mise en Place_ - From the culinary world, 'put in place', meaning that everything is where it should be in order to encourage creative flow\n\t- Always be ready for Capturing Ideas\n\t- Ensure this organisation time is kept separate from creative time. Act quickly on creative inspiration, jump tracks as inspiration strikes\n- _Notation_:\n\t1. Notation represents sounds\n\t2. Notation represents things performers have to do in order to make sounds",
+			"type": "text",
+			"x": 1560,
+			"y": -2960,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "2f84d6761fc03d2b",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n- _Combinatorial Creativity_ - (Boden, 2004)\n- _Splicing_ (Cage, 2011)\n- _Bisociation_ (Koestler, 1964)\n- _Conceptual Blending_ (Fauconnier & Turner, 2008)\n---\n- _Associative Activation_\n \n",
+			"type": "text",
+			"x": -2160,
+			"y": -2960,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "f9348379073bcd70",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n \n_Time Limits_: Avoid setting limitations on the time spent in this stage as ideas tend to be more original later in the process, \"distant associations and ideas found only after some time has passed tend to be, on average, the most original\" (Runco & Acar, 2019, p.235). \n\n\"You generate many of your new ideas when you're just messing around in your mental playground. You give yourself a license to try different approaches without fear of penalty … you're likely to have little concern with the rules or being wrong. You try one thing, and then another often not getting anywhere. You ask \"what if\" and \"why not,\" put things in different contexts, and look at them backwards. And, eventually, you may come up with a worthwhile idea (von Oech, 2022, p.71)",
+			"type": "text",
+			"x": -2160,
+			"y": -2600,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "e0e83beb4a66d24a",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n\n- _Cryptograms_ - Arezzo, French Musical Cryptogram, etc.\n- _Schillinger_ - interference patterns\n- _Musical Dice Games_\n- _Art Song_\n- _Rules, Tactics, Strategies_ - Cope\n\n",
+			"type": "text",
+			"x": -2160,
+			"y": -2240,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "370476c0fb2140c7",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n\n_Experimentation_: A vital component of all of the steps in this stage of the creative process. Trying out your ideas early causes you to move from theoretical speculation about what might work to a real experience of what does and does not work ... Speculation about process is limited in its effectiveness. When you have an idea about how to move from where you are to where you want to be, experiment with the it, try it out. You'll begin to learn about the idea directly and become more practical. You'll begin to invent ways to create the results they want-faster, better, and more efficiently (Fritz, 1991, p.31)\n\n_Trial and Error_: Don't be afraid to make mistakes or generate bad ideas. Evaluate later.\n",
+			"type": "text",
+			"x": -2160,
+			"y": -1880,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "74b9e5a25bb7918a",
+			"styleAttributes": {},
+			"text": "#### EVALUATION | PLAY\n",
+			"type": "text",
+			"x": 2940,
+			"y": 1360,
+			"width": 160,
+			"height": 1400,
+			"color": "4"
+		},
+		{
+			"id": "50fc30151123b24f",
+			"styleAttributes": {},
+			"text": "## ITERATION | REFINE\n",
+			"type": "text",
+			"x": 3680,
+			"y": -80,
+			"width": 160,
+			"height": 1400,
+			"color": "6"
+		},
+		{
+			"id": "6544e12cb60de456",
+			"styleAttributes": {},
+			"text": "#### ITERATION | DEVELOP\n",
+			"type": "text",
+			"x": 3680,
+			"y": -1520,
+			"width": 160,
+			"height": 1400,
+			"color": "4"
+		},
+		{
+			"id": "d8f8bebc65542e29",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Vision & Reality",
+			"type": "text",
+			"x": -940,
+			"y": -320,
+			"width": 220,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "017338766e05c663",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- Collecting material to serve as inspiration or reference for the creative artefact: 'prospecting' (Osborn, 1963), 'scratching' (Tharp 2003)\n",
+			"type": "text",
+			"x": -3640,
+			"y": 280,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "5673a094c6335a98",
+			"styleAttributes": {},
+			"text": "#### GENERATION | IDEATE\n",
+			"type": "text",
+			"x": -3000,
+			"y": -2960,
+			"width": 160,
+			"height": 1400,
+			"color": "4"
+		},
+		{
+			"id": "4a5b613f383ebdf7",
+			"styleAttributes": {},
+			"text": "#### PREPARATION | GATHER\n",
+			"type": "text",
+			"x": -3740,
+			"y": -80,
+			"width": 160,
+			"height": 1400,
+			"color": "4"
+		},
+		{
+			"id": "7567c59a5da13994",
+			"styleAttributes": {},
+			"text": "NOTES\n>\n- _Challenge Assumptions_: Attribute List | Soften Walls (consider that attributes aren't set in stone) | Suggest Alternatives (for attributes) | Combine Alternatives\n- _Morphological Analysis_: State problem broadly | Define independent variables | Plot each variable as an axis on a chart\n- _Problem Definition_: Identify Problem / Goal | Structure Problem (identify & connect elements / beliefs, min/max) | Define Parameters (visualise concept space, objects, processes) | Solution Alternatives (list extant solutions)\n- _Analogical Reasoning_: mapping source elements (familiar) to target (less familiar). Structural mapping (keeps conceptual skeleton), isomorphs\n- \"Creative insights often occur when a problem is discovered or defined\" (Runco & Sakamoto 1999, p.84). Limitations and restrictions drive creative cognition and define our individual style (Kozbelt 2019, p.122).\t",
+			"type": "text",
+			"x": -3640,
+			"y": -1160,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "d8c4b45438254c4e",
+			"styleAttributes": {},
+			"text": "## PREPARATION | SPECIFY\n",
+			"type": "text",
+			"x": -3740,
+			"y": -1520,
+			"width": 160,
+			"height": 1400,
+			"color": "6"
+		},
+		{
+			"id": "e5a06a7a0253a644",
+			"styleAttributes": {},
+			"text": "### Productivity",
+			"type": "text",
+			"x": 60,
+			"y": -1080,
+			"width": 320,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "a2ecf9466377842f",
+			"styleAttributes": {},
+			"text": "_Closed Mode (convergent)_\n- focused attention\n- logical thinking\n- editorial and critical\n- evaluative\n- avoid distraction\n- near connections",
+			"type": "text",
+			"x": 60,
+			"y": -1020,
+			"width": 320,
+			"height": 300,
+			"color": "6"
+		},
+		{
+			"id": "60dfb547963c4bc6",
+			"styleAttributes": {},
+			"text": "###  MODIFY \n- Combine / Mash-up",
+			"type": "text",
+			"x": -640,
+			"y": 3040,
+			"width": 620,
+			"height": 140,
+			"color": "5"
+		},
+		{
+			"id": "9f058f3f63b9e6df",
+			"styleAttributes": {},
+			"text": "##   STYLE & GENRE ",
+			"type": "text",
+			"x": -2140,
+			"y": 2980,
+			"width": 2120,
+			"height": 50,
+			"color": "5"
+		},
+		{
+			"id": "95076a31dfd83673",
+			"styleAttributes": {},
+			"text": "###  BORROW \n\n- Seeded Exemplar\n- Inspiration Playlist\n- Random Selection",
+			"type": "text",
+			"x": -2140,
+			"y": 3040,
+			"width": 620,
+			"height": 140,
+			"color": "5"
+		},
+		{
+			"id": "0af07d87ef296135",
+			"styleAttributes": {},
+			"text": "Time Signature / Meter:\n- Static / Changing\n- Simple (duple, triple, quadruple)\n- Compound\n- Complex (odd, irregular, asymmetric)\n- Additive (aksak, 9/8 = 2223, etc.)\n- Irrational (divisor not divisible by 2)\n- Ametric\n---\n\n---\nRhythmic Ideas:\n- Scotch Snap (Lombard rhythm)\n- Hemiola (3-2, 4-3)\n- Tresillo (332, x x x)\n- 12-8 Bell\n- Cinquillo (21211 or x xx xx)\n- Claves (3-2 son, 3-2 rumba, 2-3)\n- Tha Dhi Gi Na Tom (5 note subdivision)\n- Stretto (passage at a faster tempo)\n- '1 (2) +' Rhythm\n- Barbara-Ann Rhythm\n- Negative Rhythm\n- _Dance Rhythms_: Sicilian, Gigue, Courante, Allemande, Passapied\n\n---\nTime Contours (classes of motion):\n- Constant\n- Accelerating\n- Decelerating\n- Accelerting > Decelerating\n- Decelerating > Accelerating\n- Irregular",
+			"type": "text",
+			"x": 1040,
+			"y": 3040,
+			"width": 380,
+			"height": 880,
+			"color": "5"
+		},
+		{
+			"id": "a8c46103b92cd222",
+			"styleAttributes": {},
+			"text": "Tempo:\n- Static\n- Changing (gradual)\n- Changing (abrupt)\n- Contour / pattern\n---\n\nPolyrhythms:\n- _Top-Down_: take repeating long pulse and divide into groups / layers (Chopin)\n- _Bottom-Up_: small beat divisions (fast pulse) grouped in different multiples on different layers (Ligeti used this to play same melody at different lengths)\n---\nPolyrhythms (Messiaen):\n- _Rhythms of Unequal Length_\n- _Rhythms Superimposed_: on augmented or diminished variants\n- _Rhythms Superimposed_: on retrograde\n- _Rhythmic Canons_: motif repeats in different voices with distinct off-beats so no 2 notes overlap\n- _Adding a Dot Canons_\n- _Palindromes_: Canon of non-retrogradable rhythms\n- _Rhythmic Pedal_: one voice maintains ostinato against rhythm\n",
+			"type": "text",
+			"x": 1440,
+			"y": 3040,
+			"width": 380,
+			"height": 880,
+			"color": "5"
+		},
+		{
+			"id": "a0050f4865fff3a1",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n\nRhythmic Devices / Tools:\n- _Interference Patterns_\n- _Isorythm_\n- _Polyrhythm Generator_\n- _Euclidean Rhythms_\n- _Emergent Rhythms_ (pareidolia)\n- _Piano Roll Generator_\n- _Random Numbers_: dice, cards, coins, etc.\n- _Cryptogram_: French musical cryptogram\n- _Number Series_: pi, prime, Fibonacci (Tool), tau, lazy caterer's sequence, floretions (OEIS website), etc.\n- _Image Contour_: Stockhausen, Whitacre, etc.\n---\nRhythmic Gestures (durations don't match pulse):\n- _Thetic_: start on strong pulse\n- _Anacrustic_: start on weak\n- _Initial Rest_: start after rest/tie\n\nRhythmic Units (durations sync with pulse):\n- _Metric_: even patterns (isochronal)\n- _Intrametric_: swing/shuffle\n- _Contrametric_: syncopated\n- _Extrametric_: irregular/tuplets (bichronal)\n\nSubdivisions:\n- constant / changing\n- blended / abrupt\n",
+			"type": "text",
+			"x": 580,
+			"y": 3040,
+			"width": 440,
+			"height": 880,
+			"color": "5"
+		},
+		{
+			"id": "a45f401cee1b08a2",
+			"styleAttributes": {},
+			"text": "###  BORROW \n\nRhythmic Raw Material Sources:\n- Encyclopaedia of Reading Rhythms\n- Claves (4349)\n- Tihai (7387)\n- Dictionary of Musical Themes\n- Directory of Tunes\n---\n- Seeded Exemplar\n- Inspiration Playlist\n- Random Selection\n",
+			"type": "text",
+			"x": 120,
+			"y": 3040,
+			"width": 420,
+			"height": 880,
+			"color": "5"
+		},
+		{
+			"id": "a350eb3a86b2cd48",
+			"styleAttributes": {},
+			"text": "###  MODIFY \n\nPhrase / Gap Lengths:\n- Equal / Unequal / Random\n- Placement / Location\n- Visual (Stockhausen)\n---\n- Time Signature Change / Change Feel\n- Syncopy (add/remove)\n- Add / Remove Beats\n- Alter Note Values\n- Double / Half Time\n- Contraction / Expansion\n- Retrograde / Inversion\n- Rhythmic Displacement\n- Rubato / Move in and Out of Time (Collier)\n- Stop Time (Fermata / Railroads)\n- Accelerando / Ritardando (Rallentando)\n- Metric Modulation\n- Fore- / Background out of time (Collier)\n---\nAugmented / Diminished Rhythms (Messiaen):\n- Double / Half / Add Dot / Remove Dot\n- Add Quarter / Third\n- Add the value to itself (classic aug.)\n- Add x2 / x3 / x4 the value\n- Remove fifth / quarter / third of value\n- Remove half the value (classic dim.)\n- Remove 2/3,  3/4, 4/5",
+			"type": "text",
+			"x": 1860,
+			"y": 3040,
+			"width": 420,
+			"height": 880,
+			"color": "5"
+		},
+		{
+			"id": "bd03dd87c8722d62",
+			"styleAttributes": {},
+			"text": "- _Alter Vertical Harmony_: chord\n- _Alter Horizontal Harmony_: scale\n---\n- _Parallelism_: diatonic / chromatic\n- _Bitonality  / Polytonality_\n- _Transpose_\n- _Repetition / Sustain_: equivalent according to Messiaen\n",
+			"type": "text",
+			"x": 1900,
+			"y": 4020,
+			"width": 380,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "c67b6dc4944c171e",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n\nTuning:\n- Standard / Altered\n- Unusual (12TET) / Unusual (non-12TET)\n- Microtonal\n---\nScale:\n- Scale Finder / Scale Explorer / Random Key\n- Slonimsky Thesaurus / Scales of the World\n---\nDevices & Ideas:\n- Tintinnabuli (Pärt)\n- Tertian / Quartal / Quintal\n- Tone Clusters\n- Functional / Non-Functional Harmony\n- Linear / Rotational Harmony (12Tone)\n- Atonal\n- Serialism\n- Harmonic Litany (Messiaen)\n- Negative Harmony\n- Neighbour Chords (next chord shares/steals): 0 Notes / 1 Note / 2 Notes\n\nCadences:\n- Authentic / Plagal / Deceptive\n- Half / Inconclusive / Conclusive\n- Andalusian",
+			"type": "text",
+			"x": 580,
+			"y": 4020,
+			"width": 440,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "71835ea4b5c00d03",
+			"styleAttributes": {},
+			"text": "##   HARMONY",
+			"type": "text",
+			"x": 120,
+			"y": 3960,
+			"width": 2160,
+			"height": 50,
+			"color": "5"
+		},
+		{
+			"id": "75c049d7b830937a",
+			"styleAttributes": {},
+			"text": "###  BORROW \n\n- Seeded Exemplar\n- Inspiration Playlist\n- Random Selection",
+			"type": "text",
+			"x": 120,
+			"y": 4020,
+			"width": 420,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "ece9936927131766",
+			"styleAttributes": {},
+			"text": " Slonimsky (use different intervals or combinations):\n- _Interpolation_: add note between each note\n- _Ultrapolation_: add note higher than 2nd note that falls back down\n- _Infrapolation_: add a note lower than 1st note that leaps up to 2nd note\n\n---\nVariations (Bruce):\n- _Advanced Melodic_: tear apart and build something new\n- _Timbral_: vary melody's instrument or articulation\n- _Raga_: break tune into fragments, sequence the fragments\n- _Heterophony_: multiple versions of theme played simultaneously (Gamalan, prolation canon, etc.)\n- _Bach & Beethoven_: Same theme, lots of variations (Goldberg & Diabelli)\n- _Ben Johnston_: add complexity, melody overgrown by tendrils of experimental ideas\n\n---\nAlterations:\n- Inversion (real/tonal)\n- Intervalic Alteration\n- Augmentation/Diminution (Messiaen)\n",
+			"type": "text",
+			"x": 1500,
+			"y": 4900,
+			"width": 380,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "d0ea15de97f03cb7",
+			"styleAttributes": {},
+			"text": "- Ornamentation\n- Rhythmic Change\n- Elongation / Truncation\n- Retrograde\n- Sequence\n- Transposition (real/tonal)\n- Octave Displacement (register change)\n- Imitation at the Ocative / 5th\n- Conjunct / Disjunct (step/leap)\n- Ambitus (wide/narrow)\n- Prosody (follow / oppose lyric content)\n- Repeat\n- Counterpoint\n- Move Melody to New Voice\n- Multiuply Combinations\n- Retrograde Inversion\n- Elimination\n- Manipulate Parent Scale\n- Depart & Arrive (Collier)\n- Embellish\n\t- passive\n\t- neighbour / double neighbour\n\t- appogiatura\n\t- escape\n\t- anticipation\n\t- pedal point\n\t- suspension\n\t- mordant / turn / trill\n",
+			"type": "text",
+			"x": 1900,
+			"y": 4900,
+			"width": 380,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "a74187aa3e05648b",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n\nRandom / Sequence / Pattern:\n- _Random Numbers_: dice, cards, coins, etc.\n- _Cryptogram_: French musical cryptogram\n- _Number Series_: pi, prime, Fibonacci (Tool), tau, lazy caterer's sequence, floretions (OEIS website), etc.\n- _Image Contour_: Stockhausen, Whitacre, etc.\n\n---\n\nMessiaen Melodic Preferences (in order):\n- Descending #4\n- Descending M6\n- Returning Chromatics (Bartok)",
+			"type": "text",
+			"x": 580,
+			"y": 4900,
+			"width": 440,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "9fe099f0e5e7f268",
+			"styleAttributes": {},
+			"text": "##   MELODY",
+			"type": "text",
+			"x": 120,
+			"y": 4840,
+			"width": 2160,
+			"height": 50,
+			"color": "5"
+		},
+		{
+			"id": "d6252c3102b3c0d1",
+			"styleAttributes": {},
+			"text": "###  MODIFY \n\nArcana:\n- _Hocket / Sound-Colour Melody_\n- _Change Underlying Meter / Change Metric Feel_\n- _Change Mode_\n- _Stylistic Variation (Theme & Variation)_: what would this sound like if played by a Cajun accordionist?\n- _Present Simultaneous Independent Versions_: heterophony\n---\nStolpe (melody = pitch + rhythm):\n- Lower / Raise Pitch\n- Follow / Avoid Root Notes / Chord Tones\n- Change Shape / Contour\n- Wide / Clustered Intervals\n---\n- Syncopated / Straight\n- Make Notes Longer / Shorter\n- Phrasing Position (before/on/after beat)\n- Long / Short Phrases\n- More / Less Spaces / Rests\n---\n- Stable / Unstable (Pattison)\n---\n",
+			"type": "text",
+			"x": 1060,
+			"y": 4900,
+			"width": 420,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "12befcbfcc60bd36",
+			"styleAttributes": {},
+			"text": "###  BORROW \n\nContour / Fragment / Idea:\n\n- Dictionary of Musical Themes\n- Directory of Tunes\n- Raga (Messiaen's book)\n- Quodlibet\n---\n- Seeded Exemplar\n- Inspiration Playlist\n- Random Selection",
+			"type": "text",
+			"x": 120,
+			"y": 4900,
+			"width": 420,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "35784e127b75eb56",
+			"styleAttributes": {},
+			"text": "##   STRUCTURE & FORM ",
+			"type": "text",
+			"x": -2140,
+			"y": 3200,
+			"width": 2120,
+			"height": 50,
+			"color": "5"
+		},
+		{
+			"id": "dfa66bae07851a39",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n- AABA / ABAC / ABAB'\n- ABCD (through form)\n- 12 bar / 8 bar / 16 bar\n- Period / Sentence\n- Sonata\n- Fugue\n- Rondo / Canon\n- Strophic\n- Verse-Chorus\n- Chaconne\n- Square-Root (Cage)\n- Crystallisation (Varése): internal structure produces external form\n",
+			"type": "text",
+			"x": -1500,
+			"y": 3260,
+			"width": 280,
+			"height": 420,
+			"color": "5"
+		},
+		{
+			"id": "cff4a94944143cfd",
+			"styleAttributes": {},
+			"text": "Messiaen Forms:\n- Song-sentence\n- Commentary\n- Binary sentence\n- Ternary sentence\n- Psalmody\n- Vocalese\n- Couplets / Refrain\n- Trio Form\n- ABCBA (Bridge form)\n- Develop (3 Themes)\n- Variation (1st Theme)",
+			"type": "text",
+			"x": -1200,
+			"y": 3260,
+			"width": 260,
+			"height": 420,
+			"color": "5"
+		},
+		{
+			"id": "220a00901729330e",
+			"styleAttributes": {},
+			"text": "Section (building blocks):\n- Introduction / Prelude\n- Outro / Ending\n- Verse\n- Chorus\n- Bridge / Middle 8\n- Refrain\n- Reprise\n- Pre-Chorus / Pre-Verse\n- Fill / Interlude / Build\n- Tag (turnaround, drop, post-chorus)",
+			"type": "text",
+			"x": -920,
+			"y": 3260,
+			"width": 260,
+			"height": 420,
+			"color": "5"
+		},
+		{
+			"id": "460471480a100069",
+			"styleAttributes": {},
+			"text": "###  MODIFY \n- Add / Remove bar\n- Shorten / Lengthen bar\n- Decouple arrangement from form\n- Variation as form (loop idea adding variation each time)\n- Extend / Truncate\n- Add / Remove cadence",
+			"type": "text",
+			"x": -640,
+			"y": 3260,
+			"width": 620,
+			"height": 420,
+			"color": "5"
+		},
+		{
+			"id": "56db2cc5d5822ca8",
+			"styleAttributes": {},
+			"text": "##   SOUND MATERIALS ",
+			"type": "text",
+			"x": -2140,
+			"y": 3700,
+			"width": 2120,
+			"height": 50,
+			"color": "5"
+		},
+		{
+			"id": "98dd7ef3e850d4f4",
+			"styleAttributes": {},
+			"text": "###  BORROW \n- Seeded Exemplar\n- Inspiration Playlist\n- Random Selection",
+			"type": "text",
+			"x": -2140,
+			"y": 3760,
+			"width": 620,
+			"height": 460,
+			"color": "5"
+		},
+		{
+			"id": "b6b8f1524ec9b01e",
+			"styleAttributes": {},
+			"text": "###  MODIFY \n\n- Alter instrument  \n- Explore frameworks and affordances  \n- Alter articulation  \n- Alter timbre  \n- Change attack / release  \n- Change sound material  \n- Change sound instigator",
+			"type": "text",
+			"x": -640,
+			"y": 3760,
+			"width": 620,
+			"height": 460,
+			"color": "5"
+		},
+		{
+			"id": "d19d1649a5b070dd",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n \n_Cognitive Hyperspace Categories_: Originality vs. Conventionality, Natural vs. Unnatural, Close vs. Remote, etc.\n\n_Musical Axes_: high/low, arriving/departing, dense/sparse. \"Dissonances are only remote consonances\"\n\n_Janusian Thinking_ - See prompt table (bottom left), holding dissonant or opposite ideas in mind at the same time, exploring both sides of the coin",
+			"type": "text",
+			"x": 2300,
+			"y": -800,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "6226545b26c44078",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- \"Dissonances are only remote consonances\" (Schoenberg, 1950, p.104)\n- Musical axes (Collier, n.d.)\n- Cognitive Hyperspace Categories (Runco & Acar, 2019, pp.232-233)",
+			"type": "text",
+			"x": 3040,
+			"y": -800,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "ce4fb03de802f47e",
+			"styleAttributes": {},
+			"text": "## EXAMPLES\n \n- Osborn's Self Interrogation Questions\n- SIT Patterns\n- SCAMPER\n- Andrew Norman's Formal Operations\n- Adaptation:\n\t- How can this be altered? How about a new twist? How about changing this aspect?\n",
+			"type": "text",
+			"x": 2300,
+			"y": -80,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "1d20a6c82987aa7c",
+			"styleAttributes": {},
+			"text": "NOTES\n\n- \"A slight elaboration…\" (Bernstein, 1976, p.162)\n- Adaptation (Osborn, 1963, p.247)",
+			"type": "text",
+			"x": 3040,
+			"y": -80,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "52fbdede6c0af6a2",
+			"styleAttributes": {},
+			"text": "### Creativity\n",
+			"type": "text",
+			"x": -280,
+			"y": -1080,
+			"width": 320,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "02bdb5f8ae5a0558",
+			"styleAttributes": {},
+			"text": "_Use when stuck. Be messy, recursive, and fractal, work at different levels, jump between steps_\n",
+			"type": "text",
+			"x": -287,
+			"y": -705,
+			"width": 676,
+			"height": 65
+		},
+		{
+			"id": "65d5fa23db774fa3",
+			"styleAttributes": {},
+			"text": "### CARTESIAN LOGIC\n\n- Consider the problem and a possible solution = X\n- What would happen if I do X? (if A then B)\n- What would NOT happen if I do X? (If A not B)\n- What would happen if I do not do X? (If not A then B)\n- What would NOT happen if I do not do X? (if not A then not B)\n\n\n- ^ Important that you formulate the right question",
+			"type": "text",
+			"x": -6940,
+			"y": -80,
+			"width": 720,
+			"height": 240,
+			"color": "3"
+		},
+		{
+			"id": "fcc7949ced656748",
+			"styleAttributes": {},
+			"text": "###  OSBORN 7-STEP MODEL \n- _Orientation_: pointing up the problem\n- _Preparation_: gathering pertinent data\n- _Analysis_: breaking down relevant material\n- _Ideation_: piling up alternatives by way of ideas\n- _Incubation_: letting up to invite illumination\n- _Synthesis_: putting the pieces together\n- _Evaluation_: judging the resulting ideas",
+			"type": "text",
+			"x": -6940,
+			"y": -1625,
+			"width": 700,
+			"height": 320,
+			"color": "2"
+		},
+		{
+			"id": "100763cb50298f18",
+			"styleAttributes": {},
+			"text": "### ANTAGONIST CARDS\n\n- make a bad choice\n- break something\n- delete something\n- what's the worst thing that could happen? Do that\n- sabotage yourself\n- make it sound worse\n",
+			"type": "text",
+			"x": -6200,
+			"y": 940,
+			"width": 340,
+			"height": 360,
+			"color": "3"
+		},
+		{
+			"id": "47044cd3e27ecdc5",
+			"styleAttributes": {},
+			"text": "### CARD DECKS\n\nDraw 3 cards at random, choose the most interesting (or try to combine them)\n- _Oblique Strategies_\n- _Creative Whack Pack_\n- _Unblock Cards_\n- _The Book of Chances_",
+			"type": "text",
+			"x": -5840,
+			"y": 940,
+			"width": 340,
+			"height": 360,
+			"color": "3"
+		},
+		{
+			"id": "469d7a07619d0434",
+			"styleAttributes": {},
+			"text": "###  CREATIVE PROCESS MODEL \n- _Conception_: general idea of the thing to be created, class\n- _Vision_: specific idea of the thing to be created, instance\n- _Current Reality_: define the current state of play, see the structural tension\n- _Plan_: figure out the process you intend to use\n- _Take Action_: experiment early, put ideas into practice to better understand them\n- _Adjust, Learn, Evaluate, Adjust_: iterate through taking action and learning\n- _Building Momentum_: always have a place to go, next steps, structural tension\n- _Living with Your Creation_: once complete, spend time before evaluating",
+			"type": "text",
+			"x": -6200,
+			"y": -1625,
+			"width": 700,
+			"height": 320,
+			"color": "2"
+		},
+		{
+			"id": "d6519870e0e66bf8",
+			"styleAttributes": {},
+			"text": "### FOCUS AIDS\n\n- _Time Limit_: set a timer (Pomodoro method)\n- _Deadline_: organise your approach by identifying steps and working backwards\n- _Deep Work_: set aside uninterrupted blocks of 1-4 hours\n- _Leverage Boredom_: you can compose or not compose (stare out of window, etc.)\n- _Wake-in-Flow_: start most important work within 10 minutes of waking\n- _Essentialism_: ask yourself what the most essential task is right now?\n- _Cognitive Ease_: ask what an easy version of your task or process looks like?\n---\n- _Productive Procrastination_: explore your tools, doodle, tinker, etc.",
+			"type": "text",
+			"x": -6200,
+			"y": -80,
+			"width": 700,
+			"height": 320,
+			"color": "3"
+		},
+		{
+			"id": "3c3b3db728133050",
+			"styleAttributes": {},
+			"text": "### COTTON'S CHECKLIST\n- _Define Parameters_: expectations, deliverables, etc.\n- _40-20-10-5_: state your problem in 40 words, cut to 20, cut to 10, cut to 5\n- _Collect Information_: gather your materials\n- _Rephrase_: restate until the question feels right, start with \"how can I... ?\"\n- _Challenge Assumptions_: What do you know to be true? What is assumed?\n- _Broaden View_: question bigger purpose, reasons, higher level of abstraction\n- _Narrow View_: get more granular, dig deeper, details, lower level of abstraction\n- _Challenge Perspective_: how would someone else approach this? out of / inside box\n- _Framing / Positive Language_: change it to a question / reframe away from negative\n- _Invert_: turn the problem on head, ask how you could create problem not solve it?",
+			"type": "text",
+			"x": -6200,
+			"y": 260,
+			"width": 700,
+			"height": 320,
+			"color": "3"
+		},
+		{
+			"id": "562b2e7055975bef",
+			"styleAttributes": {},
+			"text": "### MODE SWITCHING\n\n### MECHANICAL  (M-MODE)\n- fixed framework\n- working on small details\n- reduced steps\n- notice you're repeating steps\n- stuck in a loop\n- getting stuff done\n- bottom-up\n- emergent\n- local properties",
+			"type": "text",
+			"x": -6200,
+			"y": 600,
+			"width": 340,
+			"height": 320,
+			"color": "3"
+		},
+		{
+			"id": "35e006cde46841e0",
+			"styleAttributes": {},
+			"text": "### MODE SWITCHING\n\n### INTELLIGENT  (I-MODE)\n- overview\n- abstract\n- choose the level at which to work\n- top-down\n- planned\n- global properties",
+			"type": "text",
+			"x": -5840,
+			"y": 600,
+			"width": 340,
+			"height": 320,
+			"color": "3"
+		},
+		{
+			"id": "77c4869bce6ad414",
+			"styleAttributes": {},
+			"text": "##   RHYTHM",
+			"type": "text",
+			"x": 120,
+			"y": 2980,
+			"width": 2160,
+			"height": 50,
+			"color": "5"
+		},
+		{
+			"id": "67741285c34cbe45",
+			"styleAttributes": {},
+			"text": "###  MODELS OF THE CREATIVE PROCESS ",
+			"type": "text",
+			"x": -6940,
+			"y": -1705,
+			"width": 2180,
+			"height": 50,
+			"color": "2"
+		},
+		{
+			"id": "7f006a6ab506e6a7",
+			"styleAttributes": {},
+			"text": "### HEURISTICS | CHECKLISTS | GETTING UNSTUCK | INTERRUPTERS",
+			"type": "text",
+			"x": -6940,
+			"y": -160,
+			"width": 2940,
+			"height": 50,
+			"color": "3"
+		},
+		{
+			"id": "bfad783e100a321f",
+			"styleAttributes": {},
+			"text": "###### CHAOS FACTOR\n\n- Increases the likelihood of the _Fate Question_ being a 'yes'\n- Represents how much control the composer has over the random events\n- The more out of control things have become, the higher the _Chaos Factor_ number and the more likely you are to get a 'yes' answer to your question (which should be confirming your expectations), so the creative process will veer back towards an expected outcome (which in turn lowers the number, nudging things towards randomness again)\n\t- things going well = composer in control = low chaos factor = more 'no' rolls\n\t- things going off-piste = composer out of control = high chaos factor = more 'yes' rolls\n- self-balancing\n- can be tweaked for more originality or more familiarity in your work",
+			"type": "text",
+			"x": 75,
+			"y": -3985,
+			"width": 690,
+			"height": 360,
+			"color": "1"
+		},
+		{
+			"id": "e2bfc8aea5d68d2e",
+			"styleAttributes": {},
+			"text": "###### RANDOM EVENT\n\n- when asking a fate question / when starting a scene / roll a double\n---\n- _Focus Table_: which part of the piece does the random event focus on?\n- _Lists_: which _threads_ or _aspects_ does the event effect?\n- _Meaning Table_: pair of words to inspire an interpretation of the event (choose most appropriate):\n\t- _Actions_: active elements, doing, verbs\n\t- _Descriptions_: sounds-like, adjectives\n\t- _Elements_: specific materials\n---\n- _Story Engine Cards_:\n\t- Agents = Choice-Makers = Focus Table\n\t- Engines = Drivers = Actions\n\t- Anchors = Objects / Events / Locations = Elements\n\t- Conflicts = Obstacles = Actions\n\t- Aspects = Adjectives = Descriptions\n---\n- _Context_ impacts how you interpret things, what has come before affects how you incorporate new information\n- _Event Focus_ is not meant to limit you, it's a starting point for your interpretation\n- _Free Choice_: you don't always have to roll, if a random event suggests a specific focus, go with your expectations\n- _Limited Choice_: give yourself a free choice from the table ever 5 rolls or veto card to play if you don't like the draw / roll",
+			"type": "text",
+			"x": -650,
+			"y": -3865,
+			"width": 690,
+			"height": 680,
+			"color": "1"
+		},
+		{
+			"id": "6245cdb37b66cb78",
+			"styleAttributes": {},
+			"text": "###### DIFFICULTY MODIFIER\n\n| Likelihood      | Modifier   |\n| --------------- | ---------- |\n| Impossible      | -6         |\n| Highly Unlikely | -4         |\n| Unlikely        | -2         |\n| Possible        | 0          |\n| Likely          | +2         |\n| Highly Likely   | +4         |\n| A Certainty     | +6         |\n| -               | -          |\n| **D20**         | **Result** |\n| 1-6             | No         |\n| 7-12            | Maybe      |\n| 13-20           | Yes        |\n",
+			"type": "text",
+			"x": 75,
+			"y": -3600,
+			"width": 690,
+			"height": 415,
+			"color": "1"
+		},
+		{
+			"id": "8a614633b1453ca2",
+			"styleAttributes": {},
+			"text": "###### LISTS\n\nKeep track (make notes) of the various parts or ideas you are working with:\n- Threads = Objectives\n- Aspects = Important Elements\n---\n- Adjust these at the end of a session or when mode-switching\n- rapid-logging\n- reflection-on-action",
+			"type": "text",
+			"x": -650,
+			"y": -4405,
+			"width": 690,
+			"height": 240,
+			"color": "1"
+		},
+		{
+			"id": "51576f4e7bafd7a7",
+			"styleAttributes": {},
+			"text": "###### SCENES\n\n- Discrete blocks of the piece\n- Form & Structure\n---\n- At the beginning of a new section, decide on what it is based on your expectations, then roll to see if you're correct:\n\t- _yes_: \"chorus follows verse\"\n\t- _yes, but_: \"chorus follows verse but time signature changes\"\n\t- _interrupt scene_: \"entirely new section\"",
+			"type": "text",
+			"x": -650,
+			"y": -4145,
+			"width": 690,
+			"height": 265,
+			"color": "1"
+		},
+		{
+			"id": "c02725426cc95f0e",
+			"styleAttributes": {},
+			"text": "###### Layers of Abstraction\n\n###### Orient Yourself\n1. Which _stage_ (prep/gen/iter/eval) of the creative process are you in?\n2. Which _mode_ (open/closed) are you in?\n3. What are you trying to accomplish?\n4. What can you specifically do in the next 10 minutes to move forward?",
+			"type": "text",
+			"x": -650,
+			"y": -4670,
+			"width": 690,
+			"height": 240,
+			"color": "1"
+		},
+		{
+			"id": "8f6e05b6c70188c8",
+			"styleAttributes": {},
+			"text": "###### EXPECTATIONS & INTERPRETATIONS\n\n- Asking a yes/no question assumes you have some expectation of the outcome\n- Your expectations will be based on your experience, your _habitus_\n---\nExpectations:\n- _Vision_: what a given thing will be\n- _Prediction_: what happens next?\n- _Malleable_: Your expectations will change as the piece unfolds\n- _Accreting_: Each decision generates more context\n- _Context_: follow expectations when you're _sure_ of them, when they feel right\n- _Uncertainty_: when in doubt, ask a _Fate Question_\n---\nInterpretations:\n- using context and roll result to come up with a part / answer / etc.\n- incorporate answer into the song/piece (accreting new context and detail)\n- prompts are starting points that you interpret in fun and creative ways\n- listen to your gut\n- interpretation becomes part of the piece and feeds your evolving expectations\n---\nStuck?\n- _'I Don't Know' Rule_: if you get stuck and can't make something work, drop it and move on or roll again",
+			"type": "text",
+			"x": 75,
+			"y": -4670,
+			"width": 690,
+			"height": 655,
+			"color": "1"
+		},
+		{
+			"id": "b3847a2fc79f82aa",
+			"styleAttributes": {},
+			"text": "###### HOW TO USE",
+			"type": "text",
+			"x": -1365,
+			"y": -4745,
+			"width": 690,
+			"height": 50,
+			"color": "1"
+		},
+		{
+			"id": "6aa3274d4bae617c",
+			"styleAttributes": {},
+			"text": "###### GAME-LIKE",
+			"type": "text",
+			"x": -645,
+			"y": -4745,
+			"width": 2125,
+			"height": 50,
+			"color": "1"
+		},
+		{
+			"id": "4cfa745a3386059c",
+			"styleAttributes": {},
+			"text": "###### CORE MECHANICS",
+			"type": "text",
+			"x": -1365,
+			"y": -4820,
+			"width": 2845,
+			"height": 50,
+			"color": "1"
+		},
+		{
+			"id": "8d33c44d518aa600",
+			"styleAttributes": {},
+			"text": "###### FATE QUESTIONS\n\n- Frame question\n- Decide on odds (likely, unlikely, very...)\n\t- gut decision based on question and current context (tacit domain knowledge)\n- Add difficulty modifier / Chaos Factor\n- Roll dice for outcome:\n\t- _yes_: expected outcome\n\t- _no_: next most expected outcome (usually opposite, may require interpretation)\n\t- _yes +_: yes, and... yes intensified\n\t- _no -_: no, and... no intensified\n\t- exceptional yes/no = 20% of upper / lower odds range\n---\nFrame Question Guidelines:\n- _action-oriented_: \n\t- focus on the active and interesting elements\n\t- \"are there borrowed chords in this section?\" better than \"is this sequence complete?\"\n- _guided by expectation_:\n\t- let your questions be led by your expectations and current context\n\t- say you've come to the end of a section, you might ask \"does the time signature change?\"\n- _don't ask for more detail than you need_:\n\t- too many narrow questions can stall your flow\n\t- just enough to keep moving forward\n\t- limit yourself to 2 questions about any one detail (1 is better)\n\t",
+			"type": "text",
+			"x": 790,
+			"y": -4670,
+			"width": 690,
+			"height": 725,
+			"color": "1"
+		},
+		{
+			"id": "6e0b718fdc563542",
+			"styleAttributes": {},
+			"text": "###  BORROW \n- Seeded Exemplar\n- Inspiration Playlist\n- Random Selection",
+			"type": "text",
+			"x": -2140,
+			"y": 3260,
+			"width": 620,
+			"height": 420,
+			"color": "5"
+		},
+		{
+			"id": "887284a87bc6b8d2",
+			"styleAttributes": {},
+			"text": "###  POLYA PROBLEM SOLVING \n- _Understanding the Problem_: identifying what is known and unknown (see checklist)\n- _Devising a Plan_: connections, analogy, related, starting point, etc. (see checklist)\n- _Carrying out the Plan_: take action, check each step\n- _Examine the Solution_: reflection, evaluation. Did you use all the data? Can this be used in another problem?",
+			"type": "text",
+			"x": -5460,
+			"y": -1625,
+			"width": 700,
+			"height": 320,
+			"color": "2"
+		},
+		{
+			"id": "d682b292a9a163f3",
+			"styleAttributes": {},
+			"text": "###### STRUCTURAL TENSION\n\n_Current Reality_ vs. _Vision_: \n- Ongoing motivic force\n- What you Have > Action > What You Want > Evaluation > What you Have\n\n_Always Have a Place to Go_:\n- Pick a direction and keep moving, even if it turns out to be wrong\n\n_Improvise_:\n- Decide in the moment what the piece needs and how you respond to that\n- Improvise anything you don't feel the need to test",
+			"type": "text",
+			"x": -1365,
+			"y": -4670,
+			"width": 690,
+			"height": 345,
+			"color": "1"
+		},
+		{
+			"id": "a53a932b711d65d5",
+			"styleAttributes": {},
+			"text": "###### STOCHASTIC RESONANCE\n\n_Stochastic Resonance_: adding noise and randomness to a system in order to benefit from serendipitous collisions and juxtapositions\n\n_Randomness_: seeking serendipity and using anything that occurs to trigger associative activation in your imagination. The random input can spread outward like ripples on a pond, connecting and linking with all manner of things in your mind\n\n_Examples_: Draw from the random prompt tables, select an image / word / phrase / melody / song / genre at random and make use of it; Cage and Waits used to listen to the radio while composing, seeking happy accidents and interesting juxtapositions; _sortes musica_ (this system, based on Sortes Virgilianae / Biblicae), I Ching\n",
+			"type": "text",
+			"x": -1365,
+			"y": -4300,
+			"width": 690,
+			"height": 345,
+			"color": "1"
+		},
+		{
+			"id": "47099abe800afaf3",
+			"styleAttributes": {},
+			"text": "#### Explore Extremes\n\nPushing the thing to breaking point, taking it apart and seeing what makes it tick, removing aspects to see if it still works (or works better). The eraser end of the pencil is just as important as the writing end. Feel free to \"change pitches, rewrite entire sections, and/or eliminate material\" as you see fit\".\n\n- Break\n- Delete\n- Magnify/Minify\n- Exaggerate\n\n",
+			"type": "text",
+			"x": 820,
+			"y": 2440,
+			"width": 700,
+			"height": 320,
+			"color": "4"
+		},
+		{
+			"id": "8c0e131709d1f337",
+			"styleAttributes": {},
+			"text": "## Archive & Recycle\n\nCan include _backtracking_, where the creator \"returns to an idea that had been previously rejected because nothing better was found'. Producers often \"treat their entire archive of past musical projects as a giant library of material to fuel current and future projects\"\n\n- Strip for Parts\n- Archive and Storage\n",
+			"type": "text",
+			"x": -1420,
+			"y": 2440,
+			"width": 700,
+			"height": 320,
+			"color": "6"
+		},
+		{
+			"id": "cebc47acff224687",
+			"styleAttributes": {},
+			"text": ">## ITERATION\n\nThe act of evolving, mutating, refining, and developing ideas. The power of the iterative process is in the \"reworking, reworking, and reworking again, until a flawed story finds its throughline or a hollow character finds its soul\" (Catmull 2014, loc 1390). Beethoven's sketching process, for example, was strikingly iterative, he \"sketches the same passages again and again … as if the very act of writing prompted mutations that sometimes enabled Beethoven to see where he wanted to go – and sometimes not, resulting in a change of tack\" (Cook 2021, loc 1237).\n",
+			"type": "text",
+			"x": -390,
+			"y": 1360,
+			"width": 907,
+			"height": 320,
+			"color": "3"
+		},
+		{
+			"id": "ef33ce74edb46b49",
+			"styleAttributes": {},
+			"text": ">## PREPARATION\n\nIn some models, this stage can cover the acquisition of knowledge and skills in the years prior to undertaking the task at hand (Graf's (1947) 'Experience', for example) as well as active engagement in gathering materials and finding inspiration. Our focus is on a more actionable approach. This is the stage where the gathering of tools and raw materials takes place, motivation and intent is primed, problems are discovered and defined, plans are drawn up. The goal is to \"encourage the development of preliminary expectations for a piece, ideally before any notes are composed\" (Young & Roens 2022, p.90). Limitations and restrictions are also put in place here, as Stravinsky puts it: \"my freedom will be so much the greater and more meaningful the more narrowly I limit my field of action and the more I surround myself with obstacles\". \"Dancing in chains,\" as Nietzsche (1908) says, \"for that which we call 'invention' … is always such a self-imposed fetter\". In Practice as Research terms, _Reflection-for-Action_, \"precedes action in the present moment as part of the intensive preparation required for certain kinds of actions\" (Candy 2002, p.53).\n",
+			"type": "text",
+			"x": -390,
+			"y": 640,
+			"width": 907,
+			"height": 360,
+			"color": "3"
+		},
+		{
+			"id": "9d4830e1bc4733fa",
+			"styleAttributes": {},
+			"text": "### EXPLORING CONCEPTUAL SPACE",
+			"type": "text",
+			"x": 4160,
+			"y": -1680,
+			"width": 2100,
+			"height": 50,
+			"color": "3"
+		},
+		{
+			"id": "a2683d206c20a9a2",
+			"styleAttributes": {},
+			"text": "### DIVERGENT",
+			"type": "text",
+			"x": 4160,
+			"y": -1595,
+			"width": 660,
+			"height": 50,
+			"color": "3"
+		},
+		{
+			"id": "e19cdb3373e18d77",
+			"styleAttributes": {},
+			"text": "### ASSOCIATIVE",
+			"type": "text",
+			"x": 4860,
+			"y": -1595,
+			"width": 1400,
+			"height": 50,
+			"color": "3"
+		},
+		{
+			"id": "28ff43b48618b778",
+			"styleAttributes": {},
+			"text": "### Cognitive Hyperspace Categories \n\n_take an idea and explore ideas in polar opposition to it_\n- Originality vs Conventionality\n- Amoral/Malevolent vs. Moral/Benevolent\n- Taboo vs. Non-Taboo\n- Primary vs Secondary Processes\n- Experience vs. Non-Experience (Imagination)\n- Functional/Practical vs. Aesthetic/Impractical\n- Synthetic vs Non-Synthetic (Organic)\n- Breadth vs. Depth\n- Feasible/Realistic vs. Hypothetical/Unrealistic\n- Natural vs. Unnatrual\n- Humerous vs. Serious\n- Playful/Childlike/Spontaneous vs. Mature/Responsible/Planned\n- Close vs. Remote\n---\n- Random:\n\t- Bring two (or more) remote elements together, see how they link",
+			"type": "text",
+			"x": 4160,
+			"y": -1520,
+			"width": 660,
+			"height": 520,
+			"color": "3"
+		},
+		{
+			"id": "beddfad5e4fa2420",
+			"styleAttributes": {},
+			"text": "### IDEAS BY CONNECTION\n\n_search for ideas in associated memory_ (Nijstad)\n- Long-Term Memory:\n\t- brainstorm linked ideas\n\t- stream-of-consciousness\n\t- linked concepts don't have to make conscious or logical sense\n---\n- Working Memory: seed ideas to guide the brainstorming process\n---\n- External Memory:\n\t- Associative Networks: WordNet, VisuWords, Small World of Words\n\t- Meaning: Roget's International Thesaurus (category-based links)\n\t- Rhyme/Sound: Rhyming Dictionary (Pattison) (linked by sound)\n---\n- apply a heuristic (such as Wise-Fool) after you:\n\t- make it physical\n\t- make it visual\n\t- make it abstract / symbolic",
+			"type": "text",
+			"x": 4860,
+			"y": -1520,
+			"width": 660,
+			"height": 520,
+			"color": "3"
+		},
+		{
+			"id": "8e2811a1516dd563",
+			"styleAttributes": {},
+			"text": "### NEARNESS ATTRIBUTES\n\n- Ideas that are superficially distant can be deeply related: \n\t- _C D E_ = close superficially, less so harmonically\n\t- _C E G_ = less superficially close, strong harmonic link as a C major triad\n- Deeper conceptual resonances require depth rather than randomness\n\nGeometric Model of Conceptual Space on Musical Axes:\n- High / Low\n- Loud / Quiet\n- Long / Short\n- Fast / Slow\n- Dark / Light\n- Hard / Gentle\n- Arriving / Departing\n- Dense / Sparse\n- Wide / Narrow\n- Organised / Chaotic\n- Repetitive / Evolving\n- Foreground / Background\n- Consonance / Dissonance\n- Simple / Complex\n- Clean / Dirty\n- Electronic / Organic\n- Stable / Unstable\n- Resolved / Tense\n- Tonal / Microtonal\n",
+			"type": "text",
+			"x": 5540,
+			"y": -1515,
+			"width": 720,
+			"height": 810,
+			"color": "3"
+		},
+		{
+			"id": "ec3dd12e514c702b",
+			"styleAttributes": {},
+			"text": "### RANDOM WORD TECHNIQUE\n\n(DeBono) _can also use images_\n\n- state the problem to be solved\n- select random book, page, line number (or roll on a table)\n- find the first noun and write it down\n- free associate with word until out of ideas\n- restate the problem\n- free associate brainstormed ideas with problem",
+			"type": "text",
+			"x": 4160,
+			"y": -975,
+			"width": 660,
+			"height": 270,
+			"color": "3"
+		},
+		{
+			"id": "913d4588daefe26e",
+			"styleAttributes": {},
+			"text": "### ANALOGY & METAPHOR\n\nAnalogical Mapping:\n- Mapping ideas onto each at varying levels of abstraction\n- Conceptual skeletons are the structures connection each idea\n\nMetaphorical Problem Solving:\n- Find something analogous to the problem\n- Brainstorm ways to solve the analogous issue\n- Back-map those solutions onto the original problem\n",
+			"type": "text",
+			"x": 4860,
+			"y": -975,
+			"width": 660,
+			"height": 270,
+			"color": "3"
+		},
+		{
+			"id": "29247c2266a4334d",
+			"styleAttributes": {},
+			"text": "### PROBLEM MODIFICATION | LIST OF TRANSFORMATION OPERATORS (LOTO)",
+			"type": "text",
+			"x": 4160,
+			"y": -665,
+			"width": 2100,
+			"height": 50,
+			"color": "3"
+		},
+		{
+			"id": "12bd3d069ab51524",
+			"styleAttributes": {},
+			"text": "### SIT Tools\n\n- _Subtraction:_ elimination of a core component\n- _Multiplication:_ copy a component and change it in a counter-intuitive way\n- _Division:_ divide a component / product along some physical or functional line\n- _Task Unification:_ component of a product has been assigned an additional job\n- _Attribute Dependency:_ as one thing changes, another thing changes\n",
+			"type": "text",
+			"x": 5460,
+			"y": -585,
+			"width": 800,
+			"height": 200,
+			"color": "3"
+		},
+		{
+			"id": "087fb8b58c1090a4",
+			"styleAttributes": {},
+			"text": "### LEECH MELODIES\n\n\n\n1.  _Rhythm_ - Syncopation & Variety\n2.  _Ornaments_ - Grace notes, runs, etc.\n3.  _Extend Length _- Add time to beginning, middle, and/or end\n4.  _Dynamics_ - Changes to loudness to add life\n5.  _Harmony_ - Secondary Dominants & Borrowed Chords",
+			"type": "text",
+			"x": 4820,
+			"y": 455,
+			"width": 600,
+			"height": 200,
+			"color": "3"
+		},
+		{
+			"id": "a55245da2fdd45e5",
+			"styleAttributes": {},
+			"text": "### OTHER MODIFIERS\n\n\n\n- Combine\n- Add / Subtract\n- Expand / Contract\n- Repeat\n- Evolve\n- Randomise",
+			"type": "text",
+			"x": 5460,
+			"y": -345,
+			"width": 300,
+			"height": 400,
+			"color": "3"
+		},
+		{
+			"id": "09a479f31d7a3d13",
+			"styleAttributes": {},
+			"text": "### FORMAL OPERATIONS\n\n_Andrew Norman_\n\n- Power On / Off\n- Rewind / Fast-Forward\n- Backward / Forward\n- Freeze / Unfreeze\n- Interrupt\n- Start / Stop\n- Try Again\n- Cut to a Different World\n- Change Instruments",
+			"type": "text",
+			"x": 5800,
+			"y": -345,
+			"width": 460,
+			"height": 400,
+			"color": "3"
+		},
+		{
+			"id": "ba29fb26f5ab4a8f",
+			"styleAttributes": {},
+			"text": "### SCAMPER\n\n- _Substitute:_ can I substitute an existing element?\n- _Combine:_ can I combine two or more element of X to create something?\n- _Adapt:_ which parts of X could be adapted to solve my problem?\n- _Modify (Magnify/Minify):_ could I modify some aspect of x? Would making it bigger/smaller help?\n- _Put to Other Uses:_ Could I take something from somewhere else and use it here? Could I use something from here somewhere else?\n- _Eliminate:_ could I remove some part of X?\n- _Rearrange (Reverse):_ could I do parts of X in a different sequence? If I reversed elements would it work better?\n",
+			"type": "text",
+			"x": 5460,
+			"y": 95,
+			"width": 800,
+			"height": 320,
+			"color": "3"
+		},
+		{
+			"id": "430a111ea7d5bfc8",
+			"styleAttributes": {},
+			"text": "### MICHELMORE DEVELOPMENT IDEAS\n\n\n\n- _integration_ - integrate the other two big elements (harmony / melody / rhythm)\n- _evolution_ - how can I make it slightly better, tweak it\n- _expansion_ - take something short and add extra bits on, make it go somewhere else, take it on a journey, careful it doesn't lose its identity\n- _variation_ - take a smaller idea and make it much bigger using variation, helps for bringing structure, change it up on repeat, has to be recognisably the same thing but varied\n- _reflection_ - retrograde, imitation, reflection, inversion, etc.\n- _reduction_ - pare it back, simplify, you can take notes out\n- _annihilation_ - know when an idea is unsalvageable and bin it",
+			"type": "text",
+			"x": 5460,
+			"y": 455,
+			"width": 800,
+			"height": 345,
+			"color": "3"
+		},
+		{
+			"id": "2afbca7d02d5f7ab",
+			"styleAttributes": {},
+			"text": "Instrument Types:\n- _Idiophones_: percussion solid (bell, rattle)\n- _Membranophones_: percussion membrane (drum, tom, kazoo)\n- _Aerophones_: wind (woods, brass, siren)\n- _Chordophones_: string (bowed, harp, guitar, zither)\n- _Electrophones_: electronically-produced / amplified (theremin, el. guitar)\n\nSix Families of Noise (Futurism)\n- Roars, thunderings, explosions, hissing roars, bangs, booms\n- Whistling, hissing, puffing\n- Whispers, murmurs, mumbling, muttering, gurgling\n- Screeching, creaking, rustling, buzzing, crackling, scraping\n- Noises obtained by beating on metals, woods, skins, stones, pottery\n- Voices of animals & people, shouts, screams, shrieks, wails, hoots, howls, death rattles, sobs",
+			"type": "text",
+			"x": -1260,
+			"y": 3760,
+			"width": 600,
+			"height": 460,
+			"color": "5"
+		},
+		{
+			"id": "901e6b2b79e44f02",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n\nSound Categories:\n- Pad\n- Pluck\n- Motor\n- Bass\n- Lead\n- FX\n- Texture\n",
+			"type": "text",
+			"x": -1500,
+			"y": 3760,
+			"width": 220,
+			"height": 460,
+			"color": "5"
+		},
+		{
+			"id": "dc7151f3d1527094",
+			"styleAttributes": {},
+			"text": " Modulations:\n- Direct / Enharmonic\n- Common Tone / Altered Common Tone\n- Pivot Chord\n- Chromatic\n- Parallel\n- Sequential (Rosalia)\n- _Chain_: dominant cycles / Coltrane Changes (move in maj 3rds)\n---\n- _Integrate_: other elements\n- _Evolve_\n- _Expand_: add bits, take it on a journey\n- _Variation_: the same but different\n- _Reflection_: retrograde, imitate, inversion\n- _Reduction_: pare it back\n- _Annihilation_: destroy / bin\n---\n- _Voicing Transformations_: clockwise / counterclockwise / one voice constant\n- _Add/Remove Notes/Chords_: upper structure extensions/alterations, suspension, slash chords\n- _Secondary Dominants_\n- _Tritone Substitution_\n- _Diminished Passing Chord_\n- _Pedal Point / Ostinato_\n- _Superimpose_: one chord over another\n",
+			"type": "text",
+			"x": 1500,
+			"y": 4020,
+			"width": 380,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "82445b6658a3a051",
+			"styleAttributes": {},
+			"text": "###  MODIFY \n\n- _Modal Variation_: maj/min\n- _Modal Interchange_\n- _Variation Over Harmony_: ground bass\n\t- basso ost. / chaconne/ passacaglia\n- _Interleave_: 2 different progressions\n- _Reharmonise_: change the land\n---\nCollier's Harmony Ideas:\n- _Brighten_: clockwise around circle of 5ths\n- _Darken_: anticlockwise around circle of 5ths\n- _Colour In_: add notes to triad from either side of circle of 5ths (bright/dark)\n- _Neighbours & Relatives_: locate the chord either side of the root chord in circle of 5ths, choose either relative maj/min\n- _Change Bass Note_: they like to move in 5ths\n---\nVarése Techniques:\n- _Symmetry_ (mirror / parallel): inner notes placed symmetrically in relation to outer notes\n- _Projection_: transfer structure to new pitch/register\n- _Rotation_: rotate middle note of triad above/below based on intervallic relationship with notes either side\n- _Expansion / Contraction_\n- _Unfolding / Infolding_",
+			"type": "text",
+			"x": 1060,
+			"y": 4020,
+			"width": 420,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "05d766df4859e115",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n- _Musicalyst_: genre descriptors (6337)\n- _Every Noise at Once_: sound examples (6261)",
+			"type": "text",
+			"x": -1500,
+			"y": 3040,
+			"width": 840,
+			"height": 140,
+			"color": "5"
+		},
+		{
+			"id": "969d3f629876e407",
+			"styleAttributes": {},
+			"text": "###  CANTOMETRIC CHARACTER \n1. _Vocables_ - 1-5 (few-many)\n2. _Interval size_ - 1-2 (small-large)\n3. _Enunciation_ - 1-5 (precise-slurred)\n4. _Instrument-voice relation_ - a-f (a cappella-interlock)\n5. _Instrumental response_ - a-e (solo-interlock)\n6. _Instrumental texture_ - a-d (a cappella-multipart)]\n7. _Instrumental rhythmic blend_ - 1-5 (individualised-unified)\n8. _Instrumental rhythmic texture_ - a-e (a cappella-polyrhythmic)\n9. _Volume_ - 1-3 (loud-soft)\n10. _Register_ - 1-3 (high-low)\n11. _Accent_ - 1-3 (forceful-relaxed)\n12. _Solo/group arrangement_ - a-d (solo-group dominated)\n13. _Vocal texture_ - a-d (solo-multipart)\n14. _Tonal blend_ - 1-4 (individualised-unified)\n15. _Rhythmic blend _- 1-5 (individualised-unified)\n16. _Vocal rhythmic texture_ - a-c (heterophonic-polyrhythmic)\n17. _Embellishment_ - 1-4 (much-little)\n18. _Glissando_ - 1-4 (much-little)\n19. _Melisma_ - 1-3 (much-little)\n20. _Vibrato_ - 1-3 (much-little)\n21. _Glottal shake_ - 1-3 (much-little)\n22. _Vocal width_ - 1-3 (narrow-wide)\n23. _Nasalisation_ - 1-4 (much-little)\n24. _Raspiness_ - 1-4 (much-little)\n25. _Meter_ - a-e (free-complex regular)\n26. _Instrumental Meter_ - a-e (free-complex regular)\n27. _Phrase length_ - 1-3 (long-short)\n28. _Tempo_ - 1-6 (slow-fast)\n29. _Vocal rubato_ - 1-4 (much-little)\n30. _Instrumental rubato_ - 1-4 (much-little)\n31. _Melodic form_ - a-f (through composed-canon)\n32. _Number of phrases_ - 1-5 (many-few)\n33. _Melodic contour_ - a-d (arched-descending)\n34. _Final tone position_ - 1-3 (low-high)\n35. _Melodic range_ - 1-3 (small-large)\n36. _Polyphonic type_ - a-c (drone-counterpoint)",
+			"type": "text",
+			"x": -5020,
+			"y": 3760,
+			"width": 620,
+			"height": 980,
+			"color": "5"
+		},
+		{
+			"id": "f27bbe95049ff7fc",
+			"styleAttributes": {},
+			"text": "Instrument Types:\n- _Idiophones_: percussion solid (bell, rattle)\n- _Membranophones_: percussion membrane (drum, tom, kazoo)\n- _Aerophones_: wind (woods, brass, siren)\n- _Chordophones_: string (bowed, harp, guitar, zither)\n- _Electrophones_: electronically-produced / amplified (theremin, el. guitar)\n\nSix Families of Noise (Futurism)\n- Roars, thunderings, explosions, hissing roars, bangs, booms\n- Whistling, hissing, puffing\n- Whispers, murmurs, mumbling, muttering, gurgling\n- Screeching, creaking, rustling, buzzing, crackling, scraping\n- Noises obtained by beating on metals, woods, skins, stones, pottery\n- Voices of animals & people, shouts, screams, shrieks, wails, hoots, howls, death rattles, sobs",
+			"type": "text",
+			"x": -5640,
+			"y": 3765,
+			"width": 600,
+			"height": 460,
+			"color": "5"
+		},
+		{
+			"id": "2661a0d968d03c48",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n\nSound Categories:\n- Pad\n- Pluck\n- Motor\n- Bass\n- Lead\n- FX\n- Texture\n",
+			"type": "text",
+			"x": -5880,
+			"y": 3765,
+			"width": 220,
+			"height": 460,
+			"color": "5"
+		},
+		{
+			"id": "a8e262e5c65cf2ad",
+			"styleAttributes": {},
+			"text": "###  MODIFY \n\n- _Modal Variation_: maj/min\n- _Modal Interchange_\n- _Variation Over Harmony_: ground bass\n\t- basso ost. / chaconne/ passacaglia\n- _Interleave_: 2 different progressions\n- _Reharmonise_: change the land\n---\nCollier's Harmony Ideas:\n- _Brighten_: clockwise around circle of 5ths\n- _Darken_: anticlockwise around circle of 5ths\n- _Colour In_: add notes to triad from either side of circle of 5ths (bright/dark)\n- _Neighbours & Relatives_: locate the chord either side of the root chord in circle of 5ths, choose either relative maj/min\n- _Change Bass Note_: they like to move in 5ths\n---\nVarése Techniques:\n- _Symmetry_ (mirror / parallel): inner notes placed symmetrically in relation to outer notes\n- _Projection_: transfer structure to new pitch/register\n- _Rotation_: rotate middle note of triad above/below based on intervallic relationship with notes either side\n- _Expansion / Contraction_\n- _Unfolding / Infolding_",
+			"type": "text",
+			"x": -5880,
+			"y": 4240,
+			"width": 420,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "10f764305ba31924",
+			"styleAttributes": {},
+			"text": " Modulations:\n- Direct / Enharmonic\n- Common Tone / Altered Common Tone\n- Pivot Chord\n- Chromatic\n- Parallel\n- Sequential (Rosalia)\n- _Chain_: dominant cycles / Coltrane Changes (move in maj 3rds)\n---\n- _Intergrate_: other elements\n- _Evolve_\n- _Expand_: add bits, take it on a journey\n- _Variation_: the same but different\n- _Reflection_: retrograde, imitate, inversion\n- _Reduction_: pare it back\n- _Annihilation_: destroy / bin\n---\n- _Voicing Transformations_: clockwise / counterclockwise / one voice constant\n- _Add/Remove Notes/Chords_: upper structure extensions/alterations, suspension, slash chords\n- _Secondary Dominants_\n- _Tritone Substitution_\n- _Diminished Passing Chord_\n- _Pedal Point / Ostinato_\n- _Superimpose_: one chord over another\n",
+			"type": "text",
+			"x": -5440,
+			"y": 4240,
+			"width": 400,
+			"height": 780,
+			"color": "5"
+		},
+		{
+			"id": "b7e01d14396fa261",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n- _Musicalyst_: genre descriptors (6337)\n- _Every Nosie at Once_: sound examples (6261)",
+			"type": "text",
+			"x": -5020,
+			"y": 4770,
+			"width": 620,
+			"height": 140,
+			"color": "5"
+		},
+		{
+			"id": "96f193255bf3dbe5",
+			"styleAttributes": {},
+			"text": "For Screenshots / Figures",
+			"type": "text",
+			"x": -5910,
+			"y": 3600,
+			"width": 250,
+			"height": 60
+		},
+		{
+			"file": "Table-of-Creativity-Models.md",
+			"id": "128c9dbf279573a3",
+			"styleAttributes": {},
+			"type": "file",
+			"x": -5470,
+			"y": -1280,
+			"width": 710,
+			"height": 1040
+		},
+		{
+			"id": "543d62f1604653ab",
+			"styleAttributes": {},
+			"text": "###  PDSA CYCLE \n- _Plan_: define objective, make predictions of outcome, who, what, where, why, when, determine the data you'll need to measure success\n- _Do_: implement the plan, collect data, test on small scale first (minimum viable product)\n- _Study (Check)_: analyse the data, compare to predictions, reflect on what you've learned, what went well, what went wrong\n- _Act_: decide which changes are need to further improve the process",
+			"type": "text",
+			"x": -6200,
+			"y": -1280,
+			"width": 700,
+			"height": 320,
+			"color": "2"
+		},
+		{
+			"id": "9672ac2a96788dce",
+			"styleAttributes": {},
+			"text": "###  OSBORN-PARNES MODEL \n- _Mess-Finding (Objective Finding)_: determine goals\n- _Fact-Finding_: gather data\n- _Problem-Finding_: dig deeper, define problem, work on right problem\n- _Idea Finding_: brainstorming, organise results\n- _Solution-Finding_: set selection criteria, evaluate\n- _Action-Finding_: implementing the solution, plan of action",
+			"type": "text",
+			"x": -6940,
+			"y": -1280,
+			"width": 700,
+			"height": 320,
+			"color": "2"
+		},
+		{
+			"id": "a074831c6efe492a",
+			"styleAttributes": {},
+			"text": "###  UNIVERSAL TRAVELLER MODEL \n- _Accept the Situation_: see it as a challenge\n- _Analyse_: discover the 'worth of the problem'\n- _Define_: main issues and goals\n- _Ideate_: generate options\n- _Select_: choose among options\n- _Implement_: give physical form to the idea\n- _Evaluate_: review and plan again",
+			"type": "text",
+			"x": -6940,
+			"y": -920,
+			"width": 700,
+			"height": 320,
+			"color": "2"
+		},
+		{
+			"id": "e46a3f58f3bdbc73",
+			"styleAttributes": {},
+			"text": "###  STAGES OF PROBLEM SOLVING \n- _Problem Framing_: problem identification and/or construction\n- _Divergence_: wide range of possibilities explored\n- _Emergence_: order from chaos, begin to shed light, not clearly defined yet, stay on target, focus on solving the right problem)\n- _Convergence_: evaluating alternative solutions, summarising, categorising\n- _Testing_: check the solution works, small contained area, MVP\n- _Implementation_: put solution into practice\n\n(Cotton, 2016)",
+			"type": "text",
+			"x": -6200,
+			"y": -920,
+			"width": 700,
+			"height": 320,
+			"color": "2"
+		},
+		{
+			"id": "2a278ec14374e905",
+			"styleAttributes": {},
+			"text": "###  CREATIVE STRATEGIC PLANNING \n- _Analysis_: standard planning, insight development\n- _Creativity_: creative leaps, strategic connections\n- _Judgement_: concept building, critical judgement\n- _Planning_: action planning, creative contingency planning\n- _Action_: flexible implementation, monitoring results",
+			"type": "text",
+			"x": -6940,
+			"y": -560,
+			"width": 700,
+			"height": 320,
+			"color": "2"
+		},
+		{
+			"id": "7fde077105bfb648",
+			"styleAttributes": {},
+			"text": "###  MUSICAL CREATIVITY MODEL \n- _What is the Open Question?_: what are you trying to achieve\n- _Describe the Context_: attributes, elements, structure, class\n- _Identify the Critical Concept_: the spine\n- _Inspect the Concept's Walls_: limitations, tacit knowledge, assumptions\n- _Soften the Walls_: malleable limits, alter perception, ask 'what if?'\n- _Extend the Walls_: ask how, question formal objects and rules\n- _Test Your Extension_: put into practice, create something, experiment, evaluate",
+			"type": "text",
+			"x": -6200,
+			"y": -560,
+			"width": 700,
+			"height": 320,
+			"color": "2"
+		},
+		{
+			"id": "d3ec2cb14918ae54",
+			"styleAttributes": {},
+			"text": "### POLYA CHECKLIST STAGE 1\n\n### UNDERSTANDING THE PROBLEM\n- What is unknown?\n- What are the data?\n- What is the condition?\n- Draw a figure\n- Introduce suitable notation\n- Separate the parts of the condition\n- Keep only part of the condition",
+			"type": "text",
+			"x": -6940,
+			"y": 180,
+			"width": 720,
+			"height": 260,
+			"color": "3"
+		},
+		{
+			"id": "66264287ef617596",
+			"styleAttributes": {},
+			"text": "### POLYA CHECKLIST STAGE 2\n\n### DEVISING A PLAN\n- Find the connections (between data and unknown, consider auxiliary problems)\n- Have you seen this before? (Or in a slightly different form)\n- Has this been solved before? (Or something similar)\n- Restate the question\n- Go back to definitions\n- Seek an analogy\n- Can you solve part of the problem?\n- Can you solve a related problem?\n- Can you derive something useful from what you have?\n- What other data or materials do you need to solve this?\n- Introduce some auxiliary element (or a condition)\n- How can the problem or conditions vary?\n- Can you change the unknown and/or data to bring them closer together?\n- Have you used all of the data or materials?\n- Where should you start?\n- What can you gain by doing it again (repetition)?\n- Reduction (simplify the problem)\n- Decompose and recombine\n- Make a guess. Examine the guess",
+			"type": "text",
+			"x": -6940,
+			"y": 460,
+			"width": 720,
+			"height": 560,
+			"color": "3"
+		},
+		{
+			"id": "177ca5707a929df1",
+			"styleAttributes": {},
+			"text": "### FIRST PRINCIPLES THINKING\n\n- _Make Your Requirements Less Dumb_: question your assumptions, soften the walls\n- _Delete a Part or Process_: if you're not regularly adding things back in, you're not removing enough\n- _Simplify or Optimise_: important that you do the previous steps first. We are geared to answer questions or solve problems, even ones that don’t _need_ answering or solving or that will later be deleted\n- _Accelerate_: iterate faster, take action\n- _Automate_: repeatable steps",
+			"type": "text",
+			"x": -6940,
+			"y": 1040,
+			"width": 720,
+			"height": 260,
+			"color": "3"
+		},
+		{
+			"id": "b567caa07872daaa",
+			"styleAttributes": {},
+			"text": "### JANUSIAN CARDS\n\nDraw a card and choose your side (my original janiform prompts):\n- _What is your starting point?_ | _What is the result or outcome?_\n- _Start in the wrong place_ | _Start in the right place_\n- _What is known?_ | _What is unknown?_\n- _What should be included?_ | _What should be excluded?_\n- _What is it similar to?_ | _What is it dissimilar to?_\n- _Add layer_ | _Remove layer_\n- _Add element_ | _Remove element_\n- _Add a restriction_ | _Remove a restriction_\n- _Connections_ | _Separations_\n- _Be specific_ | _Be vague_\n- _Imagine the impossible_ | _Think of the most likely_\n- _Imagine the best case scenario_ | _Imagine the worst case scenario_\n- _What is the most challenging aspect?_ | _What is the easiest aspect?_\n- _Draw a figure (represent the pieces of the idea or problem)_ | _Make the pieces physical_\n- _What inspired you recently?_ | _What did you dislike recently?_\n- _Create a metaphor/analogy/simile_ | _Describe the problem or idea to a child_\n- _Where is the edge?_ | _Where is the centre?_\n- _Micro to macro_ | _Macro to micro_\n- _Surround it_ | _Let it breathe_\n- _Quote someone else's work_ | _Quote the inverse of someone else's work_\n- _Borrow / steal_ | _Take an idea and do the opposite_\n- _Imagine the opposite_ | _Imagine it replicating / tessellating_\n- _Double down_ | _Abandon this line_\n- _Change the playing field_ | _Return to the well_\n- _Interleave_ | _Group / sort by type_\n- _Consider the positive_ | _Consider the negative_\n- _Add a constraint_ | _Drop a constraint_\n- _Take it to the extreme_ | _Play it safe_\n- _Simplify it_ | _Complicate it_\n- _Repeat it (X times)_ | _Make it unique / use it only once_\n- _Change_ and _into_ or | _Change_ or _into_ and\n- _Add symmetry_ | _Add asymmetry_\n- _Focus on function_ | _Focus on form_\n- _Eat the frog_ | _Leave the hard bit until later_\n- _Extrapolate_ | _Interpolate_\n- _Use old knowledge / skills in new ways_ | _Use old knowledge / skills in familiar ways_\n- _Question assumptions_ | _Follow expectations_\n- _Combine_ | _Separate_\n- _Drill down / dig deeper_ | _Rise above / see the bigger picture_\n- _Bifurcate_ | _Merge_\n- _Alter / Modify_ | _Reify / Set in Stone_\n- _Arrange in new constellations_ | _Scatter randomly_\n- _Heads_ | _Tails_ (flip a coin, assign meanings or elements to each side)\n- _Augment_ | _Diminish_\n- _Clockwise_ | _Counterclockwise_\n- _Extend_ | _Truncate_",
+			"type": "text",
+			"x": -4740,
+			"y": -80,
+			"width": 720,
+			"height": 1240,
+			"color": "3"
+		},
+		{
+			"id": "bce0554b43452c62",
+			"styleAttributes": {},
+			"text": "### DEBONO THINKING TOOLS\n\n- _Random Entry Idea Generation_: random word or concept, link it\n- _Provocation_: think false or impossible or ridiculous statements, make them useful\n- _Movement_: focus on positive/negative, differences, general/specific, move focus\n- _Challenge_: question the obvious and conventional\n- _Concept Fan_: think broadly, draw lines out from problem, add off-beat solutions\n- _Disproving_: take something considered obvious and prove it wrong",
+			"type": "text",
+			"x": -5470,
+			"y": -80,
+			"width": 700,
+			"height": 260,
+			"color": "3"
+		},
+		{
+			"id": "8c94ddaff1b71f33",
+			"styleAttributes": {},
+			"text": "### WISE FOOL STRATEGIES\n\n- _Buck the Crowd_\n- _Flex Your Risk Muscle_\n- _Laugh at it_\n- _Seek Other Right Answers_\n- _Keep Playing with It_\n- _Reverse Your Perspective_\n- _Fool Around with Constraints_\n- _Build on an Odd Idea_\n- _Look for Ambiguity_\n- _See the Obvious_\n- _Use Your Forgettery_\n- _Drop What's Obsolete_\n- _Kiss a Favourite Idea Goodbye_\n- _Revisit a Discarded Idea_\n- _Find What's Out of Whack_\n- _Stop Fooling Yourself_\n- _Exercise Humility_\n- _Imagine the Unintended_\n- _Develop a Thick Skin_\n- _Shed an Illusion_",
+			"type": "text",
+			"x": -5470,
+			"y": 600,
+			"width": 340,
+			"height": 560,
+			"color": "3"
+		},
+		{
+			"id": "3c10a0cbd384244d",
+			"styleAttributes": {},
+			"text": "### BALL OF WHACKS STRATEGIES\n\nIntended for use with a physical creative aid (magnetic puzzle pieces) but useful as interrupters for processes or thoughts even without that\n\n- _Rearrange_\n- _Combine_\n- _Substitute_\n- _Drop an Assumption_\n- _Find a Pattern_\n- _Simplify_\n- _See the Obvious_\n- _Laugh At It_\n- _Reverse_\n- _Make Use of the Random_\n- _Imagine How Others Would Do It_\n- _Compare_\n- _Look to Nature_\n- _Ask a Fool_",
+			"type": "text",
+			"x": -5110,
+			"y": 600,
+			"width": 340,
+			"height": 560,
+			"color": "3"
+		},
+		{
+			"id": "377d3b622ad4a3ea",
+			"styleAttributes": {},
+			"text": "### WORDS\n\n- _Draw set of Random Words_ (2-5) - Combine them. Allow your conceptual blending to go deeper and more distant by generating more ideas without judgement, getting the most obvious ones out of the way\n",
+			"type": "text",
+			"x": -5470,
+			"y": 1180,
+			"width": 700,
+			"height": 120,
+			"color": "3"
+		},
+		{
+			"id": "a288386c9bc98f84",
+			"styleAttributes": {},
+			"text": "### OTHER\n\n- _Distraction Cards / Procrastination Cards_ - time limited, related / tangential\n\t- explore your tools\n",
+			"type": "text",
+			"x": -4740,
+			"y": 1180,
+			"width": 720,
+			"height": 120,
+			"color": "3"
+		},
+		{
+			"id": "e2142b1307d5ef68",
+			"styleAttributes": {},
+			"text": "##   MUSICAL INGREDIENTS ",
+			"type": "text",
+			"x": -1270,
+			"y": 2900,
+			"width": 380,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "ab64ef04005e8578",
+			"styleAttributes": {},
+			"text": "##   MUSICAL INGREDIENTS ",
+			"type": "text",
+			"x": -120,
+			"y": 2780,
+			"width": 380,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "f0245857c1adbf8d",
+			"styleAttributes": {},
+			"text": "##   MUSICAL INGREDIENTS ",
+			"type": "text",
+			"x": 1010,
+			"y": 2900,
+			"width": 380,
+			"height": 60,
+			"color": "5"
+		},
+		{
+			"id": "508ca4431c3c9089",
+			"styleAttributes": {},
+			"text": "###  CANTOMETRIC CHARACTER \n1. _Vocables_ - 1-5 (few-many)\n2. _Interval size_ - 1-2 (small-large)\n3. _Enunciation_ - 1-5 (precise-slurred)\n4. _Instrument-voice relation_ - a-f (a cappella-interlock)\n5. _Instrumental response_ - a-e (solo-interlock)\n6. _Instrumental texture_ - a-d (a cappella-multipart)]\n7. _Instrumental rhythmic blend_ - 1-5 (individualised-unified)\n8. _Instrumental rhythmic texture_ - a-e (a cappella-polyrhythmic)\n9. _Volume_ - 1-3 (loud-soft)\n10. _Register_ - 1-3 (high-low)\n11. _Accent_ - 1-3 (forceful-relaxed)\n12. _Solo/group arrangement_ - a-d (solo-group dominated)\n13. _Vocal texture_ - a-d (solo-multipart)\n14. _Tonal blend_ - 1-4 (individualised-unified)\n15. _Rhythmic blend _- 1-5 (individualised-unified)\n16. _Vocal rhythmic texture_ - a-c (heterophonic-polyrhythmic)\n17. _Embellishment_ - 1-4 (much-little)\n18. _Glissando_ - 1-4 (much-little)\n19. _Melisma_ - 1-3 (much-little)\n20. _Vibrato_ - 1-3 (much-little)\n21. _Glottal shake_ - 1-3 (much-little)\n22. _Vocal width_ - 1-3 (narrow-wide)\n23. _Nasalisation_ - 1-4 (much-little)\n24. _Raspiness_ - 1-4 (much-little)\n25. _Meter_ - a-e (free-complex regular)\n26. _Instrumental Meter_ - a-e (free-complex regular)\n27. _Phrase length_ - 1-3 (long-short)\n28. _Tempo_ - 1-6 (slow-fast)\n29. _Vocal rubato_ - 1-4 (much-little)\n30. _Instrumental rubato_ - 1-4 (much-little)\n31. _Melodic form_ - a-f (through composed-canon)\n32. _Number of phrases_ - 1-5 (many-few)\n33. _Melodic contour_ - a-d (arched-descending)\n34. _Final tone position_ - 1-3 (low-high)\n35. _Melodic range_ - 1-3 (small-large)\n36. _Polyphonic type_ - a-c (drone-counterpoint)",
+			"type": "text",
+			"x": -2820,
+			"y": 3260,
+			"width": 620,
+			"height": 955,
+			"color": "5"
+		},
+		{
+			"id": "f4f5f4544afffe88",
+			"styleAttributes": {},
+			"text": "### OSBORN'S SELF-INTERROGATION QUESTIONS\n\n_Put to Other Uses_\n- new ways to use it as is?\n- other uses if modified?\n\n_Adapt_\n- what else is like this?\n- what other ideas does this suggest?\n- does the past offer a parallel?\n- what could I copy?\n- whom could I emulate?\n\n_Modify_\n- new twist?\n- change meaning, colour, motion, sound, odour, form, shape?\n- other changes?\n\n_Magnify_\n- what to add?\n- more time?\n- greater frequency?\n- stronger, higher, longer, thicker?\n- extra value?\n- plus ingredient?\n- duplicate?\n- multiply?\n- exaggerate?\n\n_Minify_\n- what to subtract?\n- smaller, miniature?\n- condensed?\n- lower, shorter, lighter, thinner?\n- omit?\n- streamline?\n- split up?\n- understate?",
+			"type": "text",
+			"x": 4160,
+			"y": -585,
+			"width": 660,
+			"height": 1000,
+			"color": "3"
+		},
+		{
+			"id": "8753fec788eb95f1",
+			"styleAttributes": {},
+			"text": "_Substitute_\n- who else instead?\n- what else instead?\n- other ingredient, material, process, power, place, approach, tone of voice?\n\n_Rearrange_\n- internal components?\n- other pattern, layout, sequence?\n- transpose cause & effect?\n- change pace?\n- change schedule?\n\n_Reverse_\n- transpose positive & negative?\n- opposites?\n- turn it backwards?\n- turn it upside down?\n- reverse roles?\n- change shoes?\n- turn tables?\n- turn the other cheek?\n\n_Combine_\n- blend?\n- alloy?\n- assortment?\n- ensemble?\n- combine units, purposes, appeals, ideas",
+			"type": "text",
+			"x": 4840,
+			"y": -585,
+			"width": 580,
+			"height": 1000,
+			"color": "3"
+		},
+		{
+			"id": "98d336b2fb4d7fdf",
+			"styleAttributes": {},
+			"text": "NOTES\n \n- _Current Reality_ - state of the idea, problem, creation right now, as it stands (Fritz, 1991)\n- _Idea's Walls_ - \"properties, characteristics, and specificities\" of it's current \"explicit form\" (Mazzola et al, 2011, pp.17–18) ",
+			"type": "text",
+			"x": 2300,
+			"y": -2600,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "3fcf75844b2c4259",
+			"styleAttributes": {},
+			"text": "##  PERSONA (lyrics, voice, POV)",
+			"type": "text",
+			"x": -2140,
+			"y": 4940,
+			"width": 2120,
+			"height": 50,
+			"color": "5"
+		},
+		{
+			"id": "d3ad03649802170b",
+			"styleAttributes": {},
+			"text": "###  BORROW \n- Seeded Exemplar\n- Inspiration Playlist\n- Random Selection\n- Lyric Ideas Reservoir\n- Word Cloud",
+			"type": "text",
+			"x": -2140,
+			"y": 5000,
+			"width": 620,
+			"height": 560,
+			"color": "5"
+		},
+		{
+			"id": "cc84edb99bca2629",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n\n- AI Tools (LLMs)\n- List all related concepts to your core idea (Collier)\n- Boxes (Pattison)\n\nFive Compositional Elements (Pattison)\n1. Number of Lines\n2. Matched or Unmatched Line Lengths\n3. Rhyme Scheme\n4. Rhyme Types\n5. Rhythms of Lines\n\nRhyme Scheme:\n- _a a_: couplet (stable)\n- _x a x a_: quatrain (stable)\n- _x x a a_: deceptive cadence (unstable)\n- _a b a b_: interleaved (stable)\n- _a a b b_: two couplets (stable)\n- _a b b a_: retrograde (unbalanced)\n\n",
+			"type": "text",
+			"x": -1500,
+			"y": 5000,
+			"width": 380,
+			"height": 560,
+			"color": "5"
+		},
+		{
+			"id": "294e79121d3fb2ce",
+			"styleAttributes": {},
+			"text": "Rhyme Types (Pattison):\n- _Perfect_: identical vowel and consonant sounds (most stable)\n- _Family_: identical vowel, phonetically related consonant (stable)\n- _Additive_: adding to open vowels (cry/ride) (stable/unstable)\n- _Subtractive_: remove consonant, shorten (speed/free) (stable/unstable)\n- _Assonance_: only thing in common is vowel sounds (unstable)\n- _Consonance_: different vowels, same ending consonant (most unstable)",
+			"type": "text",
+			"x": -1100,
+			"y": 5000,
+			"width": 440,
+			"height": 560,
+			"color": "5"
+		},
+		{
+			"id": "9178297b4ce458c4",
+			"styleAttributes": {},
+			"text": "###  MODIFY \n\nCreate Contrast (Stolpe):\n- Make lines longer / shorter\n- Use repetition and internal repetition\n- Abstract & Metaphorical vs. Direct & Conversational\n- Tense (past / present / future)\n- POV (1st / 2nd /3rd singular / plural)\n\nCollier:\n- Experiment with personas, perspectives, points of view\n- Enjambment\n- Word-Painting (Prosody): Paint the harmony and melody with the feelings your words and phrases evoke\n\n",
+			"type": "text",
+			"x": -640,
+			"y": 5000,
+			"width": 620,
+			"height": 560,
+			"color": "5"
+		},
+		{
+			"id": "b767a7a767d9112d",
+			"styleAttributes": {},
+			"text": "##  PROCESSES",
+			"type": "text",
+			"x": -2140,
+			"y": 5580,
+			"width": 2120,
+			"height": 50,
+			"color": "5"
+		},
+		{
+			"id": "75a5da2c9ffae7d3",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n\nNyman Categories:\n- _Chance Determination_: system makes the choices\n\t- musical dice\n\t- I Ching\n\t- random number generator\n\t- straws / sticks (Cage)\n\t- coins / cards\n- _People_: performer moving through the piece makes the choices\n\t- Cobra (Zorn)\n\t- Improvisation\n- _Contextual_: unpredictable conditions / variables arise from the music\n- _Repetition_: movement generated by extended repetition\n\t- Piano Phase (Reich)\n- _Electronic_:\n\t- It's Gonna Rain (Reich)\n- _Mathematical_: manipulation of material by permutations, addition, subtraction, rate changes, etc.\n\nBranching Grammar:\n- L-Systems\n- Iterated Function Systems\n\n",
+			"type": "text",
+			"x": -1500,
+			"y": 5640,
+			"width": 840,
+			"height": 580,
+			"color": "5"
+		},
+		{
+			"id": "d44b83d44707db13",
+			"styleAttributes": {},
+			"text": "###  BORROW \n\n\n- From other composers\n- Serialism  \n- Formal Operations  \n- Mathematical  \n- Codes & Cryptograms",
+			"type": "text",
+			"x": -2140,
+			"y": 5640,
+			"width": 620,
+			"height": 580,
+			"color": "5"
+		},
+		{
+			"id": "c12ccea2a4b0b906",
+			"styleAttributes": {},
+			"text": "###  MODIFY \n\n\nLigeti Transformations & Processes:\n- Expand / Contract Pitch Space\n- Increase / Decrease Interval Size\n- Hollow Out Tonal Soundscape (then fill the void)\n- Increase / Decrease Tempo\n- Increase / Decrease Volume\n- Emergent Patterns of Accents\n\nChristensen Categories:\n- Rule-Determined Transformation\n- Goal-Directed Transformation\n- Indeterminate Transformation\n\nVarése Transformations:\n- _Crystallisation_: take fragments and extrapolate recursively to structure and elements\n- _Projection_\n- _Rotation_\n- _Unfolding & Infolding_",
+			"type": "text",
+			"x": -640,
+			"y": 5640,
+			"width": 620,
+			"height": 580,
+			"color": "5"
+		},
+		{
+			"id": "805426eea8ba8aef",
+			"styleAttributes": {},
+			"text": "##   ARRANGEMENT (SOUNDBOX)",
+			"type": "text",
+			"x": -2140,
+			"y": 4260,
+			"width": 2120,
+			"height": 50,
+			"color": "5"
+		},
+		{
+			"id": "72a1dd9ca6fbd8c2",
+			"styleAttributes": {},
+			"text": "###  BORROW \n- Seeded Exemplar\n- Inspiration Playlist\n- Random Selection",
+			"type": "text",
+			"x": -2140,
+			"y": 4320,
+			"width": 620,
+			"height": 600,
+			"color": "5"
+		},
+		{
+			"id": "9d1b4b6d150fd7b0",
+			"styleAttributes": {},
+			"text": "###  GENERATE \n\nMusical Texture:\n- _Monophony_\n- _Homophony_ (monody, homorhythmic / chorale)\n- _Polyphony_ (counterpoint)\n\t- similar / contrary / oblique motion\n- _Heterophony_\n\nEvents & Gestures:\n- _Unique Events_: one-off moments of musical interest\n- _Single Events_: short samples / sounds placed strategically (transitions, word-painting, etc.)\n- _Single Musical Gestures_: short one-off phrases that break existing patterns or loops\n- _Single Processing Gestures_: dramatic one-time effects, throws, automations, etc.\n",
+			"type": "text",
+			"x": -1500,
+			"y": 4320,
+			"width": 480,
+			"height": 600,
+			"color": "5"
+		},
+		{
+			"id": "2da9f412488b79f4",
+			"styleAttributes": {},
+			"text": "Listener Focus (spotlights):\n- _Complexity / Activity_: more activity draws more attention\n- _Novelty_: presented with new and familiar material, new stands out\n- _Loudness_: in parts of equal complexity, louder elements stand out\n- _Timbral Richness_: in parts of equal complexity, richer stands out (alterations to timbre affect expressive charge)\n\nNote Speed Variation:\n- Increase / Decrease Note Density\n- Complexity (difference, divisions)\n\n3D Sound Stage:\n- _High/Low_: frequency\n- _Left/Right_: panning\n- _Forward/Back (depth)_: reverb, eq, compression\n\nSense of Space (Proxemics):\n- _Intimate Space_: whispered, dry vocal\n- _Private Space_: sung, spoken vocal\n- _Social Space_: chorus, gang vocal\n- _Public Space_: crowd, shouted vocal",
+			"type": "text",
+			"x": -640,
+			"y": 4320,
+			"width": 620,
+			"height": 600,
+			"color": "5"
+		},
+		{
+			"id": "eb2d9b3c18cbe530",
+			"styleAttributes": {},
+			"text": "###  MODIFY \n\n\nDynamics:\n- Soft / Loud\n- Crescendo / Decrescendo\n- Add / Remove Accents\n\nTexture:\n- Vertical (cluster, stack)\n- Horizontal (note values, rests)\n- Arpeggio\n- Pad\n- Alberti Bass\n- Ostinato\n\n4 Textural Layers (Moore):\n- Melodic Layer\n- Bass Layer\n- Explicit Beat / Rhythmic Layer\n- Harmonic Filler\n\n",
+			"type": "text",
+			"x": -1000,
+			"y": 4320,
+			"width": 345,
+			"height": 600,
+			"color": "5"
+		},
+		{
+			"id": "25181e1816bdc2d8",
+			"styleAttributes": {},
+			"text": "### THEORY",
+			"type": "text",
+			"x": -6000,
+			"y": 5340,
+			"width": 160,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "cdc8ff8615a9e121",
+			"styleAttributes": {},
+			"text": "### MODEL",
+			"type": "text",
+			"x": -5780,
+			"y": 5340,
+			"width": 160,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "e9216e137330ec29",
+			"styleAttributes": {},
+			"text": "### TOOL",
+			"type": "text",
+			"x": -5560,
+			"y": 5340,
+			"width": 160,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "d0ffe6b554e23565",
+			"styleAttributes": {},
+			"text": "### ARTEFACT",
+			"type": "text",
+			"x": -5340,
+			"y": 5340,
+			"width": 160,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "f4280a97b144e3fa",
+			"styleAttributes": {
+				"border": "dotted"
+			},
+			"text": "### Yellow",
+			"type": "text",
+			"x": -220,
+			"y": -1945,
+			"width": 220,
+			"height": 50,
+			"color": "3"
+		},
+		{
+			"id": "72ad9c41226f03f6",
+			"styleAttributes": {
+				"border": "dotted"
+			},
+			"text": "#### GREEN",
+			"type": "text",
+			"x": -220,
+			"y": -1865,
+			"width": 220,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "aa2d5b5e61cbb989",
+			"styleAttributes": {
+				"border": "dotted"
+			},
+			"text": "## BLUE",
+			"type": "text",
+			"x": -220,
+			"y": -1785,
+			"width": 220,
+			"height": 50,
+			"color": "6"
+		},
+		{
+			"id": "a6853b2b7b89cb69",
+			"styleAttributes": {
+				"border": "dotted",
+				"shape": null
+			},
+			"text": "_Stages_ of the creative process",
+			"type": "text",
+			"x": 30,
+			"y": -1950,
+			"width": 370,
+			"height": 60
+		},
+		{
+			"id": "728b82d93f007d6b",
+			"styleAttributes": {
+				"border": "dotted",
+				"shape": null
+			},
+			"text": "Divergent  _modes_ & _phases_ of creativity",
+			"type": "text",
+			"x": 30,
+			"y": -1870,
+			"width": 370,
+			"height": 60
+		},
+		{
+			"id": "bbaf27b3ef20e1c2",
+			"styleAttributes": {
+				"border": "dotted",
+				"shape": null
+			},
+			"text": "Convergent _modes_ & _phases_  of creativity",
+			"type": "text",
+			"x": 30,
+			"y": -1790,
+			"width": 370,
+			"height": 60
+		},
+		{
+			"id": "2bfd1d91d2e808db",
+			"styleAttributes": {
+				"border": "invisible"
+			},
+			"text": "## Key:",
+			"type": "text",
+			"x": -240,
+			"y": -2000,
+			"width": 260,
+			"height": 40
+		},
+		{
+			"id": "9af065e7cf209e11",
+			"styleAttributes": {},
+			"text": ">## GENERATION\n\nThis is the stage where ideas are created. The divergent mode focuses on ideational fluency, usually, in this stage, ‘more is better' (Plucker et al 2019, p.45), because \"quality turns out to be (with surprisingly accurate predictive ability) a probabilistic consequence of quantity\" (Baer & Kaufman 2005, p.3). Simonton (2011) calls this _superfluity_, where the creator \"generates more ideas than are strictly necessary\". Moving beyond first ideas is also important, as philosopher Herbert Spencer said, \"early ideas are not usually true ideas.\" (in Osborn 1963, p.131) and \"distant associations and ideas found only after some time has passed tend to be, on average, the most original\" (Runco & Acar 2019, p.235). The convergent mode of this stage is focused on capturing and defining generated ideas. Deferment of judgement is important throughout (Osborn 1963, p.124)\n",
+			"type": "text",
+			"x": -390,
+			"y": 1020,
+			"width": 907,
+			"height": 320,
+			"color": "3"
+		},
+		{
+			"id": "166c2977e7028a96",
+			"styleAttributes": {},
+			"text": ">## EVALUATION\n\nThe evaluation phase involves living with the idea, playing with it, testing and verifying, judging it. In this stage we create nothing new, but instead sift through our results, like panning for gold. You might \"develop a different relationship with your creation than you had while you were working on it\" (Fritz 1991, p.38). You alter your perspective to become the audience for your creation, enabling your to evaluate it and relate to to it \"by virtue of its own merits\" (ibid.). The imbrication of theory and practice that Nelson defines as praxis and vital to Practice-as-Research (PaR) is instantiated here, as Zembylas and Niederauer (2018, p.60) suggest: \"Reflective and conceptual activities [are] inseparable from physical activities\" and their monitoring is, to quote Shove et al (2012, p.100), \"part of, and not somehow outside, the enactments of practice\". \n",
+			"type": "text",
+			"x": -390,
+			"y": 1700,
+			"width": 907,
+			"height": 340,
+			"color": "3"
+		},
+		{
+			"id": "5880cf6052555ea9",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "# The Creativity Engine",
+			"type": "text",
+			"x": -130,
+			"y": -95,
+			"width": 360,
+			"height": 80,
+			"color": "1"
+		},
+		{
+			"id": "4c48b7afb41a8697",
+			"styleAttributes": {},
+			"text": "#### EXAMPLES\n \n - _Associative Priming_\n\t - random words, quotes\n\t - images, sounds\n - _Affect Priming_\n\t - embodied cognition\n\t - system 1 vs. system 2\n - _Achievement Priming_\n\t - indicators of prior achievement, environment associated with achievement\n - _Ideation Priming_\n\t - ideational pools (see _Inspiration_ stage)",
+			"type": "text",
+			"x": -2900,
+			"y": -80,
+			"width": 700,
+			"height": 320
+		},
+		{
+			"id": "519cc16e4a462a3e",
+			"type": "text",
+			"text": "This should be in Associative. The 'random' part beneath it can stay. Perhaps group under title of 'Stochastic Resonance' or 'Serendipity'?",
+			"x": 3860,
+			"y": -1585,
+			"width": 276,
+			"height": 165,
+			"color": "1"
+		},
+		{
+			"id": "0a3d333e16b52df6",
+			"styleAttributes": {},
+			"text": "### OGDEN WORD WHEEL\n\nIn the smallest inner top circle are the words \"will,\" \"would,\" \"may\" and \"might;\" in the second ring are some verbs (\"put,\" \"take,\" \"get,\" \"give,\" \"keep,\" \"let,\" \"have,\" \"make,\" \"come,\" \"go\"); in the third are 12 adjectives like \"simple\" and \"some;\" in the fourth are 20 nouns, like \"sand\" and \"thing;\" in the fifth are 20 directions, like \"on\" and \"across;\" in the sixth are 21 nouns, like \"farm\" and \"edge;\" in the seventh are 10 adverbs and connectives, like \"here\" and \"but.\" By agreeing to put \"a\" or \"the\" where needed and starting the sentence with the word \"I,\" one can get many mechanically produced sentences as one turns each of the wheels independently of each of the others (p.99)\n\nif the elementary form of an action-sentence is \"Take one thing dash another thing,\" there are only 42 words in the set of all Basic English words that can by the wildest stretch of imagination fit where the dash is (Crovitz):\n\n- about across after against among and as \n  - at because before between but by down \n  - for from if in near not now \n  - of off on opposite or out over \n  - round still so then though through till \n  - to under up when where while with",
+			"type": "text",
+			"x": 4120,
+			"y": 500,
+			"width": 600,
+			"height": 620,
+			"color": "3"
+		},
+		{
+			"id": "f70cb18b261a5745",
+			"styleAttributes": {},
+			"text": "### DEBONO THINKING HATS\n\n- _White_: objective, neutral, unbiased, facts\n- _Red_: emotional valure0laden, how thing affects you and others\n- _Black_: cautious, careful, considers the possible downsides, devil's advocate\n- _Yellow_: positive, upbeat, optimistic, best possibilities and outcomes\n- _Green_: creative expanding, growing, broadening\n- _Blue_: cool, unemotional, organising, categorising",
+			"type": "text",
+			"x": -5470,
+			"y": 200,
+			"width": 700,
+			"height": 240,
+			"color": "3"
+		},
+		{
+			"id": "4c888fdc8551d9fc",
+			"styleAttributes": {},
+			"text": "### OGDEN WORD WHEEL\n\n- The elementary form of a statement of an action is \"taking one thing in some relation to another thing.\" The same elementary sentence is the form of a sentence to describe the statement of a discovery, an invention, or, indeed, an idea (p.99)\n\n- if the elementary form of an action-sentence is \"Take one thing dash another thing,\" there are only 42 words in the set of all Basic English words that can by the wildest stretch of imagination fit where the dash is. The words follow (from Crovitz, 1967).\n  - about across after against among and as \n  - at because before between but by down \n  - for from if in near not now \n  - of off on opposite or out over \n  - round still so then though through till \n  - to under up when where while with (pp.99-100)\n",
+			"type": "text",
+			"x": -6540,
+			"y": 1360,
+			"width": 1140,
+			"height": 360,
+			"color": "3"
+		},
+		{
+			"id": "6d71d5f0f110132d",
+			"styleAttributes": {},
+			"text": "### QUESTIONS\n\n- _What would [blank] do?_ - How would [blank] solve this problem? A child, Carl Sagan, a clockwork soldier, a fiendish magpie, a friend, etc. (from Struthless video https://youtu.be/XJa7sE5Q1QA?si=BTkgkvsz4EarnPQr)",
+			"type": "text",
+			"x": -5360,
+			"y": 1360,
+			"width": 700,
+			"height": 180,
+			"color": "3"
+		},
+		{
+			"id": "55b1bb9b0c187932",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Convention",
+			"type": "text",
+			"x": -615,
+			"y": -520,
+			"width": 205,
+			"height": 50,
+			"color": "4"
+		},
+		{
+			"id": "bd0c859f4fe781ae",
+			"styleAttributes": {
+				"textAlign": "center"
+			},
+			"text": "Invention",
+			"type": "text",
+			"x": -840,
+			"y": -520,
+			"width": 205,
+			"height": 50,
+			"color": "4"
+		}
+	]
+}
