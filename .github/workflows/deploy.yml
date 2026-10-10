@@ -18,14 +18,19 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Cache Quartz plugins
+        uses: actions/cache@v5
+        with:
+          path: .quartz/plugins
+          key: quartz-plugins-${{ hashFiles('quartz.lock.json') }}
       - name: Restore Quartz plugins
         run: npx quartz plugin restore
       - name: Build Quartz
